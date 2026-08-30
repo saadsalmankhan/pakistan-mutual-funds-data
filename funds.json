@@ -8,7 +8,10 @@
       "offerPrice": 10.54,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 31, 2010",
+      "expenseRatio": 1.15,
+      "managementFee": 0.7
     },
     {
       "fundId": "14347",
@@ -18,7 +21,10 @@
       "offerPrice": 10.43,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 01, 2023",
+      "expenseRatio": 1.35,
+      "managementFee": 1
     },
     {
       "fundId": "15209",
@@ -28,7 +34,10 @@
       "offerPrice": 0,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 04, 2026",
+      "expenseRatio": 0.14,
+      "managementFee": 0
     },
     {
       "fundId": "15168",
@@ -38,7 +47,10 @@
       "offerPrice": 0,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 29, 2026",
+      "expenseRatio": 0.15,
+      "managementFee": 0
     },
     {
       "fundId": "15188",
@@ -48,7 +60,10 @@
       "offerPrice": 0,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 15, 2026",
+      "expenseRatio": 0.18,
+      "managementFee": 0.01
     },
     {
       "fundId": "15225",
@@ -58,7 +73,10 @@
       "offerPrice": 0,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 12, 2026",
+      "expenseRatio": 0.14,
+      "managementFee": 0
     },
     {
       "fundId": "15195",
@@ -68,7 +86,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 27, 2026",
+      "expenseRatio": 0.2,
+      "managementFee": 0
     },
     {
       "fundId": "15196",
@@ -78,7 +99,10 @@
       "offerPrice": 0,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 27, 2026",
+      "expenseRatio": 0.2,
+      "managementFee": 0
     },
     {
       "fundId": "14657",
@@ -88,7 +112,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 23, 2024",
+      "expenseRatio": 0.4,
+      "managementFee": 0.2
     },
     {
       "fundId": "14668",
@@ -98,7 +125,10 @@
       "offerPrice": 0,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 23, 2024",
+      "expenseRatio": 0.4,
+      "managementFee": 0.2
     },
     {
       "fundId": "14975",
@@ -108,7 +138,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 26, 2025",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "14974",
@@ -118,7 +151,10 @@
       "offerPrice": 0,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 26, 2025",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "12767",
@@ -128,7 +164,10 @@
       "offerPrice": 10.53,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 29, 2011",
+      "expenseRatio": 1.66,
+      "managementFee": 1.25
     },
     {
       "fundId": "12765",
@@ -138,7 +177,10 @@
       "offerPrice": 10.56,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 19, 2008",
+      "expenseRatio": 1.71,
+      "managementFee": 1.25
     },
     {
       "fundId": "12786",
@@ -148,7 +190,10 @@
       "offerPrice": 10.49,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 31, 2018",
+      "expenseRatio": 2.64,
+      "managementFee": 0.2
     },
     {
       "fundId": "12793",
@@ -158,7 +203,10 @@
       "offerPrice": 10.33,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 13, 2020",
+      "expenseRatio": 0.71,
+      "managementFee": 0.15
     },
     {
       "fundId": "12804",
@@ -168,7 +216,10 @@
       "offerPrice": 17.34,
       "category": "Shariah Compliant Dedicated Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 19, 2016",
+      "expenseRatio": 6.6,
+      "managementFee": 3
     },
     {
       "fundId": "12780",
@@ -178,7 +229,10 @@
       "offerPrice": 83.71,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 22, 2015",
+      "expenseRatio": 1.04,
+      "managementFee": 1
     },
     {
       "fundId": "12788",
@@ -188,7 +242,10 @@
       "offerPrice": 0,
       "category": "Shariah Compliant Fund of Funds - CPPI",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 29, 2019",
+      "expenseRatio": 1.2,
+      "managementFee": 1
     },
     {
       "fundId": "12776",
@@ -198,7 +255,10 @@
       "offerPrice": 120.33,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 22, 2015",
+      "expenseRatio": 1.11,
+      "managementFee": 1
     },
     {
       "fundId": "12769",
@@ -208,7 +268,10 @@
       "offerPrice": 10.63,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 31, 2010",
+      "expenseRatio": 2.63,
+      "managementFee": 0.55
     },
     {
       "fundId": "14623",
@@ -218,7 +281,10 @@
       "offerPrice": 10.44,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 22, 2023",
+      "expenseRatio": 0.77,
+      "managementFee": 0.55
     },
     {
       "fundId": "12802",
@@ -228,7 +294,10 @@
       "offerPrice": 621.89,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Aug 20, 2014",
+      "expenseRatio": 2.73,
+      "managementFee": 1.5
     },
     {
       "fundId": "12803",
@@ -238,7 +307,10 @@
       "offerPrice": 246.22,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2014",
+      "expenseRatio": 1.04,
+      "managementFee": 0.4
     },
     {
       "fundId": "12801",
@@ -248,7 +320,10 @@
       "offerPrice": 242.72,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2014",
+      "expenseRatio": 1.59,
+      "managementFee": 0.6
     },
     {
       "fundId": "14692",
@@ -258,7 +333,10 @@
       "offerPrice": 10.61,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 22, 2024",
+      "expenseRatio": 4.71,
+      "managementFee": 0.55
     },
     {
       "fundId": "12772",
@@ -268,7 +346,10 @@
       "offerPrice": 33.02,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jun 11, 2013",
+      "expenseRatio": 4.57,
+      "managementFee": 3
     },
     {
       "fundId": "14613",
@@ -278,7 +359,10 @@
       "offerPrice": 10.44,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 15, 2023",
+      "expenseRatio": 1.18,
+      "managementFee": 0.15
     },
     {
       "fundId": "14913",
@@ -288,7 +372,10 @@
       "offerPrice": 10.34,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 03, 2025",
+      "expenseRatio": 2.68,
+      "managementFee": 1.15
     },
     {
       "fundId": "12798",
@@ -298,7 +385,10 @@
       "offerPrice": 401.22,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2014",
+      "expenseRatio": 0.93,
+      "managementFee": 0.6
     },
     {
       "fundId": "12799",
@@ -308,7 +398,10 @@
       "offerPrice": 678.62,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Aug 20, 2014",
+      "expenseRatio": 2.4,
+      "managementFee": 1.5
     },
     {
       "fundId": "12800",
@@ -318,7 +411,10 @@
       "offerPrice": 303.34,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2014",
+      "expenseRatio": 0.68,
+      "managementFee": 0.4
     },
     {
       "fundId": "12789",
@@ -328,7 +424,10 @@
       "offerPrice": 10.42,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 19, 2019",
+      "expenseRatio": 0.66,
+      "managementFee": 0.45
     },
     {
       "fundId": "12790",
@@ -338,7 +437,10 @@
       "offerPrice": 11.2,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 20, 2019",
+      "expenseRatio": 0.23,
+      "managementFee": 0.08
     },
     {
       "fundId": "12791",
@@ -348,7 +450,10 @@
       "offerPrice": 10.65,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 11, 2019",
+      "expenseRatio": 0.39,
+      "managementFee": 0.12
     },
     {
       "fundId": "12792",
@@ -358,7 +463,10 @@
       "offerPrice": 10.46,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 06, 2019",
+      "expenseRatio": 0.2,
+      "managementFee": 0.03
     },
     {
       "fundId": "12794",
@@ -368,7 +476,10 @@
       "offerPrice": 10.44,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 26, 2021",
+      "expenseRatio": 1.35,
+      "managementFee": 0.95
     },
     {
       "fundId": "12796",
@@ -378,7 +489,10 @@
       "offerPrice": 10.38,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 05, 2022",
+      "expenseRatio": 0.39,
+      "managementFee": 0.2
     },
     {
       "fundId": "12766",
@@ -388,7 +502,10 @@
       "offerPrice": 38.45,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 28, 2009",
+      "expenseRatio": 4.26,
+      "managementFee": 3
     },
     {
       "fundId": "12805",
@@ -398,7 +515,10 @@
       "offerPrice": 57,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 22, 2007",
+      "expenseRatio": 1.96,
+      "managementFee": 1.5
     },
     {
       "fundId": "15094",
@@ -408,7 +528,10 @@
       "offerPrice": 53,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 10, 2026",
+      "expenseRatio": 1.09,
+      "managementFee": 0.5
     },
     {
       "fundId": "12809",
@@ -418,7 +541,10 @@
       "offerPrice": 53,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 20, 2012",
+      "expenseRatio": 0.6,
+      "managementFee": 0.35
     },
     {
       "fundId": "12807",
@@ -428,7 +554,10 @@
       "offerPrice": 41,
       "category": "Index Tracker",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Oct 11, 2005",
+      "expenseRatio": 1.27,
+      "managementFee": 0.75
     },
     {
       "fundId": "12813",
@@ -438,7 +567,10 @@
       "offerPrice": 51.2,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 17, 2023",
+      "expenseRatio": 0.53,
+      "managementFee": 0.25
     },
     {
       "fundId": "12810",
@@ -448,7 +580,10 @@
       "offerPrice": 55,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 20, 2018",
+      "expenseRatio": 1.46,
+      "managementFee": 1
     },
     {
       "fundId": "12811",
@@ -458,7 +593,10 @@
       "offerPrice": 112,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Feb 20, 2018",
+      "expenseRatio": 5.03,
+      "managementFee": 3
     },
     {
       "fundId": "12806",
@@ -468,7 +606,10 @@
       "offerPrice": 239,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Mar 31, 2006",
+      "expenseRatio": 4.44,
+      "managementFee": 3
     },
     {
       "fundId": "13137",
@@ -478,7 +619,10 @@
       "offerPrice": 104.42,
       "category": "Shariah Compliant Aggressive Fixed Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 20, 2007",
+      "expenseRatio": 1.16,
+      "managementFee": 1
     },
     {
       "fundId": "13189",
@@ -488,7 +632,10 @@
       "offerPrice": 101.98,
       "category": "Shariah Compliant Aggressive Fixed Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 16, 2020",
+      "expenseRatio": 1.64,
+      "managementFee": 0.6
     },
     {
       "fundId": "13152",
@@ -498,7 +645,10 @@
       "offerPrice": 207.91,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 11, 2013",
+      "expenseRatio": 2.15,
+      "managementFee": 1.9385
     },
     {
       "fundId": "13146",
@@ -508,7 +658,10 @@
       "offerPrice": 103.18,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 19, 2012",
+      "expenseRatio": 0.94,
+      "managementFee": 0.88
     },
     {
       "fundId": "13190",
@@ -518,7 +671,10 @@
       "offerPrice": 102.32,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 29, 2020",
+      "expenseRatio": 0.52,
+      "managementFee": 0.45
     },
     {
       "fundId": "13186",
@@ -528,7 +684,10 @@
       "offerPrice": 354.09,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 13, 2019",
+      "expenseRatio": 3.32,
+      "managementFee": 2.8503
     },
     {
       "fundId": "14381",
@@ -538,7 +697,10 @@
       "offerPrice": 104.12,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 29, 2023",
+      "expenseRatio": 0.1,
+      "managementFee": 0.0001
     },
     {
       "fundId": "15026",
@@ -548,7 +710,10 @@
       "offerPrice": 104.42,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 24, 2025",
+      "expenseRatio": 59.02,
+      "managementFee": 0.1999
     },
     {
       "fundId": "13200",
@@ -558,7 +723,10 @@
       "offerPrice": 385.94,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 19, 2010",
+      "expenseRatio": 0.88,
+      "managementFee": 0.75
     },
     {
       "fundId": "13201",
@@ -568,7 +736,10 @@
       "offerPrice": 2962.37,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 19, 2010",
+      "expenseRatio": 1.87,
+      "managementFee": 1.5001
     },
     {
       "fundId": "13202",
@@ -578,7 +749,10 @@
       "offerPrice": 372.21,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 19, 2010",
+      "expenseRatio": 0.87,
+      "managementFee": 0.75
     },
     {
       "fundId": "13143",
@@ -588,7 +762,10 @@
       "offerPrice": 105.08,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 07, 2010",
+      "expenseRatio": 1.56,
+      "managementFee": 1.5001
     },
     {
       "fundId": "13136",
@@ -598,7 +775,10 @@
       "offerPrice": 502.87,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 24, 2006",
+      "expenseRatio": 3.17,
+      "managementFee": 2.8503
     },
     {
       "fundId": "14579",
@@ -608,7 +788,10 @@
       "offerPrice": 137.12,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.15,
+      "managementFee": 0.0001
     },
     {
       "fundId": "12710",
@@ -618,7 +801,10 @@
       "offerPrice": 107.68,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 08, 2017",
+      "expenseRatio": 2.75,
+      "managementFee": 2
     },
     {
       "fundId": "12707",
@@ -628,7 +814,10 @@
       "offerPrice": 106.83,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 10, 2011",
+      "expenseRatio": 1.17,
+      "managementFee": 0.89
     },
     {
       "fundId": "14811",
@@ -638,7 +827,10 @@
       "offerPrice": 101.64,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 06, 2025",
+      "expenseRatio": 1.25,
+      "managementFee": 0.59
     },
     {
       "fundId": "15067",
@@ -648,7 +840,10 @@
       "offerPrice": 101.8,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 06, 2026",
+      "expenseRatio": 0.31,
+      "managementFee": 0.15
     },
     {
       "fundId": "15161",
@@ -658,7 +853,10 @@
       "offerPrice": 101.48,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 22, 2026",
+      "expenseRatio": 0.29,
+      "managementFee": 0.14
     },
     {
       "fundId": "15189",
@@ -668,7 +866,10 @@
       "offerPrice": 100.99,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 17, 2026",
+      "expenseRatio": 0.33,
+      "managementFee": 0.16
     },
     {
       "fundId": "15231",
@@ -678,7 +879,10 @@
       "offerPrice": 100,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 27, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "14561",
@@ -688,7 +892,10 @@
       "offerPrice": 137.06,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 03, 2024",
+      "expenseRatio": 1.12,
+      "managementFee": 0.1
     },
     {
       "fundId": "14618",
@@ -698,7 +905,10 @@
       "offerPrice": 142.51,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 03, 2024",
+      "expenseRatio": 0.47,
+      "managementFee": 0.1
     },
     {
       "fundId": "14335",
@@ -708,7 +918,10 @@
       "offerPrice": 105.62,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 13, 2023",
+      "expenseRatio": 1.14,
+      "managementFee": 0.87
     },
     {
       "fundId": "12706",
@@ -718,7 +931,10 @@
       "offerPrice": 108,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 29, 2007",
+      "expenseRatio": 1.42,
+      "managementFee": 1.09
     },
     {
       "fundId": "12712",
@@ -728,7 +944,10 @@
       "offerPrice": 105.76,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 20, 2021",
+      "expenseRatio": 0.93,
+      "managementFee": 0.68
     },
     {
       "fundId": "12709",
@@ -738,7 +957,10 @@
       "offerPrice": 106.9,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 23, 2017",
+      "expenseRatio": 0.96,
+      "managementFee": 0.68
     },
     {
       "fundId": "15068",
@@ -748,7 +970,10 @@
       "offerPrice": 105.11,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 05, 2026",
+      "expenseRatio": 0.17,
+      "managementFee": 0.02
     },
     {
       "fundId": "15159",
@@ -758,7 +983,10 @@
       "offerPrice": 101.8,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2026",
+      "expenseRatio": 0.26,
+      "managementFee": 0.1
     },
     {
       "fundId": "15205",
@@ -768,7 +996,10 @@
       "offerPrice": 100.89,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 28, 2026",
+      "expenseRatio": 0.15,
+      "managementFee": 0
     },
     {
       "fundId": "12719",
@@ -778,7 +1009,10 @@
       "offerPrice": 174.74,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 05, 2022",
+      "expenseRatio": 1.62,
+      "managementFee": 1
     },
     {
       "fundId": "12717",
@@ -788,7 +1022,10 @@
       "offerPrice": 472.91,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Sep 05, 2022",
+      "expenseRatio": 4.66,
+      "managementFee": 2.5
     },
     {
       "fundId": "12718",
@@ -798,7 +1035,10 @@
       "offerPrice": 176.03,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 05, 2022",
+      "expenseRatio": 1.84,
+      "managementFee": 1.1
     },
     {
       "fundId": "12713",
@@ -808,7 +1048,10 @@
       "offerPrice": 105.84,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 20, 2021",
+      "expenseRatio": 0.61,
+      "managementFee": 0.38
     },
     {
       "fundId": "12708",
@@ -818,7 +1061,10 @@
       "offerPrice": 170.21,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Nov 09, 2012",
+      "expenseRatio": 4.53,
+      "managementFee": 3
     },
     {
       "fundId": "12711",
@@ -828,7 +1074,10 @@
       "offerPrice": 106.02,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 20, 2021",
+      "expenseRatio": 0.84,
+      "managementFee": 0.61
     },
     {
       "fundId": "12714",
@@ -838,7 +1087,10 @@
       "offerPrice": 555.59,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 30, 2022",
+      "expenseRatio": 3.38,
+      "managementFee": 2.5
     },
     {
       "fundId": "12715",
@@ -848,7 +1100,10 @@
       "offerPrice": 195.74,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 30, 2022",
+      "expenseRatio": 1.49,
+      "managementFee": 1.1
     },
     {
       "fundId": "12716",
@@ -858,7 +1113,10 @@
       "offerPrice": 191.12,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 30, 2022",
+      "expenseRatio": 1.34,
+      "managementFee": 1
     },
     {
       "fundId": "14866",
@@ -868,7 +1126,10 @@
       "offerPrice": 102.11,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 03, 2025",
+      "expenseRatio": 0.39,
+      "managementFee": 0.2
     },
     {
       "fundId": "14872",
@@ -878,7 +1139,10 @@
       "offerPrice": 102.03,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2025",
+      "expenseRatio": 0.42,
+      "managementFee": 0.21
     },
     {
       "fundId": "14873",
@@ -888,7 +1152,10 @@
       "offerPrice": 102.07,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2025",
+      "expenseRatio": 0.69,
+      "managementFee": 0.41
     },
     {
       "fundId": "12705",
@@ -898,7 +1165,10 @@
       "offerPrice": 159.09,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Oct 08, 2009",
+      "expenseRatio": 4.35,
+      "managementFee": 3
     },
     {
       "fundId": "12821",
@@ -908,7 +1178,10 @@
       "offerPrice": 51.91,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jul 13, 1995",
+      "expenseRatio": 0,
+      "managementFee": 3
     },
     {
       "fundId": "12882",
@@ -918,7 +1191,10 @@
       "offerPrice": 66.43,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 24, 2006",
+      "expenseRatio": 4.53,
+      "managementFee": 2.5
     },
     {
       "fundId": "15208",
@@ -928,7 +1204,10 @@
       "offerPrice": 100.81,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 29, 2026",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "15207",
@@ -938,7 +1217,10 @@
       "offerPrice": 100.8,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 29, 2026",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "12900",
@@ -948,7 +1230,10 @@
       "offerPrice": 107.29,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 22, 2020",
+      "expenseRatio": 1.21,
+      "managementFee": 0.27
     },
     {
       "fundId": "12680",
@@ -958,7 +1243,10 @@
       "offerPrice": 17.33,
       "category": "Exchange Traded Fund",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jan 17, 2022",
+      "expenseRatio": 2.14,
+      "managementFee": 0.75
     },
     {
       "fundId": "14338",
@@ -968,7 +1256,10 @@
       "offerPrice": 104.77,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 02, 2023",
+      "expenseRatio": 1.07,
+      "managementFee": 1
     },
     {
       "fundId": "12885",
@@ -978,7 +1269,10 @@
       "offerPrice": 119.62,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 05, 2013",
+      "expenseRatio": 0.62,
+      "managementFee": 0.55
     },
     {
       "fundId": "14645",
@@ -988,7 +1282,10 @@
       "offerPrice": 161.13,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 19, 2023",
+      "expenseRatio": 0.42,
+      "managementFee": 0.1
     },
     {
       "fundId": "14855",
@@ -998,7 +1295,10 @@
       "offerPrice": 119.92,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 10, 2025",
+      "expenseRatio": 4.3,
+      "managementFee": 2.75
     },
     {
       "fundId": "12643",
@@ -1008,7 +1308,10 @@
       "offerPrice": 119.99,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Sep 09, 2008",
+      "expenseRatio": 3.94,
+      "managementFee": 3
     },
     {
       "fundId": "12653",
@@ -1018,7 +1321,10 @@
       "offerPrice": 527.25,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 13, 2010",
+      "expenseRatio": 1.18,
+      "managementFee": 1.15
     },
     {
       "fundId": "12679",
@@ -1028,7 +1334,10 @@
       "offerPrice": 212.05,
       "category": "Dedicated Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Nov 28, 2022",
+      "expenseRatio": 4.13,
+      "managementFee": 3
     },
     {
       "fundId": "12649",
@@ -1038,7 +1347,10 @@
       "offerPrice": 119.18,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 14, 2007",
+      "expenseRatio": 1.96,
+      "managementFee": 1.5
     },
     {
       "fundId": "12646",
@@ -1048,7 +1360,10 @@
       "offerPrice": 57.72,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 15, 2007",
+      "expenseRatio": 0.9,
+      "managementFee": 0.8
     },
     {
       "fundId": "12678",
@@ -1058,7 +1373,10 @@
       "offerPrice": 120.89,
       "category": "Shariah Compliant Dedicated Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 25, 2017",
+      "expenseRatio": 5.41,
+      "managementFee": 3
     },
     {
       "fundId": "12652",
@@ -1068,7 +1386,10 @@
       "offerPrice": 107.99,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 03, 2009",
+      "expenseRatio": 1.19,
+      "managementFee": 1.5
     },
     {
       "fundId": "12675",
@@ -1078,7 +1399,10 @@
       "offerPrice": 228.84,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 08, 2016",
+      "expenseRatio": 0.97,
+      "managementFee": 0.35
     },
     {
       "fundId": "12677",
@@ -1088,7 +1412,10 @@
       "offerPrice": 236.24,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 08, 2016",
+      "expenseRatio": 0.85,
+      "managementFee": 0.3
     },
     {
       "fundId": "12676",
@@ -1098,7 +1425,10 @@
       "offerPrice": 339.88,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Nov 08, 2016",
+      "expenseRatio": 3.48,
+      "managementFee": 2.5
     },
     {
       "fundId": "12657",
@@ -1108,7 +1438,10 @@
       "offerPrice": 106.07,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 01, 2016",
+      "expenseRatio": 1.12,
+      "managementFee": 1.45
     },
     {
       "fundId": "12662",
@@ -1118,7 +1451,10 @@
       "offerPrice": 105.56,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 11, 2016",
+      "expenseRatio": 0.55,
+      "managementFee": 1.45
     },
     {
       "fundId": "12661",
@@ -1128,7 +1464,10 @@
       "offerPrice": 0,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 11, 2016",
+      "expenseRatio": 0.66,
+      "managementFee": 1.45
     },
     {
       "fundId": "12645",
@@ -1138,7 +1477,10 @@
       "offerPrice": 76.35,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Sep 03, 2007",
+      "expenseRatio": 4.56,
+      "managementFee": 3
     },
     {
       "fundId": "12664",
@@ -1148,7 +1490,10 @@
       "offerPrice": 147.43,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 12, 2017",
+      "expenseRatio": 0.6,
+      "managementFee": 0.15
     },
     {
       "fundId": "12654",
@@ -1158,7 +1503,10 @@
       "offerPrice": 103.39,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 27, 2010",
+      "expenseRatio": 1.05,
+      "managementFee": 0.77
     },
     {
       "fundId": "12673",
@@ -1168,7 +1516,10 @@
       "offerPrice": 269.8,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 08, 2016",
+      "expenseRatio": 0.9,
+      "managementFee": 0.5
     },
     {
       "fundId": "12672",
@@ -1178,7 +1529,10 @@
       "offerPrice": 349.2,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Nov 08, 2016",
+      "expenseRatio": 3.19,
+      "managementFee": 2.5
     },
     {
       "fundId": "12674",
@@ -1188,7 +1542,10 @@
       "offerPrice": 263.88,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 08, 2016",
+      "expenseRatio": 1.61,
+      "managementFee": 1
     },
     {
       "fundId": "12660",
@@ -1198,7 +1555,10 @@
       "offerPrice": 124.86,
       "category": "Fund of Funds",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 12, 2015",
+      "expenseRatio": 0.33,
+      "managementFee": 1.2
     },
     {
       "fundId": "12658",
@@ -1208,7 +1568,10 @@
       "offerPrice": 117.13,
       "category": "Fund of Funds",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 12, 2015",
+      "expenseRatio": 0.34,
+      "managementFee": 1.2
     },
     {
       "fundId": "12659",
@@ -1218,7 +1581,10 @@
       "offerPrice": 101.87,
       "category": "Fund of Funds",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 12, 2015",
+      "expenseRatio": 0.39,
+      "managementFee": 1.2
     },
     {
       "fundId": "12655",
@@ -1228,7 +1594,10 @@
       "offerPrice": 112.46,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 10, 2014",
+      "expenseRatio": 1.97,
+      "managementFee": 1.5
     },
     {
       "fundId": "12650",
@@ -1238,7 +1607,10 @@
       "offerPrice": 205.27,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 15, 2008",
+      "expenseRatio": 4.01,
+      "managementFee": 3
     },
     {
       "fundId": "12647",
@@ -1248,7 +1620,10 @@
       "offerPrice": 92.24,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 28, 2005",
+      "expenseRatio": 3.91,
+      "managementFee": 2.75
     },
     {
       "fundId": "15075",
@@ -1258,7 +1633,10 @@
       "offerPrice": 102.94,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 04, 2026",
+      "expenseRatio": 0.59,
+      "managementFee": 0
     },
     {
       "fundId": "15074",
@@ -1268,7 +1646,10 @@
       "offerPrice": 105.33,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 04, 2026",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "12894",
@@ -1278,7 +1659,10 @@
       "offerPrice": 142.6,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 16, 2020",
+      "expenseRatio": 0.51,
+      "managementFee": 0
     },
     {
       "fundId": "14718",
@@ -1288,7 +1672,10 @@
       "offerPrice": 105.71,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 10, 2024",
+      "expenseRatio": 0.25,
+      "managementFee": 0
     },
     {
       "fundId": "14751",
@@ -1298,7 +1685,10 @@
       "offerPrice": 111.44,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 12, 2024",
+      "expenseRatio": 0.34,
+      "managementFee": 0
     },
     {
       "fundId": "12880",
@@ -1308,7 +1698,10 @@
       "offerPrice": 123.12,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 10, 2005",
+      "expenseRatio": 0.27,
+      "managementFee": 0
     },
     {
       "fundId": "12668",
@@ -1318,7 +1711,10 @@
       "offerPrice": 104.63,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 21, 2020",
+      "expenseRatio": 0.77,
+      "managementFee": 0.57
     },
     {
       "fundId": "15157",
@@ -1328,7 +1724,10 @@
       "offerPrice": 102.33,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 10, 2026",
+      "expenseRatio": 0.93,
+      "managementFee": 0
     },
     {
       "fundId": "15112",
@@ -1338,7 +1737,10 @@
       "offerPrice": 102.11,
       "category": "Shariah Compliant Aggressive Fixed Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 19, 2026",
+      "expenseRatio": 1.28,
+      "managementFee": 1.15
     },
     {
       "fundId": "14632",
@@ -1348,7 +1750,10 @@
       "offerPrice": 136.02,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.28,
+      "managementFee": 0
     },
     {
       "fundId": "14339",
@@ -1358,7 +1763,10 @@
       "offerPrice": 104.76,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 13, 2023",
+      "expenseRatio": 0.98,
+      "managementFee": 0.75
     },
     {
       "fundId": "14340",
@@ -1368,7 +1776,10 @@
       "offerPrice": 104.41,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 26, 2023",
+      "expenseRatio": 0.25,
+      "managementFee": 0
     },
     {
       "fundId": "14566",
@@ -1378,7 +1789,10 @@
       "offerPrice": 116.2,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2023",
+      "expenseRatio": 2.07,
+      "managementFee": 1.5
     },
     {
       "fundId": "14708",
@@ -1388,7 +1802,10 @@
       "offerPrice": 105.94,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 22, 2024",
+      "expenseRatio": 2.08,
+      "managementFee": 1.5
     },
     {
       "fundId": "15192",
@@ -1398,7 +1815,10 @@
       "offerPrice": 101.17,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 21, 2026",
+      "expenseRatio": 0.21,
+      "managementFee": 0.1
     },
     {
       "fundId": "14544",
@@ -1408,7 +1828,10 @@
       "offerPrice": 141.39,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.53,
+      "managementFee": 0
     },
     {
       "fundId": "14342",
@@ -1418,7 +1841,10 @@
       "offerPrice": 133.28,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 21, 2023",
+      "expenseRatio": 1.11,
+      "managementFee": 0.2
     },
     {
       "fundId": "12884",
@@ -1428,7 +1854,10 @@
       "offerPrice": 108.11,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2010",
+      "expenseRatio": 0.41,
+      "managementFee": 0.35
     },
     {
       "fundId": "12887",
@@ -1438,7 +1867,10 @@
       "offerPrice": 108.18,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 11, 2016",
+      "expenseRatio": 2.41,
+      "managementFee": 0.9
     },
     {
       "fundId": "12881",
@@ -1448,7 +1880,10 @@
       "offerPrice": 108.81,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 11, 2007",
+      "expenseRatio": 1,
+      "managementFee": 0.6
     },
     {
       "fundId": "12903",
@@ -1458,7 +1893,10 @@
       "offerPrice": 153.6,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 01, 2021",
+      "expenseRatio": 0.27,
+      "managementFee": 0
     },
     {
       "fundId": "12907",
@@ -1468,7 +1906,10 @@
       "offerPrice": 122.09,
       "category": "Capital Protected",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 26, 2022",
+      "expenseRatio": 1.22,
+      "managementFee": 0.93
     },
     {
       "fundId": "14858",
@@ -1478,7 +1919,10 @@
       "offerPrice": 101.87,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 15, 2025",
+      "expenseRatio": 0.16,
+      "managementFee": 0
     },
     {
       "fundId": "14916",
@@ -1488,7 +1932,10 @@
       "offerPrice": 102.12,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 09, 2025",
+      "expenseRatio": 0.33,
+      "managementFee": 0.09
     },
     {
       "fundId": "14976",
@@ -1498,7 +1945,10 @@
       "offerPrice": 102.11,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 18, 2025",
+      "expenseRatio": 0.27,
+      "managementFee": 0.06
     },
     {
       "fundId": "15071",
@@ -1508,7 +1958,10 @@
       "offerPrice": 101.76,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 05, 2026",
+      "expenseRatio": 0.15,
+      "managementFee": 0
     },
     {
       "fundId": "15142",
@@ -1518,7 +1971,10 @@
       "offerPrice": 103.62,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 19, 2026",
+      "expenseRatio": 0.94,
+      "managementFee": 1.01
     },
     {
       "fundId": "15169",
@@ -1528,7 +1984,10 @@
       "offerPrice": 101.83,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 22, 2026",
+      "expenseRatio": 0.22,
+      "managementFee": 0.09
     },
     {
       "fundId": "15206",
@@ -1538,7 +1997,10 @@
       "offerPrice": 100.77,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 03, 2026",
+      "expenseRatio": 0.24,
+      "managementFee": 0.05
     },
     {
       "fundId": "15214",
@@ -1548,7 +2010,10 @@
       "offerPrice": 100.74,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 04, 2026",
+      "expenseRatio": 0.2,
+      "managementFee": 0
     },
     {
       "fundId": "12879",
@@ -1558,7 +2023,10 @@
       "offerPrice": 85.28,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Apr 19, 2004",
+      "expenseRatio": 4.56,
+      "managementFee": 3
     },
     {
       "fundId": "15113",
@@ -1568,7 +2036,10 @@
       "offerPrice": 100.09,
       "category": "Fund of Funds",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 21, 2026",
+      "expenseRatio": 0.16,
+      "managementFee": 0
     },
     {
       "fundId": "14763",
@@ -1578,7 +2049,10 @@
       "offerPrice": 105.27,
       "category": "Fund of Funds",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 21, 2024",
+      "expenseRatio": 0.16,
+      "managementFee": 0.05
     },
     {
       "fundId": "14349",
@@ -1588,7 +2062,10 @@
       "offerPrice": 103.56,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 23, 2023",
+      "expenseRatio": 0.72,
+      "managementFee": 0.55
     },
     {
       "fundId": "12743",
@@ -1598,7 +2075,10 @@
       "offerPrice": 101.15,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 10, 2018",
+      "expenseRatio": 1.38,
+      "managementFee": 1.4993
     },
     {
       "fundId": "14683",
@@ -1608,7 +2088,10 @@
       "offerPrice": 106.63,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 24, 2024",
+      "expenseRatio": 2.16,
+      "managementFee": 1.5
     },
     {
       "fundId": "12725",
@@ -1618,7 +2101,10 @@
       "offerPrice": 224.1,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 22, 2006",
+      "expenseRatio": 4.15,
+      "managementFee": 3
     },
     {
       "fundId": "15173",
@@ -1628,7 +2114,10 @@
       "offerPrice": 99.81,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jul 02, 2026",
+      "expenseRatio": 8.58,
+      "managementFee": 3
     },
     {
       "fundId": "12737",
@@ -1638,7 +2127,10 @@
       "offerPrice": 109.75,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2011",
+      "expenseRatio": 1.14,
+      "managementFee": 1.25
     },
     {
       "fundId": "15149",
@@ -1648,7 +2140,10 @@
       "offerPrice": 103.62,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 05, 2026",
+      "expenseRatio": 0.25,
+      "managementFee": 0.07
     },
     {
       "fundId": "12744",
@@ -1658,7 +2153,10 @@
       "offerPrice": 100.65,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2020",
+      "expenseRatio": 1.36,
+      "managementFee": 0.3008
     },
     {
       "fundId": "12761",
@@ -1668,7 +2166,10 @@
       "offerPrice": 2184.78,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Nov 02, 2007",
+      "expenseRatio": 3.36,
+      "managementFee": 2.5
     },
     {
       "fundId": "12762",
@@ -1678,7 +2179,10 @@
       "offerPrice": 476.32,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 02, 2007",
+      "expenseRatio": 1.66,
+      "managementFee": 1.25
     },
     {
       "fundId": "12763",
@@ -1688,7 +2192,10 @@
       "offerPrice": 439.68,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 02, 2007",
+      "expenseRatio": 1.34,
+      "managementFee": 1
     },
     {
       "fundId": "15036",
@@ -1698,7 +2205,10 @@
       "offerPrice": 106.24,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 16, 2026",
+      "expenseRatio": 0.73,
+      "managementFee": 0.481
     },
     {
       "fundId": "12733",
@@ -1708,7 +2218,10 @@
       "offerPrice": 31.72,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Aug 25, 2004",
+      "expenseRatio": 4.08,
+      "managementFee": 3
     },
     {
       "fundId": "14576",
@@ -1718,7 +2231,10 @@
       "offerPrice": 225.73,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Feb 27, 2024",
+      "expenseRatio": 4.37,
+      "managementFee": 3
     },
     {
       "fundId": "12745",
@@ -1728,7 +2244,10 @@
       "offerPrice": 180.92,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 11, 2021",
+      "expenseRatio": 0.62,
+      "managementFee": 0
     },
     {
       "fundId": "12787",
@@ -1738,7 +2257,10 @@
       "offerPrice": 17.28,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 23, 2018",
+      "expenseRatio": 5.16,
+      "managementFee": 2
     },
     {
       "fundId": "13109",
@@ -1748,7 +2270,10 @@
       "offerPrice": 105.56,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 30, 2009",
+      "expenseRatio": 0.24,
+      "managementFee": 0.9
     },
     {
       "fundId": "13107",
@@ -1758,7 +2283,10 @@
       "offerPrice": 107.59,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 16, 2006",
+      "expenseRatio": 0.42,
+      "managementFee": 1.5
     },
     {
       "fundId": "13118",
@@ -1768,7 +2296,10 @@
       "offerPrice": 107.77,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 07, 2012",
+      "expenseRatio": 0.36,
+      "managementFee": 0.5
     },
     {
       "fundId": "15047",
@@ -1778,7 +2309,10 @@
       "offerPrice": 96.77,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Feb 10, 2026",
+      "expenseRatio": 4.02,
+      "managementFee": 3
     },
     {
       "fundId": "15049",
@@ -1788,7 +2322,10 @@
       "offerPrice": 101.56,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Feb 10, 2026",
+      "expenseRatio": 4.25,
+      "managementFee": 3
     },
     {
       "fundId": "12684",
@@ -1798,7 +2335,10 @@
       "offerPrice": 540.95,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 22, 2004",
+      "expenseRatio": 0.5,
+      "managementFee": 0.33
     },
     {
       "fundId": "15087",
@@ -1808,7 +2348,10 @@
       "offerPrice": 108.27,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Apr 01, 2026",
+      "expenseRatio": 8.43,
+      "managementFee": 3
     },
     {
       "fundId": "14685",
@@ -1818,7 +2361,10 @@
       "offerPrice": 512.28,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 03, 2024",
+      "expenseRatio": 0.6,
+      "managementFee": 0.2
     },
     {
       "fundId": "12704",
@@ -1828,7 +2374,10 @@
       "offerPrice": 1600.87,
       "category": "Shariah Compliant Dedicated Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jan 10, 2019",
+      "expenseRatio": 4.18,
+      "managementFee": 3
     },
     {
       "fundId": "15086",
@@ -1838,7 +2387,10 @@
       "offerPrice": 107.09,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Apr 01, 2026",
+      "expenseRatio": 5.01,
+      "managementFee": 3
     },
     {
       "fundId": "12688",
@@ -1848,7 +2400,10 @@
       "offerPrice": 1457.22,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 07, 2019",
+      "expenseRatio": 0.37,
+      "managementFee": 1
     },
     {
       "fundId": "12690",
@@ -1858,7 +2413,10 @@
       "offerPrice": 955.25,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 07, 2019",
+      "expenseRatio": 0.39,
+      "managementFee": 1
     },
     {
       "fundId": "12689",
@@ -1868,7 +2426,10 @@
       "offerPrice": 1241.19,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 07, 2019",
+      "expenseRatio": 0.37,
+      "managementFee": 1
     },
     {
       "fundId": "12683",
@@ -1878,7 +2439,10 @@
       "offerPrice": 525.25,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 14, 2008",
+      "expenseRatio": 0.5,
+      "managementFee": 0.3
     },
     {
       "fundId": "12693",
@@ -1888,7 +2452,10 @@
       "offerPrice": 516.18,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 07, 2021",
+      "expenseRatio": 0.26,
+      "managementFee": 0.1
     },
     {
       "fundId": "12681",
@@ -1898,7 +2465,10 @@
       "offerPrice": 1558.8,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jan 15, 2007",
+      "expenseRatio": 3.87,
+      "managementFee": 3
     },
     {
       "fundId": "14574",
@@ -1908,7 +2478,10 @@
       "offerPrice": 141.98,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2023",
+      "expenseRatio": 0.26,
+      "managementFee": 0.02
     },
     {
       "fundId": "12695",
@@ -1918,7 +2491,10 @@
       "offerPrice": 512.43,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 23, 2021",
+      "expenseRatio": 0.36,
+      "managementFee": 0.23
     },
     {
       "fundId": "12685",
@@ -1928,7 +2504,10 @@
       "offerPrice": 523.8,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 21, 2010",
+      "expenseRatio": 0.35,
+      "managementFee": 0.23
     },
     {
       "fundId": "12700",
@@ -1938,7 +2517,10 @@
       "offerPrice": 627.8,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 28, 2007",
+      "expenseRatio": 0.38,
+      "managementFee": 0.18
     },
     {
       "fundId": "12696",
@@ -1948,7 +2530,10 @@
       "offerPrice": 2528.47,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 28, 2007",
+      "expenseRatio": 2.05,
+      "managementFee": 1.5
     },
     {
       "fundId": "12701",
@@ -1958,7 +2543,10 @@
       "offerPrice": 675.25,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 28, 2007",
+      "expenseRatio": 0.43,
+      "managementFee": 0.23
     },
     {
       "fundId": "12697",
@@ -1968,7 +2556,10 @@
       "offerPrice": 522.27,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 06, 2007",
+      "expenseRatio": 0.32,
+      "managementFee": 0.15
     },
     {
       "fundId": "12698",
@@ -1978,7 +2569,10 @@
       "offerPrice": 494.02,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 06, 2007",
+      "expenseRatio": 0.4,
+      "managementFee": 0.2
     },
     {
       "fundId": "12699",
@@ -1988,7 +2582,10 @@
       "offerPrice": 2719.65,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Nov 06, 2007",
+      "expenseRatio": 2.03,
+      "managementFee": 1.5
     },
     {
       "fundId": "14965",
@@ -1998,7 +2595,10 @@
       "offerPrice": 109.4,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 21, 2025",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "14966",
@@ -2008,7 +2608,10 @@
       "offerPrice": 108.17,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 21, 2025",
+      "expenseRatio": 0.21,
+      "managementFee": 0
     },
     {
       "fundId": "12687",
@@ -2018,7 +2621,10 @@
       "offerPrice": 104.94,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 01, 2014",
+      "expenseRatio": 0.55,
+      "managementFee": 0.33
     },
     {
       "fundId": "12682",
@@ -2028,7 +2634,10 @@
       "offerPrice": 2152.42,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Nov 23, 2004",
+      "expenseRatio": 3.87,
+      "managementFee": 3
     },
     {
       "fundId": "14922",
@@ -2038,7 +2647,10 @@
       "offerPrice": 177.05,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 22, 2025",
+      "expenseRatio": 3.75,
+      "managementFee": 0
     },
     {
       "fundId": "12871",
@@ -2048,7 +2660,10 @@
       "offerPrice": 110.13,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 04, 2014",
+      "expenseRatio": 0.87,
+      "managementFee": 0
     },
     {
       "fundId": "14805",
@@ -2058,7 +2673,10 @@
       "offerPrice": 120.03,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 26, 2025",
+      "expenseRatio": 0.79,
+      "managementFee": 0
     },
     {
       "fundId": "14841",
@@ -2068,7 +2686,10 @@
       "offerPrice": 115.38,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 07, 2025",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "14839",
@@ -2078,7 +2699,10 @@
       "offerPrice": 131.4,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Apr 07, 2025",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "14840",
@@ -2088,7 +2712,10 @@
       "offerPrice": 116.71,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 07, 2025",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15218",
@@ -2098,7 +2725,10 @@
       "offerPrice": 100.27,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 10, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "12870",
@@ -2108,7 +2738,10 @@
       "offerPrice": 191.56,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Mar 04, 2014",
+      "expenseRatio": 3.77,
+      "managementFee": 0
     },
     {
       "fundId": "15119",
@@ -2118,7 +2751,10 @@
       "offerPrice": 105.41,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 08, 2026",
+      "expenseRatio": 0.95,
+      "managementFee": 0.51
     },
     {
       "fundId": "15121",
@@ -2128,7 +2764,10 @@
       "offerPrice": 105.43,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 08, 2026",
+      "expenseRatio": 0.84,
+      "managementFee": 0.42
     },
     {
       "fundId": "15118",
@@ -2138,7 +2777,10 @@
       "offerPrice": 107.88,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "May 08, 2026",
+      "expenseRatio": 3.89,
+      "managementFee": 1.8799
     },
     {
       "fundId": "15008",
@@ -2148,7 +2790,10 @@
       "offerPrice": 95,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 01, 2025",
+      "expenseRatio": 6.21,
+      "managementFee": 1.5
     },
     {
       "fundId": "15009",
@@ -2158,7 +2803,10 @@
       "offerPrice": 106,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 01, 2025",
+      "expenseRatio": 6.34,
+      "managementFee": 0.85
     },
     {
       "fundId": "15010",
@@ -2168,7 +2816,10 @@
       "offerPrice": 108,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 01, 2025",
+      "expenseRatio": 5.6,
+      "managementFee": 0.5
     },
     {
       "fundId": "12891",
@@ -2178,7 +2829,10 @@
       "offerPrice": 106.13,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 10, 2019",
+      "expenseRatio": 1.59,
+      "managementFee": 1.2754
     },
     {
       "fundId": "14883",
@@ -2188,7 +2842,10 @@
       "offerPrice": 103.99,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 02, 2025",
+      "expenseRatio": 1.88,
+      "managementFee": 1.5
     },
     {
       "fundId": "14989",
@@ -2198,7 +2855,10 @@
       "offerPrice": 104.32,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 10, 2025",
+      "expenseRatio": 0.94,
+      "managementFee": 0.7
     },
     {
       "fundId": "12886",
@@ -2208,7 +2868,10 @@
       "offerPrice": 94.97,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 09, 2015",
+      "expenseRatio": 0.73,
+      "managementFee": 0.15
     },
     {
       "fundId": "14702",
@@ -2218,7 +2881,10 @@
       "offerPrice": 123.21,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 12, 2024",
+      "expenseRatio": 2.87,
+      "managementFee": 2
     },
     {
       "fundId": "14919",
@@ -2228,7 +2894,10 @@
       "offerPrice": 113.12,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 17, 2025",
+      "expenseRatio": 1.3,
+      "managementFee": 0.35
     },
     {
       "fundId": "14970",
@@ -2238,7 +2907,10 @@
       "offerPrice": 111.67,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 25, 2025",
+      "expenseRatio": 2.05,
+      "managementFee": 0.35
     },
     {
       "fundId": "15031",
@@ -2248,7 +2920,10 @@
       "offerPrice": 110.91,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 19, 2026",
+      "expenseRatio": 0.64,
+      "managementFee": 0.35
     },
     {
       "fundId": "15124",
@@ -2258,7 +2933,10 @@
       "offerPrice": 106.93,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 11, 2026",
+      "expenseRatio": 1.73,
+      "managementFee": 0.35
     },
     {
       "fundId": "15129",
@@ -2268,7 +2946,10 @@
       "offerPrice": 106.63,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 14, 2026",
+      "expenseRatio": 1.67,
+      "managementFee": 0.35
     },
     {
       "fundId": "15131",
@@ -2278,7 +2959,10 @@
       "offerPrice": 106.91,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 15, 2026",
+      "expenseRatio": 1.72,
+      "managementFee": 0.35
     },
     {
       "fundId": "12888",
@@ -2288,7 +2972,10 @@
       "offerPrice": 104.46,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 11, 2020",
+      "expenseRatio": 1.59,
+      "managementFee": 1.2608
     },
     {
       "fundId": "12916",
@@ -2298,7 +2985,10 @@
       "offerPrice": 123.06,
       "category": "Shariah Compliant Dedicated Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jan 03, 2020",
+      "expenseRatio": 6.88,
+      "managementFee": 3
     },
     {
       "fundId": "14363",
@@ -2308,7 +2998,10 @@
       "offerPrice": 104.59,
       "category": "Shariah Compliant Aggressive Fixed Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 25, 2023",
+      "expenseRatio": 1.78,
+      "managementFee": 1.5
     },
     {
       "fundId": "14701",
@@ -2318,7 +3011,10 @@
       "offerPrice": 105.44,
       "category": "Shariah Compliant Aggressive Fixed Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 06, 2024",
+      "expenseRatio": 1.77,
+      "managementFee": 1.5
     },
     {
       "fundId": "14990",
@@ -2328,7 +3024,10 @@
       "offerPrice": 105.34,
       "category": "Shariah Compliant Aggressive Fixed Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 10, 2025",
+      "expenseRatio": 1.21,
+      "managementFee": 0.1
     },
     {
       "fundId": "14888",
@@ -2338,7 +3037,10 @@
       "offerPrice": 123.52,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 18, 2025",
+      "expenseRatio": 0.45,
+      "managementFee": 1
     },
     {
       "fundId": "14901",
@@ -2348,7 +3050,10 @@
       "offerPrice": 114.03,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 11, 2025",
+      "expenseRatio": 0.59,
+      "managementFee": 1
     },
     {
       "fundId": "14863",
@@ -2358,7 +3063,10 @@
       "offerPrice": 115.49,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 29, 2025",
+      "expenseRatio": 0.81,
+      "managementFee": 0.5
     },
     {
       "fundId": "14578",
@@ -2368,7 +3076,10 @@
       "offerPrice": 137.61,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 20, 2023",
+      "expenseRatio": 0.72,
+      "managementFee": 0.15
     },
     {
       "fundId": "15143",
@@ -2378,7 +3089,10 @@
       "offerPrice": 103.38,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 21, 2026",
+      "expenseRatio": 1.32,
+      "managementFee": 1
     },
     {
       "fundId": "15213",
@@ -2388,7 +3102,10 @@
       "offerPrice": 100.64,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 07, 2026",
+      "expenseRatio": 1.13,
+      "managementFee": 1
     },
     {
       "fundId": "15180",
@@ -2398,7 +3115,10 @@
       "offerPrice": 101.42,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 09, 2026",
+      "expenseRatio": 1.25,
+      "managementFee": 1
     },
     {
       "fundId": "15184",
@@ -2408,7 +3128,10 @@
       "offerPrice": 101.22,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 15, 2026",
+      "expenseRatio": 1.23,
+      "managementFee": 1
     },
     {
       "fundId": "15201",
@@ -2418,7 +3141,10 @@
       "offerPrice": 100.89,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 29, 2026",
+      "expenseRatio": 0.84,
+      "managementFee": 0.5
     },
     {
       "fundId": "15215",
@@ -2428,7 +3154,10 @@
       "offerPrice": 100.52,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 11, 2026",
+      "expenseRatio": 1.12,
+      "managementFee": 1
     },
     {
       "fundId": "15227",
@@ -2438,7 +3167,10 @@
       "offerPrice": 100.29,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 19, 2026",
+      "expenseRatio": 1.02,
+      "managementFee": 1
     },
     {
       "fundId": "12911",
@@ -2448,7 +3180,10 @@
       "offerPrice": 198,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 05, 2021",
+      "expenseRatio": 0.93,
+      "managementFee": 0.01
     },
     {
       "fundId": "12912",
@@ -2458,7 +3193,10 @@
       "offerPrice": 375,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Oct 05, 2021",
+      "expenseRatio": 2.45,
+      "managementFee": 0.01
     },
     {
       "fundId": "12910",
@@ -2468,7 +3206,10 @@
       "offerPrice": 191.86,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 05, 2021",
+      "expenseRatio": 1.4,
+      "managementFee": 0.01
     },
     {
       "fundId": "14996",
@@ -2478,7 +3219,10 @@
       "offerPrice": 105,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 16, 2025",
+      "expenseRatio": 10.71,
+      "managementFee": 0.3
     },
     {
       "fundId": "12883",
@@ -2488,7 +3232,10 @@
       "offerPrice": 109.92,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 16, 2010",
+      "expenseRatio": 1.94,
+      "managementFee": 1.5
     },
     {
       "fundId": "12909",
@@ -2498,7 +3245,10 @@
       "offerPrice": 104.91,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 01, 2023",
+      "expenseRatio": 1.97,
+      "managementFee": 1.5
     },
     {
       "fundId": "14589",
@@ -2508,7 +3258,10 @@
       "offerPrice": 104.69,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 08, 2024",
+      "expenseRatio": 1.97,
+      "managementFee": 1.5
     },
     {
       "fundId": "12905",
@@ -2518,7 +3271,10 @@
       "offerPrice": 10.51,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 20, 2022",
+      "expenseRatio": 3.09,
+      "managementFee": 1.501
     },
     {
       "fundId": "12896",
@@ -2528,7 +3284,10 @@
       "offerPrice": 124.99,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jul 24, 2020",
+      "expenseRatio": 5.06,
+      "managementFee": 3
     },
     {
       "fundId": "14817",
@@ -2538,7 +3297,10 @@
       "offerPrice": 139.59,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Mar 10, 2025",
+      "expenseRatio": 5.47,
+      "managementFee": 3
     },
     {
       "fundId": "14791",
@@ -2548,7 +3310,10 @@
       "offerPrice": 114.38,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 10, 2025",
+      "expenseRatio": 2.54,
+      "managementFee": 1
     },
     {
       "fundId": "14789",
@@ -2558,7 +3323,10 @@
       "offerPrice": 114.67,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 10, 2025",
+      "expenseRatio": 2.04,
+      "managementFee": 1
     },
     {
       "fundId": "12917",
@@ -2568,7 +3336,10 @@
       "offerPrice": 17.81,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "May 24, 1995",
+      "expenseRatio": 4.37,
+      "managementFee": 3
     },
     {
       "fundId": "12808",
@@ -2578,7 +3349,10 @@
       "offerPrice": 38,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "May 09, 1983",
+      "expenseRatio": 4.16,
+      "managementFee": 3
     },
     {
       "fundId": "12927",
@@ -2588,7 +3362,10 @@
       "offerPrice": 106.73,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2010",
+      "expenseRatio": 1.14,
+      "managementFee": 0.87
     },
     {
       "fundId": "12920",
@@ -2598,7 +3375,10 @@
       "offerPrice": 40.47,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jan 20, 2006",
+      "expenseRatio": 5.01,
+      "managementFee": 3
     },
     {
       "fundId": "12930",
@@ -2608,7 +3388,10 @@
       "offerPrice": 255.43,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Sep 26, 2011",
+      "expenseRatio": 7.25,
+      "managementFee": 3
     },
     {
       "fundId": "12952",
@@ -2618,7 +3401,10 @@
       "offerPrice": 106.69,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 18, 2022",
+      "expenseRatio": 1.85,
+      "managementFee": 1.5
     },
     {
       "fundId": "14609",
@@ -2628,7 +3414,10 @@
       "offerPrice": 104.67,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 19, 2024",
+      "expenseRatio": 0.24,
+      "managementFee": 0.077
     },
     {
       "fundId": "12925",
@@ -2638,7 +3427,10 @@
       "offerPrice": 118.97,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 24, 2010",
+      "expenseRatio": 1.87,
+      "managementFee": 1.5
     },
     {
       "fundId": "12942",
@@ -2648,7 +3440,10 @@
       "offerPrice": 41.04,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 02, 2018",
+      "expenseRatio": 1.37,
+      "managementFee": 1
     },
     {
       "fundId": "12951",
@@ -2658,7 +3453,10 @@
       "offerPrice": 48.37,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 02, 2018",
+      "expenseRatio": 4.25,
+      "managementFee": 3
     },
     {
       "fundId": "12921",
@@ -2668,7 +3466,10 @@
       "offerPrice": 117.47,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 19, 2007",
+      "expenseRatio": 1.62,
+      "managementFee": 1.25
     },
     {
       "fundId": "12943",
@@ -2678,7 +3479,10 @@
       "offerPrice": 14.81,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 02, 2018",
+      "expenseRatio": 1.34,
+      "managementFee": 1
     },
     {
       "fundId": "12946",
@@ -2688,7 +3492,10 @@
       "offerPrice": 22.91,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 02, 2018",
+      "expenseRatio": 4.44,
+      "managementFee": 3
     },
     {
       "fundId": "12934",
@@ -2698,7 +3505,10 @@
       "offerPrice": 343.55,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 11, 2016",
+      "expenseRatio": 3.76,
+      "managementFee": 2.75
     },
     {
       "fundId": "12932",
@@ -2708,7 +3518,10 @@
       "offerPrice": 219.74,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 29, 2014",
+      "expenseRatio": 4.07,
+      "managementFee": 3
     },
     {
       "fundId": "15229",
@@ -2718,7 +3531,10 @@
       "offerPrice": 100.4,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 11, 2026",
+      "expenseRatio": 0.3,
+      "managementFee": 0.12
     },
     {
       "fundId": "15186",
@@ -2728,7 +3544,10 @@
       "offerPrice": 101.13,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 29, 2026",
+      "expenseRatio": 0.3,
+      "managementFee": 0.04
     },
     {
       "fundId": "12933",
@@ -2738,7 +3557,10 @@
       "offerPrice": 108.67,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 29, 2014",
+      "expenseRatio": 1.37,
+      "managementFee": 1.1
     },
     {
       "fundId": "12928",
@@ -2748,7 +3570,10 @@
       "offerPrice": 104.91,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 09, 2011",
+      "expenseRatio": 1.03,
+      "managementFee": 0.75
     },
     {
       "fundId": "12957",
@@ -2758,7 +3583,10 @@
       "offerPrice": 1321.26,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 15, 2011",
+      "expenseRatio": 1.42,
+      "managementFee": 1
     },
     {
       "fundId": "12958",
@@ -2768,7 +3596,10 @@
       "offerPrice": 360.51,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 15, 2011",
+      "expenseRatio": 0.9,
+      "managementFee": 0.75
     },
     {
       "fundId": "12959",
@@ -2778,7 +3609,10 @@
       "offerPrice": 342.01,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 15, 2011",
+      "expenseRatio": 0.9,
+      "managementFee": 0.75
     },
     {
       "fundId": "15106",
@@ -2788,7 +3622,10 @@
       "offerPrice": 103.7,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 12, 2026",
+      "expenseRatio": 0.14,
+      "managementFee": 0.82
     },
     {
       "fundId": "15139",
@@ -2798,7 +3635,10 @@
       "offerPrice": 100,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 08, 2026",
+      "expenseRatio": 1.02,
+      "managementFee": 0.75
     },
     {
       "fundId": "14601",
@@ -2808,7 +3648,10 @@
       "offerPrice": 104.67,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 13, 2024",
+      "expenseRatio": 1.58,
+      "managementFee": 1.25
     },
     {
       "fundId": "12929",
@@ -2818,7 +3661,10 @@
       "offerPrice": 274.2,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 09, 2011",
+      "expenseRatio": 4.68,
+      "managementFee": 3
     },
     {
       "fundId": "14558",
@@ -2828,7 +3674,10 @@
       "offerPrice": 139.82,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.11,
+      "managementFee": 0
     },
     {
       "fundId": "14630",
@@ -2838,7 +3687,10 @@
       "offerPrice": 143.45,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.11,
+      "managementFee": 0
     },
     {
       "fundId": "14945",
@@ -2848,7 +3700,10 @@
       "offerPrice": 101.83,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 24, 2025",
+      "expenseRatio": 0.17,
+      "managementFee": 0.02
     },
     {
       "fundId": "15185",
@@ -2858,7 +3713,10 @@
       "offerPrice": 101.88,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 08, 2026",
+      "expenseRatio": 0.28,
+      "managementFee": 0.1
     },
     {
       "fundId": "15204",
@@ -2868,7 +3726,10 @@
       "offerPrice": 101.7,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 30, 2026",
+      "expenseRatio": 0.2,
+      "managementFee": 0.04
     },
     {
       "fundId": "15202",
@@ -2878,7 +3739,10 @@
       "offerPrice": 101.21,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 17, 2026",
+      "expenseRatio": 0.17,
+      "managementFee": 0
     },
     {
       "fundId": "12924",
@@ -2888,7 +3752,10 @@
       "offerPrice": 106.89,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 15, 2010",
+      "expenseRatio": 1.58,
+      "managementFee": 1.25
     },
     {
       "fundId": "12923",
@@ -2898,7 +3765,10 @@
       "offerPrice": 242.1,
       "category": "Balanced",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 08, 2007",
+      "expenseRatio": 3.63,
+      "managementFee": 2.25
     },
     {
       "fundId": "12955",
@@ -2908,7 +3778,10 @@
       "offerPrice": 468.25,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 15, 2011",
+      "expenseRatio": 1.53,
+      "managementFee": 1.15
     },
     {
       "fundId": "12954",
@@ -2918,7 +3791,10 @@
       "offerPrice": 1216.51,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Dec 15, 2011",
+      "expenseRatio": 1.91,
+      "managementFee": 1
     },
     {
       "fundId": "12956",
@@ -2928,7 +3804,10 @@
       "offerPrice": 393.6,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 15, 2011",
+      "expenseRatio": 1.41,
+      "managementFee": 1.05
     },
     {
       "fundId": "15107",
@@ -2938,7 +3817,10 @@
       "offerPrice": 103.7,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 12, 2026",
+      "expenseRatio": 0.14,
+      "managementFee": 0
     },
     {
       "fundId": "15138",
@@ -2948,7 +3830,10 @@
       "offerPrice": 100,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 08, 2026",
+      "expenseRatio": 1.29,
+      "managementFee": 0.95
     },
     {
       "fundId": "12922",
@@ -2958,7 +3843,10 @@
       "offerPrice": 244.94,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Aug 23, 2007",
+      "expenseRatio": 4.6,
+      "managementFee": 3
     },
     {
       "fundId": "12963",
@@ -2968,7 +3856,10 @@
       "offerPrice": 105.52,
       "category": "Exchange Traded Fund",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Sep 12, 2022",
+      "expenseRatio": 0.67,
+      "managementFee": 0.4
     },
     {
       "fundId": "15193",
@@ -2978,7 +3869,10 @@
       "offerPrice": 100.57,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 22, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15194",
@@ -2988,7 +3882,10 @@
       "offerPrice": 101.08,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 22, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "12978",
@@ -2998,7 +3895,10 @@
       "offerPrice": 109.79,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 29, 2010",
+      "expenseRatio": 1.64,
+      "managementFee": 1.25
     },
     {
       "fundId": "14644",
@@ -3008,7 +3908,10 @@
       "offerPrice": 116.24,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 08, 2024",
+      "expenseRatio": 0.5,
+      "managementFee": 0
     },
     {
       "fundId": "15040",
@@ -3018,7 +3921,10 @@
       "offerPrice": 100.19,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 22, 2026",
+      "expenseRatio": 0.5,
+      "managementFee": 0
     },
     {
       "fundId": "14962",
@@ -3028,7 +3934,10 @@
       "offerPrice": 106.61,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 10, 2025",
+      "expenseRatio": 0.63,
+      "managementFee": 0
     },
     {
       "fundId": "15066",
@@ -3038,7 +3947,10 @@
       "offerPrice": 100.05,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 02, 2026",
+      "expenseRatio": 0.25,
+      "managementFee": 0
     },
     {
       "fundId": "15219",
@@ -3048,7 +3960,10 @@
       "offerPrice": 100,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 03, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15220",
@@ -3058,7 +3973,10 @@
       "offerPrice": 100,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 20, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "12968",
@@ -3068,7 +3986,10 @@
       "offerPrice": 153.45,
       "category": "Fund of Funds",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 31, 2005",
+      "expenseRatio": 0.36,
+      "managementFee": 1
     },
     {
       "fundId": "13006",
@@ -3078,7 +3999,10 @@
       "offerPrice": 123.66,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 15, 2022",
+      "expenseRatio": 2.08,
+      "managementFee": 1.5
     },
     {
       "fundId": "12986",
@@ -3088,7 +4012,10 @@
       "offerPrice": 512.61,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 06, 2006",
+      "expenseRatio": 3.94,
+      "managementFee": 3
     },
     {
       "fundId": "12966",
@@ -3098,7 +4025,10 @@
       "offerPrice": 129.93,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 26, 2002",
+      "expenseRatio": 2.03,
+      "managementFee": 1.5
     },
     {
       "fundId": "12976",
@@ -3108,7 +4038,10 @@
       "offerPrice": 254.09,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 27, 2002",
+      "expenseRatio": 4.64,
+      "managementFee": 3
     },
     {
       "fundId": "12983",
@@ -3118,7 +4051,10 @@
       "offerPrice": 109.38,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 05, 2013",
+      "expenseRatio": 0.47,
+      "managementFee": 0
     },
     {
       "fundId": "13002",
@@ -3128,7 +4064,10 @@
       "offerPrice": 107.24,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 03, 2020",
+      "expenseRatio": 0.46,
+      "managementFee": 0
     },
     {
       "fundId": "13011",
@@ -3138,7 +4077,10 @@
       "offerPrice": 449.78,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 17, 2008",
+      "expenseRatio": 2.12,
+      "managementFee": 1
     },
     {
       "fundId": "13012",
@@ -3148,7 +4090,10 @@
       "offerPrice": 435.16,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 17, 2008",
+      "expenseRatio": 0.97,
+      "managementFee": 0.5
     },
     {
       "fundId": "13010",
@@ -3158,7 +4103,10 @@
       "offerPrice": 1883.6,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Mar 17, 2008",
+      "expenseRatio": 3.47,
+      "managementFee": 1.5
     },
     {
       "fundId": "14891",
@@ -3168,7 +4116,10 @@
       "offerPrice": 103.69,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 26, 2025",
+      "expenseRatio": 0.34,
+      "managementFee": 0
     },
     {
       "fundId": "14997",
@@ -3178,7 +4129,10 @@
       "offerPrice": 100.92,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 11, 2025",
+      "expenseRatio": 0.37,
+      "managementFee": 0
     },
     {
       "fundId": "14562",
@@ -3188,7 +4142,10 @@
       "offerPrice": 142.42,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.29,
+      "managementFee": 0
     },
     {
       "fundId": "14629",
@@ -3198,7 +4155,10 @@
       "offerPrice": 144.55,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.8,
+      "managementFee": 0
     },
     {
       "fundId": "12979",
@@ -3208,7 +4168,10 @@
       "offerPrice": 428.14,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "May 15, 2004",
+      "expenseRatio": 4.04,
+      "managementFee": 3
     },
     {
       "fundId": "13005",
@@ -3218,7 +4181,10 @@
       "offerPrice": 124.39,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 11, 2022",
+      "expenseRatio": 0.34,
+      "managementFee": 1.35
     },
     {
       "fundId": "13015",
@@ -3228,7 +4194,10 @@
       "offerPrice": 11.2,
       "category": "Exchange Traded Fund",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jan 07, 2022",
+      "expenseRatio": 2.36,
+      "managementFee": 0.75
     },
     {
       "fundId": "14368",
@@ -3238,7 +4207,10 @@
       "offerPrice": 126.82,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 28, 2023",
+      "expenseRatio": 0.35,
+      "managementFee": 0
     },
     {
       "fundId": "13007",
@@ -3248,7 +4220,10 @@
       "offerPrice": 1804.11,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 25, 2007",
+      "expenseRatio": 3.62,
+      "managementFee": 1.5
     },
     {
       "fundId": "13008",
@@ -3258,7 +4233,10 @@
       "offerPrice": 617.62,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 25, 2007",
+      "expenseRatio": 1.49,
+      "managementFee": 1
     },
     {
       "fundId": "13009",
@@ -3268,7 +4246,10 @@
       "offerPrice": 508.51,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 25, 2007",
+      "expenseRatio": 0.84,
+      "managementFee": 0.5
     },
     {
       "fundId": "15020",
@@ -3278,7 +4259,10 @@
       "offerPrice": 101.35,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 25, 2025",
+      "expenseRatio": 0.76,
+      "managementFee": 0
     },
     {
       "fundId": "15018",
@@ -3288,7 +4272,10 @@
       "offerPrice": 104.31,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 25, 2025",
+      "expenseRatio": 0.74,
+      "managementFee": 0
     },
     {
       "fundId": "12826",
@@ -3298,7 +4285,10 @@
       "offerPrice": 185.06,
       "category": "Shariah Compliant Index Tracker",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 28, 2012",
+      "expenseRatio": 0,
+      "managementFee": 0.75
     },
     {
       "fundId": "13030",
@@ -3308,7 +4298,10 @@
       "offerPrice": 199.84,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 10, 2011",
+      "expenseRatio": 0.37,
+      "managementFee": 2.25
     },
     {
       "fundId": "13027",
@@ -3318,7 +4311,10 @@
       "offerPrice": 340.48,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Nov 13, 2009",
+      "expenseRatio": 0.56,
+      "managementFee": 3
     },
     {
       "fundId": "13026",
@@ -3328,7 +4324,10 @@
       "offerPrice": 106.04,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 13, 2009",
+      "expenseRatio": 0.96,
+      "managementFee": 0.8
     },
     {
       "fundId": "13031",
@@ -3338,7 +4337,10 @@
       "offerPrice": 104.13,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 29, 2022",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "13029",
@@ -3348,7 +4350,10 @@
       "offerPrice": 95.3,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 10, 2011",
+      "expenseRatio": 0.51,
+      "managementFee": 2.25
     },
     {
       "fundId": "13025",
@@ -3358,7 +4363,10 @@
       "offerPrice": 105.77,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 13, 2009",
+      "expenseRatio": 0.26,
+      "managementFee": 0.4
     },
     {
       "fundId": "13028",
@@ -3368,7 +4376,10 @@
       "offerPrice": 108.51,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 10, 2011",
+      "expenseRatio": 0.47,
+      "managementFee": 2.25
     },
     {
       "fundId": "15033",
@@ -3378,7 +4389,10 @@
       "offerPrice": 105.4,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 20, 2026",
+      "expenseRatio": 0.33,
+      "managementFee": 0.1
     },
     {
       "fundId": "15174",
@@ -3388,7 +4402,10 @@
       "offerPrice": 95.38,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jul 01, 2026",
+      "expenseRatio": 4.29,
+      "managementFee": 1.5
     },
     {
       "fundId": "15022",
@@ -3398,7 +4415,10 @@
       "offerPrice": 105.36,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jan 01, 2026",
+      "expenseRatio": 5.04,
+      "managementFee": 3
     },
     {
       "fundId": "15165",
@@ -3408,7 +4428,10 @@
       "offerPrice": 100.58,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 23, 2026",
+      "expenseRatio": 0.17,
+      "managementFee": 0
     },
     {
       "fundId": "15191",
@@ -3418,7 +4441,10 @@
       "offerPrice": 100.96,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 20, 2026",
+      "expenseRatio": 0.45,
+      "managementFee": 0.9817
     },
     {
       "fundId": "15210",
@@ -3428,7 +4454,10 @@
       "offerPrice": 100.78,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 05, 2026",
+      "expenseRatio": 0.46,
+      "managementFee": 1
     },
     {
       "fundId": "15230",
@@ -3438,7 +4467,10 @@
       "offerPrice": 100.13,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 25, 2026",
+      "expenseRatio": 0.22,
+      "managementFee": 0
     },
     {
       "fundId": "14848",
@@ -3448,7 +4480,10 @@
       "offerPrice": 105.49,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 25, 2025",
+      "expenseRatio": 0.69,
+      "managementFee": 0.42
     },
     {
       "fundId": "14836",
@@ -3458,7 +4493,10 @@
       "offerPrice": 105.7,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 09, 2025",
+      "expenseRatio": 0.58,
+      "managementFee": 0.42
     },
     {
       "fundId": "14951",
@@ -3468,7 +4506,10 @@
       "offerPrice": 111.79,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 10, 2025",
+      "expenseRatio": 0.91,
+      "managementFee": 0.1
     },
     {
       "fundId": "14950",
@@ -3478,7 +4519,10 @@
       "offerPrice": 111.75,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 10, 2025",
+      "expenseRatio": 1.1,
+      "managementFee": 0.1
     },
     {
       "fundId": "14953",
@@ -3488,7 +4532,10 @@
       "offerPrice": 111.65,
       "category": "VPS-Shariah Compliant Commodities / Gold",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 10, 2025",
+      "expenseRatio": 2.76,
+      "managementFee": 1.5
     },
     {
       "fundId": "14952",
@@ -3498,7 +4545,10 @@
       "offerPrice": 114.13,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Nov 10, 2025",
+      "expenseRatio": 2.46,
+      "managementFee": 1.5
     },
     {
       "fundId": "15007",
@@ -3508,7 +4558,10 @@
       "offerPrice": 106.65,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 22, 2025",
+      "expenseRatio": 0.48,
+      "managementFee": 0
     },
     {
       "fundId": "14849",
@@ -3518,7 +4571,10 @@
       "offerPrice": 139.5,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Apr 25, 2025",
+      "expenseRatio": 4.05,
+      "managementFee": 3
     },
     {
       "fundId": "14909",
@@ -3528,7 +4584,10 @@
       "offerPrice": 11.36,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 26, 2025",
+      "expenseRatio": 1.64,
+      "managementFee": 1
     },
     {
       "fundId": "14908",
@@ -3538,7 +4597,10 @@
       "offerPrice": 11.23,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 26, 2025",
+      "expenseRatio": 1.6,
+      "managementFee": 1
     },
     {
       "fundId": "14907",
@@ -3548,7 +4610,10 @@
       "offerPrice": 12.69,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 26, 2025",
+      "expenseRatio": 2.74,
+      "managementFee": 2
     },
     {
       "fundId": "14555",
@@ -3558,7 +4623,10 @@
       "offerPrice": 109,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 29, 2023",
+      "expenseRatio": 0.9,
+      "managementFee": 0.6
     },
     {
       "fundId": "14620",
@@ -3568,7 +4636,10 @@
       "offerPrice": 16.64,
       "category": "Shariah Compliant Exchange Traded Fund",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Mar 11, 2024",
+      "expenseRatio": 1.15,
+      "managementFee": 0.75
     },
     {
       "fundId": "14575",
@@ -3578,7 +4649,10 @@
       "offerPrice": 141.42,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2023",
+      "expenseRatio": 1.12,
+      "managementFee": 0.6002
     },
     {
       "fundId": "12723",
@@ -3588,7 +4662,10 @@
       "offerPrice": 104.41,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 01, 2009",
+      "expenseRatio": 1.1,
+      "managementFee": 0.8
     },
     {
       "fundId": "14727",
@@ -3598,7 +4675,10 @@
       "offerPrice": 102.55,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 10, 2024",
+      "expenseRatio": 0.5,
+      "managementFee": 0.314
     },
     {
       "fundId": "15177",
@@ -3608,7 +4688,10 @@
       "offerPrice": 101.66,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 06, 2026",
+      "expenseRatio": 0.22,
+      "managementFee": 0.071
     },
     {
       "fundId": "15178",
@@ -3618,7 +4701,10 @@
       "offerPrice": 101.42,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 07, 2026",
+      "expenseRatio": 0.34,
+      "managementFee": 0.175
     },
     {
       "fundId": "15217",
@@ -3628,7 +4714,10 @@
       "offerPrice": 100.24,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 18, 2026",
+      "expenseRatio": 0.27,
+      "managementFee": 0.105
     },
     {
       "fundId": "12722",
@@ -3638,7 +4727,10 @@
       "offerPrice": 113.52,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 03, 2007",
+      "expenseRatio": 1.95,
+      "managementFee": 1.4999
     },
     {
       "fundId": "15172",
@@ -3648,7 +4740,10 @@
       "offerPrice": 99.39,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 02, 2026",
+      "expenseRatio": 8.09,
+      "managementFee": 3
     },
     {
       "fundId": "14744",
@@ -3658,7 +4753,10 @@
       "offerPrice": 104.83,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 05, 2024",
+      "expenseRatio": 1.92,
+      "managementFee": 1.5
     },
     {
       "fundId": "14699",
@@ -3668,7 +4766,10 @@
       "offerPrice": 103.67,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 05, 2024",
+      "expenseRatio": 0.45,
+      "managementFee": 0.2
     },
     {
       "fundId": "14597",
@@ -3678,7 +4779,10 @@
       "offerPrice": 143.88,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2023",
+      "expenseRatio": 1.13,
+      "managementFee": 0.6
     },
     {
       "fundId": "15179",
@@ -3688,7 +4792,10 @@
       "offerPrice": 103.35,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 08, 2026",
+      "expenseRatio": 0.28,
+      "managementFee": 0
     },
     {
       "fundId": "12720",
@@ -3698,7 +4805,10 @@
       "offerPrice": 252.73,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 17, 2008",
+      "expenseRatio": 4.32,
+      "managementFee": 3
     },
     {
       "fundId": "12747",
@@ -3708,7 +4818,10 @@
       "offerPrice": 366.1,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 29, 2022",
+      "expenseRatio": 4.25,
+      "managementFee": 3
     },
     {
       "fundId": "12728",
@@ -3718,7 +4831,10 @@
       "offerPrice": 57.05,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 01, 2003",
+      "expenseRatio": 1.93,
+      "managementFee": 1.5
     },
     {
       "fundId": "12724",
@@ -3728,7 +4844,10 @@
       "offerPrice": 391.42,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Mar 11, 2002",
+      "expenseRatio": 3.98,
+      "managementFee": 3
     },
     {
       "fundId": "14987",
@@ -3738,7 +4857,10 @@
       "offerPrice": 107.2,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 08, 2025",
+      "expenseRatio": 0.73,
+      "managementFee": 0.4767
     },
     {
       "fundId": "12843",
@@ -3748,7 +4870,10 @@
       "offerPrice": 121.75,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 18, 2016",
+      "expenseRatio": 0,
+      "managementFee": 2.76
     },
     {
       "fundId": "12822",
@@ -3758,7 +4883,10 @@
       "offerPrice": 28.31,
       "category": "Shariah Compliant Balanced",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 20, 2004",
+      "expenseRatio": 0,
+      "managementFee": 2.3
     },
     {
       "fundId": "15077",
@@ -3768,7 +4896,10 @@
       "offerPrice": 52.12,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 12, 2026",
+      "expenseRatio": 0,
+      "managementFee": 1.74
     },
     {
       "fundId": "12820",
@@ -3778,7 +4909,10 @@
       "offerPrice": 52.44,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 15, 2009",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12854",
@@ -3788,7 +4922,10 @@
       "offerPrice": 50.58,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 13, 2021",
+      "expenseRatio": 0,
+      "managementFee": 1.15
     },
     {
       "fundId": "12855",
@@ -3798,7 +4935,10 @@
       "offerPrice": 50,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 29, 2022",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "14406",
@@ -3808,7 +4948,10 @@
       "offerPrice": 51.98,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 29, 2023",
+      "expenseRatio": 0,
+      "managementFee": 0.8
     },
     {
       "fundId": "14407",
@@ -3818,7 +4961,10 @@
       "offerPrice": 51.44,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2023",
+      "expenseRatio": 1.96,
+      "managementFee": 1.5
     },
     {
       "fundId": "14652",
@@ -3828,7 +4974,10 @@
       "offerPrice": 51.39,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 22, 2024",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "12864",
@@ -3838,7 +4987,10 @@
       "offerPrice": 99.65,
       "category": "Shariah Compliant Dedicated Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Oct 06, 2017",
+      "expenseRatio": 0,
+      "managementFee": 3
     },
     {
       "fundId": "14709",
@@ -3848,7 +5000,10 @@
       "offerPrice": 86.34,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 28, 2024",
+      "expenseRatio": 0,
+      "managementFee": 2.81
     },
     {
       "fundId": "12837",
@@ -3858,7 +5013,10 @@
       "offerPrice": 68.76,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Nov 30, 2016",
+      "expenseRatio": 0,
+      "managementFee": 3
     },
     {
       "fundId": "12827",
@@ -3868,7 +5026,10 @@
       "offerPrice": 188.76,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 12, 2013",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12828",
@@ -3878,7 +5039,10 @@
       "offerPrice": 128.4,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 12, 2013",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12838",
@@ -3888,7 +5052,10 @@
       "offerPrice": 143.94,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 09, 2015",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12829",
@@ -3898,7 +5065,10 @@
       "offerPrice": 149.9,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 12, 2013",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "14408",
@@ -3908,7 +5078,10 @@
       "offerPrice": 53.96,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 18, 2023",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "14638",
@@ -3918,7 +5091,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0,
+      "managementFee": 0.3
     },
     {
       "fundId": "12840",
@@ -3928,7 +5104,10 @@
       "offerPrice": 314.52,
       "category": "Shariah Compliant Commodities",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 13, 2015",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "15175",
@@ -3938,7 +5117,10 @@
       "offerPrice": 51.55,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 03, 2026",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "15043",
@@ -3948,7 +5130,10 @@
       "offerPrice": 50.9,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 28, 2026",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12817",
@@ -3958,7 +5143,10 @@
       "offerPrice": 168.6,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Aug 08, 2003",
+      "expenseRatio": 0,
+      "managementFee": 3
     },
     {
       "fundId": "15200",
@@ -3968,7 +5156,10 @@
       "offerPrice": 100.84,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 22, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0.3
     },
     {
       "fundId": "14969",
@@ -3978,7 +5169,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 21, 2025",
+      "expenseRatio": 0,
+      "managementFee": 0.3
     },
     {
       "fundId": "12818",
@@ -3988,7 +5182,10 @@
       "offerPrice": 53.38,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 15, 2007",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "15063",
@@ -3998,7 +5195,10 @@
       "offerPrice": 51.09,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 26, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0.01
     },
     {
       "fundId": "15065",
@@ -4008,7 +5208,10 @@
       "offerPrice": 51.29,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 26, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0.1
     },
     {
       "fundId": "15090",
@@ -4018,7 +5221,10 @@
       "offerPrice": 51.24,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 31, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0.1
     },
     {
       "fundId": "15144",
@@ -4028,7 +5234,10 @@
       "offerPrice": 50.92,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 21, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15155",
@@ -4038,7 +5247,10 @@
       "offerPrice": 50.95,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 12, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0.02
     },
     {
       "fundId": "15167",
@@ -4048,7 +5260,10 @@
       "offerPrice": 50.86,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 16, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15203",
@@ -4058,7 +5273,10 @@
       "offerPrice": 50.45,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 29, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15216",
@@ -4068,7 +5286,10 @@
       "offerPrice": 50.34,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 30, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "15212",
@@ -4078,7 +5299,10 @@
       "offerPrice": 50.34,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 05, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "12865",
@@ -4088,7 +5312,10 @@
       "offerPrice": 17.87,
       "category": "Shariah Compliant Exchange Traded Fund",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Oct 06, 2020",
+      "expenseRatio": 0,
+      "managementFee": 0.5
     },
     {
       "fundId": "12852",
@@ -4098,7 +5325,10 @@
       "offerPrice": 50,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 28, 2018",
+      "expenseRatio": 0,
+      "managementFee": 1.1
     },
     {
       "fundId": "12824",
@@ -4108,7 +5338,10 @@
       "offerPrice": 53.94,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 10, 2010",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "12836",
@@ -4118,7 +5351,10 @@
       "offerPrice": 95.15,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 19, 2016",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12834",
@@ -4128,7 +5364,10 @@
       "offerPrice": 81.85,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 22, 2016",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12835",
@@ -4138,7 +5377,10 @@
       "offerPrice": 90.27,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 20, 2017",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12845",
@@ -4148,7 +5390,10 @@
       "offerPrice": 95.7,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 24, 2017",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12839",
@@ -4158,7 +5403,10 @@
       "offerPrice": 105.07,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 17, 2017",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12860",
@@ -4168,7 +5416,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jun 28, 2007",
+      "expenseRatio": 0,
+      "managementFee": 2
     },
     {
       "fundId": "12862",
@@ -4178,7 +5429,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 28, 2007",
+      "expenseRatio": 0,
+      "managementFee": 0.75
     },
     {
       "fundId": "12861",
@@ -4188,7 +5442,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 28, 2007",
+      "expenseRatio": 0,
+      "managementFee": 1
     },
     {
       "fundId": "12863",
@@ -4198,7 +5455,10 @@
       "offerPrice": 0,
       "category": "VPS-Shariah Compliant Commodities / Gold",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 04, 2016",
+      "expenseRatio": 0,
+      "managementFee": 1.5
     },
     {
       "fundId": "13099",
@@ -4208,7 +5468,10 @@
       "offerPrice": 303.56,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 02, 2013",
+      "expenseRatio": 1.44,
+      "managementFee": 1.12
     },
     {
       "fundId": "13100",
@@ -4218,7 +5481,10 @@
       "offerPrice": 1250.24,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jul 02, 2013",
+      "expenseRatio": 2.79,
+      "managementFee": 2
     },
     {
       "fundId": "13101",
@@ -4228,7 +5494,10 @@
       "offerPrice": 309.88,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 02, 2013",
+      "expenseRatio": 0.99,
+      "managementFee": 0.74
     },
     {
       "fundId": "13097",
@@ -4238,7 +5507,10 @@
       "offerPrice": 1456.79,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jul 02, 2013",
+      "expenseRatio": 2.88,
+      "managementFee": 2
     },
     {
       "fundId": "13096",
@@ -4248,7 +5520,10 @@
       "offerPrice": 407.49,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 02, 2013",
+      "expenseRatio": 1.44,
+      "managementFee": 1.12
     },
     {
       "fundId": "13098",
@@ -4258,7 +5533,10 @@
       "offerPrice": 348.11,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 02, 2013",
+      "expenseRatio": 1.29,
+      "managementFee": 1
     },
     {
       "fundId": "13034",
@@ -4268,7 +5546,10 @@
       "offerPrice": 158.2,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Nov 12, 1962",
+      "expenseRatio": 2.99,
+      "managementFee": 1.44
     },
     {
       "fundId": "13055",
@@ -4278,7 +5559,10 @@
       "offerPrice": 45.05,
       "category": "Balanced",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 22, 2007",
+      "expenseRatio": 3.46,
+      "managementFee": 2.44
     },
     {
       "fundId": "15222",
@@ -4288,7 +5572,10 @@
       "offerPrice": 100.47,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 11, 2026",
+      "expenseRatio": 0.56,
+      "managementFee": 0.3
     },
     {
       "fundId": "13093",
@@ -4298,7 +5585,10 @@
       "offerPrice": 10.64,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 10, 2023",
+      "expenseRatio": 0.21,
+      "managementFee": 0.02
     },
     {
       "fundId": "13094",
@@ -4308,7 +5598,10 @@
       "offerPrice": 10.35,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 10, 2023",
+      "expenseRatio": 0.26,
+      "managementFee": 0.01
     },
     {
       "fundId": "13081",
@@ -4318,7 +5611,10 @@
       "offerPrice": 26.2,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Feb 14, 2018",
+      "expenseRatio": 3.07,
+      "managementFee": 2.5
     },
     {
       "fundId": "13062",
@@ -4328,7 +5624,10 @@
       "offerPrice": 11.03,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 28, 2011",
+      "expenseRatio": 1.2,
+      "managementFee": 0.89
     },
     {
       "fundId": "15101",
@@ -4338,7 +5637,10 @@
       "offerPrice": 10.56,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 20, 2026",
+      "expenseRatio": 0.79,
+      "managementFee": 0.53
     },
     {
       "fundId": "15171",
@@ -4348,7 +5650,10 @@
       "offerPrice": 10.1,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 29, 2026",
+      "expenseRatio": 0.28,
+      "managementFee": 0.11
     },
     {
       "fundId": "15182",
@@ -4358,7 +5663,10 @@
       "offerPrice": 10.07,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 08, 2026",
+      "expenseRatio": 0.19,
+      "managementFee": 0
     },
     {
       "fundId": "15181",
@@ -4368,7 +5676,10 @@
       "offerPrice": 10.15,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 18, 2026",
+      "expenseRatio": 0.15,
+      "managementFee": 0
     },
     {
       "fundId": "14934",
@@ -4378,7 +5689,10 @@
       "offerPrice": 10.1,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 06, 2025",
+      "expenseRatio": 0.26,
+      "managementFee": 0.1
     },
     {
       "fundId": "15170",
@@ -4388,7 +5702,10 @@
       "offerPrice": 10.09,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 29, 2026",
+      "expenseRatio": 0.27,
+      "managementFee": 0
     },
     {
       "fundId": "15162",
@@ -4398,7 +5715,10 @@
       "offerPrice": 10.12,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 22, 2026",
+      "expenseRatio": 0.28,
+      "managementFee": 0.1
     },
     {
       "fundId": "15069",
@@ -4408,7 +5728,10 @@
       "offerPrice": 10.35,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 03, 2026",
+      "expenseRatio": 0.22,
+      "managementFee": 0.04
     },
     {
       "fundId": "14624",
@@ -4418,7 +5741,10 @@
       "offerPrice": 142.43,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2023",
+      "expenseRatio": 0.61,
+      "managementFee": 0.3
     },
     {
       "fundId": "14614",
@@ -4428,7 +5754,10 @@
       "offerPrice": 144.58,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 13, 2023",
+      "expenseRatio": 0.75,
+      "managementFee": 0.35
     },
     {
       "fundId": "13059",
@@ -4438,7 +5767,10 @@
       "offerPrice": 10.63,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 16, 2009",
+      "expenseRatio": 1.43,
+      "managementFee": 1.1
     },
     {
       "fundId": "14374",
@@ -4448,7 +5780,10 @@
       "offerPrice": 10.63,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 10, 2023",
+      "expenseRatio": 1.4,
+      "managementFee": 1.02
     },
     {
       "fundId": "14906",
@@ -4458,7 +5793,10 @@
       "offerPrice": 13.65,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 19, 2025",
+      "expenseRatio": 15.12,
+      "managementFee": 0.25
     },
     {
       "fundId": "13066",
@@ -4468,7 +5806,10 @@
       "offerPrice": 10.84,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 03, 2014",
+      "expenseRatio": 1.62,
+      "managementFee": 1.23
     },
     {
       "fundId": "13053",
@@ -4478,7 +5819,10 @@
       "offerPrice": 11.25,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 22, 2006",
+      "expenseRatio": 1.82,
+      "managementFee": 1.41
     },
     {
       "fundId": "13095",
@@ -4488,7 +5832,10 @@
       "offerPrice": 10.58,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 10, 2023",
+      "expenseRatio": 0.57,
+      "managementFee": 0
     },
     {
       "fundId": "15223",
@@ -4498,7 +5845,10 @@
       "offerPrice": 100.47,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 11, 2026",
+      "expenseRatio": 0.56,
+      "managementFee": 0.3
     },
     {
       "fundId": "13089",
@@ -4508,7 +5858,10 @@
       "offerPrice": 10.12,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 01, 2019",
+      "expenseRatio": 1.04,
+      "managementFee": 0.76
     },
     {
       "fundId": "13074",
@@ -4518,7 +5871,10 @@
       "offerPrice": 24.15,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Apr 21, 2016",
+      "expenseRatio": 4.55,
+      "managementFee": 3
     },
     {
       "fundId": "15190",
@@ -4528,7 +5884,10 @@
       "offerPrice": 10.06,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 13, 2026",
+      "expenseRatio": 0.2,
+      "managementFee": 0.04
     },
     {
       "fundId": "15197",
@@ -4538,7 +5897,10 @@
       "offerPrice": 10.02,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 23, 2026",
+      "expenseRatio": 0.19,
+      "managementFee": 0
     },
     {
       "fundId": "15221",
@@ -4548,7 +5910,10 @@
       "offerPrice": 10,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 10, 2026",
+      "expenseRatio": 0.19,
+      "managementFee": 0
     },
     {
       "fundId": "15114",
@@ -4558,7 +5923,10 @@
       "offerPrice": 10.49,
       "category": "Shariah Compliant Commodities",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 04, 2026",
+      "expenseRatio": 1.52,
+      "managementFee": 0.3
     },
     {
       "fundId": "14596",
@@ -4568,7 +5936,10 @@
       "offerPrice": 10.6,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 19, 2024",
+      "expenseRatio": 1.78,
+      "managementFee": 1.18
     },
     {
       "fundId": "13067",
@@ -4578,7 +5949,10 @@
       "offerPrice": 10.44,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 14, 2020",
+      "expenseRatio": 1.84,
+      "managementFee": 1.42
     },
     {
       "fundId": "13085",
@@ -4588,7 +5962,10 @@
       "offerPrice": 10.44,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 08, 2018",
+      "expenseRatio": 1.4,
+      "managementFee": 1.06
     },
     {
       "fundId": "13082",
@@ -4598,7 +5975,10 @@
       "offerPrice": 10.49,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 28, 2018",
+      "expenseRatio": 0.39,
+      "managementFee": 0.2
     },
     {
       "fundId": "14928",
@@ -4608,7 +5988,10 @@
       "offerPrice": 10.12,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 25, 2025",
+      "expenseRatio": 2.46,
+      "managementFee": 1.8
     },
     {
       "fundId": "15012",
@@ -4618,7 +6001,10 @@
       "offerPrice": 10.5,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 19, 2025",
+      "expenseRatio": 2.46,
+      "managementFee": 1.8
     },
     {
       "fundId": "15041",
@@ -4628,7 +6014,10 @@
       "offerPrice": 10.46,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 26, 2026",
+      "expenseRatio": 2.4,
+      "managementFee": 1.8
     },
     {
       "fundId": "15057",
@@ -4638,7 +6027,10 @@
       "offerPrice": 10.54,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 23, 2026",
+      "expenseRatio": 2.54,
+      "managementFee": 1.8
     },
     {
       "fundId": "15153",
@@ -4648,7 +6040,10 @@
       "offerPrice": 10.48,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 12, 2026",
+      "expenseRatio": 2.45,
+      "managementFee": 1.8
     },
     {
       "fundId": "15228",
@@ -4658,7 +6053,10 @@
       "offerPrice": 10.35,
       "category": "Shariah Compliant Capital Protected",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 17, 2026",
+      "expenseRatio": 3.25,
+      "managementFee": 1.5
     },
     {
       "fundId": "15029",
@@ -4668,7 +6066,10 @@
       "offerPrice": 106.31,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 14, 2026",
+      "expenseRatio": 0.56,
+      "managementFee": 0.3
     },
     {
       "fundId": "13057",
@@ -4678,7 +6079,10 @@
       "offerPrice": 36.52,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 29, 2007",
+      "expenseRatio": 3.85,
+      "managementFee": 2.74
     },
     {
       "fundId": "13056",
@@ -4688,7 +6092,10 @@
       "offerPrice": 10.11,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 29, 2007",
+      "expenseRatio": 1.59,
+      "managementFee": 1.2
     },
     {
       "fundId": "13068",
@@ -4698,7 +6105,10 @@
       "offerPrice": 25.87,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jan 12, 2015",
+      "expenseRatio": 4.12,
+      "managementFee": 3
     },
     {
       "fundId": "13052",
@@ -4708,7 +6118,10 @@
       "offerPrice": 10.64,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 21, 2009",
+      "expenseRatio": 1.07,
+      "managementFee": 0.7
     },
     {
       "fundId": "13063",
@@ -4718,7 +6131,10 @@
       "offerPrice": 10.36,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 24, 2012",
+      "expenseRatio": 0.98,
+      "managementFee": 0.73
     },
     {
       "fundId": "15176",
@@ -4728,7 +6144,10 @@
       "offerPrice": 10.29,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 03, 2026",
+      "expenseRatio": 0.52,
+      "managementFee": 0.29
     },
     {
       "fundId": "13103",
@@ -4738,7 +6157,10 @@
       "offerPrice": 26.58,
       "category": "Exchange Traded Fund",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Oct 06, 2020",
+      "expenseRatio": 1.55,
+      "managementFee": 0.75
     },
     {
       "fundId": "15030",
@@ -4748,7 +6170,10 @@
       "offerPrice": 106.75,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 14, 2026",
+      "expenseRatio": 0.56,
+      "managementFee": 0.3
     },
     {
       "fundId": "13060",
@@ -4758,7 +6183,10 @@
       "offerPrice": 10.67,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2010",
+      "expenseRatio": 1.03,
+      "managementFee": 0.72
     },
     {
       "fundId": "13061",
@@ -4768,7 +6196,10 @@
       "offerPrice": 41.76,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2010",
+      "expenseRatio": 3.95,
+      "managementFee": 2.72
     },
     {
       "fundId": "13058",
@@ -4778,7 +6209,10 @@
       "offerPrice": 10.45,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 29, 2008",
+      "expenseRatio": 1.63,
+      "managementFee": 1.2
     },
     {
       "fundId": "13054",
@@ -4788,7 +6222,10 @@
       "offerPrice": 44.67,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jan 22, 2007",
+      "expenseRatio": 3.99,
+      "managementFee": 2.99
     },
     {
       "fundId": "13036",
@@ -4798,7 +6235,10 @@
       "offerPrice": 10.4,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Nov 18, 2009",
+      "expenseRatio": 1.45,
+      "managementFee": 0.97
     },
     {
       "fundId": "13037",
@@ -4808,7 +6248,10 @@
       "offerPrice": 10.59,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Feb 19, 2010",
+      "expenseRatio": 1.86,
+      "managementFee": 1.23
     },
     {
       "fundId": "13041",
@@ -4818,7 +6261,10 @@
       "offerPrice": 17.04,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 09, 2020",
+      "expenseRatio": 2.51,
+      "managementFee": 1.5
     },
     {
       "fundId": "13038",
@@ -4828,7 +6274,10 @@
       "offerPrice": 19.14,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "May 18, 2015",
+      "expenseRatio": 3.5,
+      "managementFee": 2.01
     },
     {
       "fundId": "13040",
@@ -4838,7 +6287,10 @@
       "offerPrice": 9.88,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 04, 2016",
+      "expenseRatio": 1.83,
+      "managementFee": 1
     },
     {
       "fundId": "13042",
@@ -4848,7 +6300,10 @@
       "offerPrice": 104.47,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 21, 2021",
+      "expenseRatio": 1.02,
+      "managementFee": 0.76
     },
     {
       "fundId": "13049",
@@ -4858,7 +6313,10 @@
       "offerPrice": 26.44,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 0.86,
+      "managementFee": 0.5
     },
     {
       "fundId": "13047",
@@ -4868,7 +6326,10 @@
       "offerPrice": 26.67,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 0.98,
+      "managementFee": 0.5
     },
     {
       "fundId": "13048",
@@ -4878,7 +6339,10 @@
       "offerPrice": 32.72,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 1.28,
+      "managementFee": 0.75
     },
     {
       "fundId": "14650",
@@ -4888,7 +6352,10 @@
       "offerPrice": 137.84,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.81,
+      "managementFee": 0.5
     },
     {
       "fundId": "14570",
@@ -4898,7 +6365,10 @@
       "offerPrice": 141.96,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.86,
+      "managementFee": 0.5
     },
     {
       "fundId": "13039",
@@ -4908,7 +6378,10 @@
       "offerPrice": 9.95,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 22, 2016",
+      "expenseRatio": 0.75,
+      "managementFee": 0.5
     },
     {
       "fundId": "13051",
@@ -4918,7 +6391,10 @@
       "offerPrice": 34.34,
       "category": "Exchange Traded Fund",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Mar 21, 2020",
+      "expenseRatio": 1.7,
+      "managementFee": 0.4
     },
     {
       "fundId": "13044",
@@ -4928,7 +6404,10 @@
       "offerPrice": 30.7,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 0.88,
+      "managementFee": 0.5
     },
     {
       "fundId": "13046",
@@ -4938,7 +6417,10 @@
       "offerPrice": 9.92,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 0.83,
+      "managementFee": 0.5
     },
     {
       "fundId": "13045",
@@ -4948,7 +6430,10 @@
       "offerPrice": 34.37,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 1.3,
+      "managementFee": 0.75
     },
     {
       "fundId": "13050",
@@ -4958,7 +6443,10 @@
       "offerPrice": 53.56,
       "category": "VPS-Commodities / Gold",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 19, 2015",
+      "expenseRatio": 0.98,
+      "managementFee": 0
     },
     {
       "fundId": "13043",
@@ -4968,7 +6456,10 @@
       "offerPrice": 10.51,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 16, 2022",
+      "expenseRatio": 1.63,
+      "managementFee": 1.11
     },
     {
       "fundId": "13104",
@@ -4978,7 +6469,10 @@
       "offerPrice": 41.91,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 30, 2008",
+      "expenseRatio": 0.83,
+      "managementFee": 2
     },
     {
       "fundId": "13105",
@@ -4988,7 +6482,10 @@
       "offerPrice": 54.69,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 28, 2008",
+      "expenseRatio": 0.65,
+      "managementFee": 0.7
     },
     {
       "fundId": "13119",
@@ -4998,7 +6495,10 @@
       "offerPrice": 10.02,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 07, 2021",
+      "expenseRatio": 0.97,
+      "managementFee": 0.1
     },
     {
       "fundId": "13116",
@@ -5008,7 +6508,10 @@
       "offerPrice": 11.05,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 28, 2011",
+      "expenseRatio": 0.52,
+      "managementFee": 1.1
     },
     {
       "fundId": "13106",
@@ -5018,7 +6521,10 @@
       "offerPrice": 40.63,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 28, 2008",
+      "expenseRatio": 0.89,
+      "managementFee": 2
     },
     {
       "fundId": "14673",
@@ -5028,7 +6534,10 @@
       "offerPrice": 102.97,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 14, 2024",
+      "expenseRatio": 0.12,
+      "managementFee": 0.5
     },
     {
       "fundId": "14364",
@@ -5038,7 +6547,10 @@
       "offerPrice": 124.73,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 18, 2023",
+      "expenseRatio": 0.36,
+      "managementFee": 0.15
     },
     {
       "fundId": "14365",
@@ -5048,7 +6560,10 @@
       "offerPrice": 121.94,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 18, 2023",
+      "expenseRatio": 0.35,
+      "managementFee": 0.15
     },
     {
       "fundId": "13125",
@@ -5058,7 +6573,10 @@
       "offerPrice": 122.62,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 03, 2022",
+      "expenseRatio": 0.61,
+      "managementFee": 0.4
     },
     {
       "fundId": "13124",
@@ -5068,7 +6586,10 @@
       "offerPrice": 103.45,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 03, 2022",
+      "expenseRatio": 0.64,
+      "managementFee": 0.4
     },
     {
       "fundId": "15183",
@@ -5078,7 +6599,10 @@
       "offerPrice": 103.83,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 13, 2026",
+      "expenseRatio": 0.17,
+      "managementFee": 0.1
     },
     {
       "fundId": "15006",
@@ -5088,7 +6612,10 @@
       "offerPrice": 110.13,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 12, 2025",
+      "expenseRatio": 0.33,
+      "managementFee": 0.1
     },
     {
       "fundId": "15024",
@@ -5098,7 +6625,10 @@
       "offerPrice": 109.12,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 09, 2026",
+      "expenseRatio": 0.33,
+      "managementFee": 0.1
     },
     {
       "fundId": "13126",
@@ -5108,7 +6638,10 @@
       "offerPrice": 124.01,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 03, 2022",
+      "expenseRatio": 0.88,
+      "managementFee": 0.6
     },
     {
       "fundId": "15224",
@@ -5118,7 +6651,10 @@
       "offerPrice": 103.96,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 13, 2026",
+      "expenseRatio": 0.39,
+      "managementFee": 0.05
     },
     {
       "fundId": "13129",
@@ -5128,7 +6664,10 @@
       "offerPrice": 175.12,
       "category": "VPS-Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 01, 2022",
+      "expenseRatio": 1.38,
+      "managementFee": 1
     },
     {
       "fundId": "13128",
@@ -5138,7 +6677,10 @@
       "offerPrice": 329.76,
       "category": "VPS-Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Dec 01, 2022",
+      "expenseRatio": 3.14,
+      "managementFee": 2.5
     },
     {
       "fundId": "13130",
@@ -5148,7 +6690,10 @@
       "offerPrice": 178.75,
       "category": "VPS-Shariah Compliant Debt",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 01, 2022",
+      "expenseRatio": 1.72,
+      "managementFee": 1.25
     },
     {
       "fundId": "13121",
@@ -5158,7 +6703,10 @@
       "offerPrice": 221.29,
       "category": "Shariah Compliant Equity",
       "shariah": true,
-      "benchmark": "KMI-30"
+      "benchmark": "KMI-30",
+      "inceptionDate": "Sep 22, 2022",
+      "expenseRatio": 3.43,
+      "managementFee": 2.1
     },
     {
       "fundId": "14721",
@@ -5168,7 +6716,10 @@
       "offerPrice": 142.52,
       "category": "Shariah Compliant Asset Allocation",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 24, 2024",
+      "expenseRatio": 2.54,
+      "managementFee": 2.5
     },
     {
       "fundId": "12727",
@@ -5178,7 +6729,10 @@
       "offerPrice": 31.63,
       "category": "Balanced",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jan 24, 2004",
+      "expenseRatio": 4.14,
+      "managementFee": 3
     },
     {
       "fundId": "12730",
@@ -5188,7 +6742,10 @@
       "offerPrice": 51.05,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 19, 2008",
+      "expenseRatio": 1.41,
+      "managementFee": 0.3
     },
     {
       "fundId": "12731",
@@ -5198,7 +6755,10 @@
       "offerPrice": 57.49,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 28, 2008",
+      "expenseRatio": 1.99,
+      "managementFee": 1.5008
     },
     {
       "fundId": "12726",
@@ -5208,7 +6768,10 @@
       "offerPrice": 57.64,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 11, 2002",
+      "expenseRatio": 1.63,
+      "managementFee": 0.75
     },
     {
       "fundId": "12760",
@@ -5218,7 +6781,10 @@
       "offerPrice": 570.33,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 27, 2007",
+      "expenseRatio": 1.31,
+      "managementFee": 1
     },
     {
       "fundId": "12758",
@@ -5228,7 +6794,10 @@
       "offerPrice": 2495.2,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Jun 27, 2007",
+      "expenseRatio": 3.31,
+      "managementFee": 2.5
     },
     {
       "fundId": "12759",
@@ -5238,7 +6807,10 @@
       "offerPrice": 659.45,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 27, 2007",
+      "expenseRatio": 1.68,
+      "managementFee": 1.25
     },
     {
       "fundId": "13150",
@@ -5248,7 +6820,10 @@
       "offerPrice": 322.03,
       "category": "Asset Allocation",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Aug 20, 2013",
+      "expenseRatio": 3.21,
+      "managementFee": 2.6345
     },
     {
       "fundId": "13185",
@@ -5258,7 +6833,10 @@
       "offerPrice": 102.6,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 23, 2019",
+      "expenseRatio": 0.12,
+      "managementFee": 0.0191
     },
     {
       "fundId": "13172",
@@ -5268,7 +6846,10 @@
       "offerPrice": 337.05,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Apr 06, 2018",
+      "expenseRatio": 3.34,
+      "managementFee": 2.8503
     },
     {
       "fundId": "14876",
@@ -5278,7 +6859,10 @@
       "offerPrice": 103.06,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 25, 2025",
+      "expenseRatio": 0.38,
+      "managementFee": 0.3179
     },
     {
       "fundId": "14679",
@@ -5288,7 +6872,10 @@
       "offerPrice": 100.93,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 03, 2024",
+      "expenseRatio": 0.19,
+      "managementFee": 0.1375
     },
     {
       "fundId": "14877",
@@ -5298,7 +6885,10 @@
       "offerPrice": 123.35,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 26, 2025",
+      "expenseRatio": 0.79,
+      "managementFee": 0.3151
     },
     {
       "fundId": "14899",
@@ -5308,7 +6898,10 @@
       "offerPrice": 102.94,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 21, 2025",
+      "expenseRatio": 0.15,
+      "managementFee": 0.0972
     },
     {
       "fundId": "13144",
@@ -5318,7 +6911,10 @@
       "offerPrice": 109.86,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jul 27, 2011",
+      "expenseRatio": 1.63,
+      "managementFee": 1.5001
     },
     {
       "fundId": "13134",
@@ -5328,7 +6924,10 @@
       "offerPrice": 88.83,
       "category": "Aggressive Fixed Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 02, 2006",
+      "expenseRatio": 1.64,
+      "managementFee": 1.5001
     },
     {
       "fundId": "13133",
@@ -5338,7 +6937,10 @@
       "offerPrice": 115,
       "category": "Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 29, 2013",
+      "expenseRatio": 1.64,
+      "managementFee": 1.5001
     },
     {
       "fundId": "14921",
@@ -5348,7 +6950,10 @@
       "offerPrice": 101.84,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Sep 05, 2025",
+      "expenseRatio": 0.7,
+      "managementFee": 0.646
     },
     {
       "fundId": "13138",
@@ -5358,7 +6963,10 @@
       "offerPrice": 103.3,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Jun 21, 2009",
+      "expenseRatio": 1.1,
+      "managementFee": 1.001
     },
     {
       "fundId": "13141",
@@ -5368,7 +6976,10 @@
       "offerPrice": 104.26,
       "category": "Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 13, 2010",
+      "expenseRatio": 1.3,
+      "managementFee": 1.2501
     },
     {
       "fundId": "13210",
@@ -5378,7 +6989,10 @@
       "offerPrice": 29.44,
       "category": "Exchange Traded Fund",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Mar 24, 2020",
+      "expenseRatio": 1.31,
+      "managementFee": 0.65
     },
     {
       "fundId": "15025",
@@ -5388,7 +7002,10 @@
       "offerPrice": 106.76,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 24, 2025",
+      "expenseRatio": 57.93,
+      "managementFee": 0.2003
     },
     {
       "fundId": "13204",
@@ -5398,7 +7015,10 @@
       "offerPrice": 440.16,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 19, 2010",
+      "expenseRatio": 0.84,
+      "managementFee": 0.75
     },
     {
       "fundId": "13203",
@@ -5408,7 +7028,10 @@
       "offerPrice": 3569.63,
       "category": "VPS-Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "May 19, 2010",
+      "expenseRatio": 1.95,
+      "managementFee": 1.5001
     },
     {
       "fundId": "13206",
@@ -5418,7 +7041,10 @@
       "offerPrice": 404.33,
       "category": "VPS-Commodities / Gold",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Apr 21, 2014",
+      "expenseRatio": 1.83,
+      "managementFee": 1.5001
     },
     {
       "fundId": "13205",
@@ -5428,7 +7054,10 @@
       "offerPrice": 573.61,
       "category": "VPS-Debt",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 19, 2010",
+      "expenseRatio": 0.85,
+      "managementFee": 0.75
     },
     {
       "fundId": "14403",
@@ -5438,7 +7067,10 @@
       "offerPrice": 105.5,
       "category": "Capital Protected - Income",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Mar 29, 2023",
+      "expenseRatio": 1.12,
+      "managementFee": 0.6565
     },
     {
       "fundId": "13135",
@@ -5448,7 +7080,10 @@
       "offerPrice": 267.9,
       "category": "Equity",
       "shariah": false,
-      "benchmark": "KSE-100"
+      "benchmark": "KSE-100",
+      "inceptionDate": "Aug 04, 2006",
+      "expenseRatio": 3.17,
+      "managementFee": 2.8503
     },
     {
       "fundId": "14621",
@@ -5458,7 +7093,10 @@
       "offerPrice": 145.4,
       "category": "VPS-Money Market",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Dec 14, 2023",
+      "expenseRatio": 0.88,
+      "managementFee": 0.3
     },
     {
       "fundId": "12965",
@@ -5468,7 +7106,10 @@
       "offerPrice": 432.52,
       "category": "Balanced",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 27, 1997",
+      "expenseRatio": 3.32,
+      "managementFee": 2.15
     },
     {
       "fundId": "14750",
@@ -5478,7 +7119,10 @@
       "offerPrice": 103.14,
       "category": "Shariah Compliant Money Market",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 22, 2024",
+      "expenseRatio": 0.67,
+      "managementFee": 0.3
     },
     {
       "fundId": "12814",
@@ -5488,8 +7132,11 @@
       "offerPrice": 86.44,
       "category": "Shariah Compliant Income",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "May 20, 2003",
+      "expenseRatio": 2.08,
+      "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-08-30T00:32:27.723Z"
+  "updatedAt": "2026-08-30T00:18:53.410Z"
 }
