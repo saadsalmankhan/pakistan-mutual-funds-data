@@ -1,0 +1,55 @@
+name: Daily NAV update
+
+on:
+  schedule:
+    # 16:30 UTC = 21:30 PKT, well after MUFAP publishes the day's NAVs.
+    # Weekdays only — MUFAP doesn't publish on weekends.
+    - cron: '30 16 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Checkout scraper
+        uses: actions/checkout@v4
+        with:
+          repository: saadsalmankhan/pakistan-mutual-funds-api
+          path: api
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: api/package-lock.json
+
+      - name: Install scraper
+        working-directory: api
+        run: npm ci
+
+      - name: Scrape MUFAP
+        working-directory: api
+        env:
+          DATA_FILE: ${{ github.workspace }}/funds.json
+          HISTORY_DIR: ${{ github.workspace }}/history
+          SKIP_WEEKENDS: 'true'
+        run: npm run scrape
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add funds.json history
+          if git diff --cached --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "NAV update $(TZ=Asia/Karachi date +%F)"
+            git push
+          fi

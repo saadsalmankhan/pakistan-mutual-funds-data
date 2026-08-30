@@ -1,0 +1,4389 @@
+{
+  "funds": [
+    {
+      "fundId": "12768",
+      "name": "ABL Cash Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.41,
+      "offerPrice": 10.51,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "14347",
+      "name": "ABL Financial Sector Fund Plan I",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.17,
+      "offerPrice": 10.4,
+      "category": "Income"
+    },
+    {
+      "fundId": "15209",
+      "name": "ABL Fixed Rate Plan XXIX",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.04,
+      "offerPrice": 0,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15168",
+      "name": "ABL Fixed Rate Plan XXVII",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.16,
+      "offerPrice": 0,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15188",
+      "name": "ABL Fixed Rate Plan XXVIII",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.11,
+      "offerPrice": 0,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15225",
+      "name": "ABL Fixed Rate Plan XXX",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.02,
+      "offerPrice": 0,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15195",
+      "name": "ABL GOB Islamic Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 100.45,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15196",
+      "name": "ABL GOB Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 100.64,
+      "offerPrice": 0,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "14657",
+      "name": "ABL GOKP Islamic Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 126.15,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14668",
+      "name": "ABL GOKP Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 134.35,
+      "offerPrice": 0,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "14975",
+      "name": "ABL GOPB Islamic Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 105.12,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14974",
+      "name": "ABL GOPB Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 107.16,
+      "offerPrice": 0,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12767",
+      "name": "ABL Government Securities Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.33,
+      "offerPrice": 10.51,
+      "category": "Income"
+    },
+    {
+      "fundId": "12765",
+      "name": "ABL Income Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.36,
+      "offerPrice": 10.54,
+      "category": "Income"
+    },
+    {
+      "fundId": "12786",
+      "name": "ABL Islamic Asset Allocation Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.12,
+      "offerPrice": 10.47,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12793",
+      "name": "ABL Islamic Cash Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.18,
+      "offerPrice": 10.29,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12804",
+      "name": "ABL Islamic Dedicated Stock Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 17.24,
+      "offerPrice": 17.24,
+      "category": "Shariah Compliant Dedicated Equity"
+    },
+    {
+      "fundId": "12780",
+      "name": "ABL Islamic Financial Planning Fund (Active Allocation Plan)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 81.32,
+      "offerPrice": 83.21,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12788",
+      "name": "ABL Islamic Financial Planning Fund (Capital Preservation Plan I)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 100.75,
+      "offerPrice": 0,
+      "category": "Shariah Compliant Fund of Funds - CPPI"
+    },
+    {
+      "fundId": "12776",
+      "name": "ABL Islamic Financial Planning Fund (Conservative Allocation Plan)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 117.35,
+      "offerPrice": 120.07,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12769",
+      "name": "ABL Islamic Income Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.43,
+      "offerPrice": 10.61,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14623",
+      "name": "ABL Islamic Money Market Plan I",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.17,
+      "offerPrice": 10.41,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12802",
+      "name": "ABL Islamic Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 596.24,
+      "offerPrice": 616.98,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12803",
+      "name": "ABL Islamic Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 237.36,
+      "offerPrice": 245.62,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12801",
+      "name": "ABL Islamic Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 233.99,
+      "offerPrice": 242.13,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "14692",
+      "name": "ABL Islamic Sovereign Plan I",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.22,
+      "offerPrice": 10.58,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12772",
+      "name": "ABL Islamic Stock Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 32.07,
+      "offerPrice": 32.81,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14613",
+      "name": "ABL Money Market Plan I",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.17,
+      "offerPrice": 10.41,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "14913",
+      "name": "ABL Optimal Asset Allocation Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10,
+      "offerPrice": 10.35,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "12798",
+      "name": "ABL Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 386.78,
+      "offerPrice": 400.24,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "12799",
+      "name": "ABL Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 654.7,
+      "offerPrice": 677.48,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "12800",
+      "name": "ABL Pension Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 292.36,
+      "offerPrice": 302.54,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12789",
+      "name": "ABL Special Saving Fund (ABL Special Saving Plan I)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.27,
+      "offerPrice": 10.39,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12790",
+      "name": "ABL Special Saving Fund (ABL Special Saving Plan II)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.92,
+      "offerPrice": 11.17,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12791",
+      "name": "ABL Special Saving Fund (ABL Special Saving Plan III)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.39,
+      "offerPrice": 10.63,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12792",
+      "name": "ABL Special Saving Fund (ABL Special Saving Plan IV)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.31,
+      "offerPrice": 10.43,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12794",
+      "name": "ABL Special Saving Fund (ABL Special Saving Plan V)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.3,
+      "offerPrice": 10.41,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12796",
+      "name": "ABL Special Saving Fund (ABL Special Saving Plan VI)",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 10.24,
+      "offerPrice": 10.35,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12766",
+      "name": "ABL Stock Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 37.56,
+      "offerPrice": 38.43,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12805",
+      "name": "AKD Aggressive Income Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 55.54,
+      "offerPrice": 57,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "15094",
+      "name": "AKD Alpha Income Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 52.24,
+      "offerPrice": 52.84,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "12809",
+      "name": "AKD Cash Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 52.9,
+      "offerPrice": 53,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12807",
+      "name": "AKD Index Tracker Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 40.65,
+      "offerPrice": 41,
+      "category": "Index Tracker"
+    },
+    {
+      "fundId": "12813",
+      "name": "AKD Islamic Cash Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 51.06,
+      "offerPrice": 51.06,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12810",
+      "name": "AKD Islamic Income Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 53.7,
+      "offerPrice": 55,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12811",
+      "name": "AKD Islamic Stock Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 108.82,
+      "offerPrice": 112,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12806",
+      "name": "AKD Opportunity Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 228.95,
+      "offerPrice": 237,
+      "category": "Equity"
+    },
+    {
+      "fundId": "13137",
+      "name": "Al Ameen Islamic Aggressive Income Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102.95,
+      "offerPrice": 104.13,
+      "category": "Shariah Compliant Aggressive Fixed Income"
+    },
+    {
+      "fundId": "13189",
+      "name": "Al Ameen Islamic Aggressive Income Plan I",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 101.4,
+      "offerPrice": 101.68,
+      "category": "Shariah Compliant Aggressive Fixed Income"
+    },
+    {
+      "fundId": "13152",
+      "name": "Al Ameen Islamic Asset Allocation Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 199.8,
+      "offerPrice": 206.69,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "13146",
+      "name": "Al Ameen Islamic Cash Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102.86,
+      "offerPrice": 102.86,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13190",
+      "name": "Al Ameen Islamic Cash Plan I",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 101.99,
+      "offerPrice": 101.99,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13186",
+      "name": "Al Ameen Islamic Energy Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 335.34,
+      "offerPrice": 346.91,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14381",
+      "name": "Al Ameen Islamic Income Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102,
+      "offerPrice": 103.76,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15026",
+      "name": "Al Ameen Islamic Punjab Pension Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 104.18,
+      "offerPrice": 104.18,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13200",
+      "name": "Al Ameen Islamic Retirement Savings Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 384.74,
+      "offerPrice": 384.74,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "13201",
+      "name": "Al Ameen Islamic Retirement Savings Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 2931.32,
+      "offerPrice": 2931.32,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "13202",
+      "name": "Al Ameen Islamic Retirement Savings Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 371.07,
+      "offerPrice": 371.07,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13143",
+      "name": "Al Ameen Islamic Sovereign Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 103.6,
+      "offerPrice": 104.79,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13136",
+      "name": "Al Ameen Shariah Stock Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 483.78,
+      "offerPrice": 497.69,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14579",
+      "name": "Al Ameen Voluntary Pension Fund KPK",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 136.66,
+      "offerPrice": 136.66,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12710",
+      "name": "AL Habib Asset Allocation Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 104.64,
+      "offerPrice": 106.74,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "12707",
+      "name": "AL Habib Cash Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 103.4,
+      "offerPrice": 106.5,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "14811",
+      "name": "AL Habib Fixed Return Fund Plan 19",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.34,
+      "offerPrice": 101.34,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14904",
+      "name": "AL Habib Fixed Return Fund Plan 23",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.6,
+      "offerPrice": 101.6,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15067",
+      "name": "AL Habib Fixed Return Fund Plan 28",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.55,
+      "offerPrice": 101.55,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15161",
+      "name": "AL Habib Fixed Return Fund Plan 31",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.21,
+      "offerPrice": 101.21,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15189",
+      "name": "AL Habib Fixed Return Fund Plan 33",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 100.72,
+      "offerPrice": 100.72,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14561",
+      "name": "AL Habib GOKP Islamic Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 136.8,
+      "offerPrice": 136.8,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14618",
+      "name": "AL Habib GOKP Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 142.12,
+      "offerPrice": 142.12,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "14335",
+      "name": "AL Habib Government Securities Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 102.3,
+      "offerPrice": 105.37,
+      "category": "Income"
+    },
+    {
+      "fundId": "12706",
+      "name": "AL Habib Income Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 104.63,
+      "offerPrice": 107.77,
+      "category": "Income"
+    },
+    {
+      "fundId": "12712",
+      "name": "AL Habib Islamic Cash Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 102.37,
+      "offerPrice": 105.45,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12709",
+      "name": "AL Habib Islamic Income Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 103.53,
+      "offerPrice": 106.64,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15068",
+      "name": "AL Habib Islamic Money Market Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.72,
+      "offerPrice": 104.77,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15159",
+      "name": "AL Habib Islamic Munafa Fund Plan 8",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.56,
+      "offerPrice": 101.56,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15205",
+      "name": "AL Habib Islamic Munafa Fund Plan 9",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 100.66,
+      "offerPrice": 100.66,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "12719",
+      "name": "AL Habib Islamic Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 169.18,
+      "offerPrice": 174.26,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12717",
+      "name": "AL Habib Islamic Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 453.32,
+      "offerPrice": 466.92,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12718",
+      "name": "AL Habib Islamic Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 170.47,
+      "offerPrice": 175.58,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "12713",
+      "name": "AL Habib Islamic Savings Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 102.45,
+      "offerPrice": 105.52,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12708",
+      "name": "AL Habib Islamic Stock Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 164.85,
+      "offerPrice": 168.15,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12711",
+      "name": "AL Habib Money Market Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 102.62,
+      "offerPrice": 105.7,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12714",
+      "name": "AL Habib Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 534.58,
+      "offerPrice": 550.62,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "12715",
+      "name": "AL Habib Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 189.58,
+      "offerPrice": 195.27,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "12716",
+      "name": "AL Habib Pension Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 185.09,
+      "offerPrice": 190.64,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "14866",
+      "name": "AL Habib Sovereign Income Fund Plan 1",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.87,
+      "offerPrice": 101.87,
+      "category": "Income"
+    },
+    {
+      "fundId": "14872",
+      "name": "AL Habib Sovereign Income Fund Plan 2",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.79,
+      "offerPrice": 101.79,
+      "category": "Income"
+    },
+    {
+      "fundId": "14873",
+      "name": "AL Habib Sovereign Income Fund Plan 3",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 101.82,
+      "offerPrice": 101.82,
+      "category": "Income"
+    },
+    {
+      "fundId": "12705",
+      "name": "AL Habib Stock Fund",
+      "amc": "AL Habib Asset Management Limited",
+      "nav": 154.92,
+      "offerPrice": 158.02,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12821",
+      "name": "Al Meezan Mutual Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.21,
+      "offerPrice": 51.36,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12882",
+      "name": "Alfalah Asset Allocation Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 63.79,
+      "offerPrice": 65.99,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "15208",
+      "name": "Alfalah Balochistan Islamic Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.53,
+      "offerPrice": 100.53,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15207",
+      "name": "Alfalah Balochistan Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.53,
+      "offerPrice": 100.53,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12900",
+      "name": "Alfalah Cash Fund - II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 104.51,
+      "offerPrice": 106.91,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12680",
+      "name": "Alfalah Consumer Index Exchange Traded Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 17.25,
+      "offerPrice": 17.25,
+      "category": "Exchange Traded Fund"
+    },
+    {
+      "fundId": "14338",
+      "name": "Alfalah Financial Sector Income Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 102.18,
+      "offerPrice": 104.53,
+      "category": "Income"
+    },
+    {
+      "fundId": "12885",
+      "name": "Alfalah Financial Sector Opportunity Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 116.6,
+      "offerPrice": 119.29,
+      "category": "Income"
+    },
+    {
+      "fundId": "14645",
+      "name": "Alfalah Financial Value Fund (Alfalah Financial Value Plan I)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 155.29,
+      "offerPrice": 160.65,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "14855",
+      "name": "Alfalah Financial Value Fund - II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 116.71,
+      "offerPrice": 120.74,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "12643",
+      "name": "Alfalah GHP Alpha Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 116.12,
+      "offerPrice": 120.13,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12653",
+      "name": "Alfalah GHP Cash Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 514.01,
+      "offerPrice": 525.83,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12679",
+      "name": "Alfalah GHP Dedicated Equity Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 208.13,
+      "offerPrice": 212.92,
+      "category": "Dedicated Equity"
+    },
+    {
+      "fundId": "12649",
+      "name": "Alfalah GHP Income Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 116.26,
+      "offerPrice": 118.93,
+      "category": "Income"
+    },
+    {
+      "fundId": "12646",
+      "name": "Alfalah GHP Income Multiplier Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 55.64,
+      "offerPrice": 57.56,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "12678",
+      "name": "Alfalah GHP Islamic Dedicated Equity Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 118.42,
+      "offerPrice": 120.46,
+      "category": "Shariah Compliant Dedicated Equity"
+    },
+    {
+      "fundId": "12652",
+      "name": "Alfalah GHP Islamic Income Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 105.34,
+      "offerPrice": 107.76,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12675",
+      "name": "Alfalah GHP Islamic Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 220.66,
+      "offerPrice": 228.27,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "12677",
+      "name": "Alfalah GHP Islamic Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 227.79,
+      "offerPrice": 235.65,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12676",
+      "name": "Alfalah GHP Islamic Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 326.22,
+      "offerPrice": 337.47,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12657",
+      "name": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 102.91,
+      "offerPrice": 105.87,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12662",
+      "name": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 103.81,
+      "offerPrice": 105.3,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12661",
+      "name": "Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 112.98,
+      "offerPrice": 0,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12645",
+      "name": "Alfalah GHP Islamic Stock Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 73.06,
+      "offerPrice": 75.58,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12664",
+      "name": "Alfalah GHP Islamic Value Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 143.73,
+      "offerPrice": 147.03,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12654",
+      "name": "Alfalah GHP Money Market Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.81,
+      "offerPrice": 103.13,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12673",
+      "name": "Alfalah GHP Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 260.14,
+      "offerPrice": 269.11,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12672",
+      "name": "Alfalah GHP Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 339.14,
+      "offerPrice": 350.84,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "12674",
+      "name": "Alfalah GHP Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 254.38,
+      "offerPrice": 263.16,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "12660",
+      "name": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Active Allocation Plan)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 122.72,
+      "offerPrice": 125.55,
+      "category": "Fund of Funds"
+    },
+    {
+      "fundId": "12658",
+      "name": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Conservative Allocation Plan)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 115.67,
+      "offerPrice": 117,
+      "category": "Fund of Funds"
+    },
+    {
+      "fundId": "12659",
+      "name": "Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.14,
+      "offerPrice": 101.87,
+      "category": "Fund of Funds"
+    },
+    {
+      "fundId": "12655",
+      "name": "Alfalah GHP Sovereign Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 109.61,
+      "offerPrice": 112.14,
+      "category": "Income"
+    },
+    {
+      "fundId": "12650",
+      "name": "Alfalah GHP Stock Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 199.25,
+      "offerPrice": 204.97,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12647",
+      "name": "Alfalah GHP Value Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 89.41,
+      "offerPrice": 92.49,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "15075",
+      "name": "Alfalah GOPB Islamic Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 102.68,
+      "offerPrice": 102.68,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15074",
+      "name": "Alfalah GOPB Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 105.08,
+      "offerPrice": 105.08,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12894",
+      "name": "Alfalah Government Securities Fund - II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 138.81,
+      "offerPrice": 142,
+      "category": "Income"
+    },
+    {
+      "fundId": "14718",
+      "name": "Alfalah Government Securities Fund Plan I",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.77,
+      "offerPrice": 105.29,
+      "category": "Income"
+    },
+    {
+      "fundId": "14751",
+      "name": "Alfalah Government Securities Fund Plan II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 107.29,
+      "offerPrice": 110.99,
+      "category": "Income"
+    },
+    {
+      "fundId": "12880",
+      "name": "Alfalah Income & Growth Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 120.02,
+      "offerPrice": 122.78,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "12668",
+      "name": "Alfalah Islamic Amdani Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.94,
+      "offerPrice": 104.28,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15157",
+      "name": "Alfalah Islamic Asset Allocation Fund Plan I",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 102.08,
+      "offerPrice": 102.08,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "15112",
+      "name": "Alfalah Islamic Income Growth Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.83,
+      "offerPrice": 105.35,
+      "category": "Shariah Compliant Aggressive Fixed Income"
+    },
+    {
+      "fundId": "14632",
+      "name": "Alfalah Islamic KPK Employee Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 135.55,
+      "offerPrice": 135.55,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14339",
+      "name": "Alfalah Islamic Money Market Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 102.08,
+      "offerPrice": 104.43,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14340",
+      "name": "Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan I)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.51,
+      "offerPrice": 103.97,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14566",
+      "name": "Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan II)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 112.09,
+      "offerPrice": 115.95,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14708",
+      "name": "Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan III)",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 102.22,
+      "offerPrice": 105.75,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15192",
+      "name": "Alfalah Islamic Stable Return Fund Plan XIX",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.9,
+      "offerPrice": 100.9,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "14544",
+      "name": "Alfalah KPK Employee Pension Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 141.06,
+      "offerPrice": 141.06,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "14342",
+      "name": "Alfalah KTrade Islamic Plan VII",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 128.02,
+      "offerPrice": 132.44,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12884",
+      "name": "Alfalah Money Market Fund - II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 105.33,
+      "offerPrice": 107.76,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12887",
+      "name": "Alfalah MTS Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 105.44,
+      "offerPrice": 107.87,
+      "category": "Income"
+    },
+    {
+      "fundId": "12881",
+      "name": "Alfalah Savings Growth Fund",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 106.06,
+      "offerPrice": 108.5,
+      "category": "Income"
+    },
+    {
+      "fundId": "12903",
+      "name": "Alfalah Special Savings Fund - I",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 149.64,
+      "offerPrice": 153.08,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "12907",
+      "name": "Alfalah Special Savings Fund - II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 119.03,
+      "offerPrice": 121.77,
+      "category": "Capital Protected"
+    },
+    {
+      "fundId": "14858",
+      "name": "Alfalah Stable Return Fund Plan XX",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.54,
+      "offerPrice": 101.54,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14916",
+      "name": "Alfalah Stable Return Fund Plan XXII",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.84,
+      "offerPrice": 101.84,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14976",
+      "name": "Alfalah Stable Return Fund Plan XXVI",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.83,
+      "offerPrice": 101.83,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15071",
+      "name": "Alfalah Stable Return Fund Plan XXVII",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.48,
+      "offerPrice": 101.48,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15142",
+      "name": "Alfalah Stable Return Fund Plan XXVIII",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 103.34,
+      "offerPrice": 103.34,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15169",
+      "name": "Alfalah Stable Return Fund Plan XXX",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.55,
+      "offerPrice": 101.55,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15206",
+      "name": "Alfalah Stable Return Fund Plan XXXI",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.49,
+      "offerPrice": 100.49,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15214",
+      "name": "Alfalah Stable Return Fund Plan XXXII",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.46,
+      "offerPrice": 100.46,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "12879",
+      "name": "Alfalah Stock Fund - II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 82.15,
+      "offerPrice": 84.99,
+      "category": "Equity"
+    },
+    {
+      "fundId": "15113",
+      "name": "Alfalah Strategic Allocation Capital Preservation Plan II",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 100.17,
+      "offerPrice": 100.17,
+      "category": "Fund of Funds"
+    },
+    {
+      "fundId": "14763",
+      "name": "Alfalah Strategic Allocation Fund Plan - I",
+      "amc": "Alfalah Asset Management Limited",
+      "nav": 101.49,
+      "offerPrice": 104.99,
+      "category": "Fund of Funds"
+    },
+    {
+      "fundId": "14349",
+      "name": "Alhamra Cash Management Optimizer",
+      "amc": "MCB Investment Management Limited",
+      "nav": 102.06,
+      "offerPrice": 103.24,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12743",
+      "name": "Alhamra Daily Dividend Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 100,
+      "offerPrice": 101.15,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14683",
+      "name": "Alhamra Government Securities Plan I",
+      "amc": "MCB Investment Management Limited",
+      "nav": 104.04,
+      "offerPrice": 106.44,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12725",
+      "name": "Alhamra Islamic Asset Allocation Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 214.7,
+      "offerPrice": 222.11,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "15173",
+      "name": "Alhamra Islamic Energy Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 95.88,
+      "offerPrice": 99.19,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12737",
+      "name": "Alhamra Islamic Income Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 107.63,
+      "offerPrice": 109.48,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15149",
+      "name": "Alhamra Islamic Investment Savings Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 101.57,
+      "offerPrice": 103.32,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12744",
+      "name": "Alhamra Islamic Money Market Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 99.51,
+      "offerPrice": 100.65,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12761",
+      "name": "Alhamra Islamic Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 2164.29,
+      "offerPrice": 2164.29,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12762",
+      "name": "Alhamra Islamic Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 475.29,
+      "offerPrice": 475.29,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "12763",
+      "name": "Alhamra Islamic Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 438.67,
+      "offerPrice": 438.67,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15036",
+      "name": "Alhamra Islamic Punjab Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 105.98,
+      "offerPrice": 105.98,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12733",
+      "name": "Alhamra Islamic Stock Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 30.38,
+      "offerPrice": 31.43,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14576",
+      "name": "Alhamra Opportunity Fund (Dividend Strategy Plan)",
+      "amc": "MCB Investment Management Limited",
+      "nav": 216.19,
+      "offerPrice": 223.65,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12745",
+      "name": "Alhamra Smart Portfolio",
+      "amc": "MCB Investment Management Limited",
+      "nav": 174.22,
+      "offerPrice": 180.23,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12787",
+      "name": "Allied Finergy Fund",
+      "amc": "ABL Asset Management Company Limited",
+      "nav": 16.89,
+      "offerPrice": 17.47,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "13109",
+      "name": "Askari Cash Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 105.28,
+      "offerPrice": 105.28,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13107",
+      "name": "Askari High Yield Scheme",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 105.9,
+      "offerPrice": 108.29,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "13118",
+      "name": "Askari Sovereign Yield Enhancer",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 106.04,
+      "offerPrice": 107.54,
+      "category": "Income"
+    },
+    {
+      "fundId": "15047",
+      "name": "Atlas Dividend Yield Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 96.02,
+      "offerPrice": 96.02,
+      "category": "Equity"
+    },
+    {
+      "fundId": "15049",
+      "name": "Atlas Financial Sector Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 100.05,
+      "offerPrice": 100.05,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12684",
+      "name": "Atlas Income Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 539.53,
+      "offerPrice": 539.53,
+      "category": "Income"
+    },
+    {
+      "fundId": "15087",
+      "name": "Atlas Islamic Building Materials Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 107.45,
+      "offerPrice": 107.45,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14685",
+      "name": "Atlas Islamic Cash Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 510.83,
+      "offerPrice": 510.83,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12704",
+      "name": "Atlas Islamic Dedicated Stock Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 1590.2,
+      "offerPrice": 1590.2,
+      "category": "Shariah Compliant Dedicated Equity"
+    },
+    {
+      "fundId": "15086",
+      "name": "Atlas Islamic Energy Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 106.01,
+      "offerPrice": 106.01,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12688",
+      "name": "Atlas Islamic Fund of Funds (Atlas Aggressive Allocation Islamic Plan)",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 1446.01,
+      "offerPrice": 1446.01,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12690",
+      "name": "Atlas Islamic Fund of Funds (Atlas Conservative Allocation Islamic Plan)",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 950.56,
+      "offerPrice": 950.56,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12689",
+      "name": "Atlas Islamic Fund of Funds (Atlas Moderate Allocation Islamic Plan)",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 1233.08,
+      "offerPrice": 1233.08,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12683",
+      "name": "Atlas Islamic Income Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 523.87,
+      "offerPrice": 523.87,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12693",
+      "name": "Atlas Islamic Money Market Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 514.74,
+      "offerPrice": 514.74,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12681",
+      "name": "Atlas Islamic Stock Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 1548.58,
+      "offerPrice": 1548.58,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14574",
+      "name": "Atlas KPK Islamic Pension Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 141.6,
+      "offerPrice": 141.6,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12695",
+      "name": "Atlas Liquid Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 511.05,
+      "offerPrice": 511.05,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12685",
+      "name": "Atlas Money Market Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 522.39,
+      "offerPrice": 522.39,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12700",
+      "name": "Atlas Pension Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 626.15,
+      "offerPrice": 626.15,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12696",
+      "name": "Atlas Pension Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 2512.37,
+      "offerPrice": 2512.37,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "12701",
+      "name": "Atlas Pension Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 673.34,
+      "offerPrice": 673.34,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "12697",
+      "name": "Atlas Pension Islamic Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 520.87,
+      "offerPrice": 520.87,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12698",
+      "name": "Atlas Pension Islamic Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 492.61,
+      "offerPrice": 492.61,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "12699",
+      "name": "Atlas Pension Islamic Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 2693.6,
+      "offerPrice": 2693.6,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14965",
+      "name": "Atlas Punjab Islamic Pension Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 109.15,
+      "offerPrice": 109.15,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14966",
+      "name": "Atlas Punjab Pension Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 107.95,
+      "offerPrice": 107.95,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12687",
+      "name": "Atlas Sovereign Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 104.65,
+      "offerPrice": 104.65,
+      "category": "Income"
+    },
+    {
+      "fundId": "12682",
+      "name": "Atlas Stock Market Fund",
+      "amc": "Atlas Asset Management Limited",
+      "nav": 2136.44,
+      "offerPrice": 2136.44,
+      "category": "Equity"
+    },
+    {
+      "fundId": "14922",
+      "name": "AWT Islamic Asset Allocation Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 171.54,
+      "offerPrice": 175.49,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12871",
+      "name": "AWT Islamic Income Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 107.36,
+      "offerPrice": 109.83,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14805",
+      "name": "AWT Islamic Money Market Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 119.72,
+      "offerPrice": 119.72,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14841",
+      "name": "AWT Islamic Pension Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 115.12,
+      "offerPrice": 115.12,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14839",
+      "name": "AWT Islamic Pension Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 130.12,
+      "offerPrice": 130.12,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14840",
+      "name": "AWT Islamic Pension Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 116.44,
+      "offerPrice": 116.44,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "15218",
+      "name": "AWT Islamic Punjab Pension Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 100.14,
+      "offerPrice": 100.14,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12870",
+      "name": "AWT Islamic Stock Fund",
+      "amc": "AWT Investments Limited",
+      "nav": 185.62,
+      "offerPrice": 189.89,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15119",
+      "name": "BMA Islamic Noor Cash Fund",
+      "amc": "BMA Investment Advisors Limited",
+      "nav": 101.62,
+      "offerPrice": 105.12,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15121",
+      "name": "BMA Money Market Fund",
+      "amc": "BMA Investment Advisors Limited",
+      "nav": 101.65,
+      "offerPrice": 105.15,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "15118",
+      "name": "BMA Stock Fund",
+      "amc": "BMA Investment Advisors Limited",
+      "nav": 103.72,
+      "offerPrice": 107.3,
+      "category": "Equity"
+    },
+    {
+      "fundId": "15008",
+      "name": "EFU Hemayah Pension Fund",
+      "amc": "EFU Life Assurance Limited",
+      "nav": 90.98,
+      "offerPrice": 94,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15009",
+      "name": "EFU Hemayah Pension Fund",
+      "amc": "EFU Life Assurance Limited",
+      "nav": 102.14,
+      "offerPrice": 105,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "15010",
+      "name": "EFU Hemayah Pension Fund",
+      "amc": "EFU Life Assurance Limited",
+      "nav": 104.52,
+      "offerPrice": 108,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12891",
+      "name": "Faysal Halal Amdani Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 103.48,
+      "offerPrice": 105.86,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14883",
+      "name": "Faysal Halal Amdani Fund II",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.4,
+      "offerPrice": 103.74,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14989",
+      "name": "Faysal Halal Amdani Fund III",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.75,
+      "offerPrice": 104.09,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12886",
+      "name": "Faysal Islamic Asset Allocation Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 91.59,
+      "offerPrice": 94.75,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "14702",
+      "name": "Faysal Islamic Asset Allocation Fund II",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 119.32,
+      "offerPrice": 123.43,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "14919",
+      "name": "Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan I)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 109.02,
+      "offerPrice": 112.79,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "14970",
+      "name": "Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan II)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 107.6,
+      "offerPrice": 111.31,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "15031",
+      "name": "Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan III)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 106.95,
+      "offerPrice": 110.64,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "15124",
+      "name": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan IV)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 103.13,
+      "offerPrice": 106.69,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "15129",
+      "name": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan V)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 102.81,
+      "offerPrice": 106.36,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "15131",
+      "name": "Faysal Islamic Asset Allocation Fund IV (Faysal Shariah Flex Plan VI)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 103.07,
+      "offerPrice": 106.63,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12888",
+      "name": "Faysal Islamic Cash Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.85,
+      "offerPrice": 104.2,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12916",
+      "name": "Faysal Islamic Dedicated Equity Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 118.22,
+      "offerPrice": 122.3,
+      "category": "Shariah Compliant Dedicated Equity"
+    },
+    {
+      "fundId": "14363",
+      "name": "Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan I)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 102,
+      "offerPrice": 104.34,
+      "category": "Shariah Compliant Aggressive Fixed Income"
+    },
+    {
+      "fundId": "14701",
+      "name": "Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan II)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.68,
+      "offerPrice": 105.19,
+      "category": "Shariah Compliant Aggressive Fixed Income"
+    },
+    {
+      "fundId": "14990",
+      "name": "Faysal Islamic Financial Growth Fund II",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.55,
+      "offerPrice": 105.05,
+      "category": "Shariah Compliant Aggressive Fixed Income"
+    },
+    {
+      "fundId": "14888",
+      "name": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 119.02,
+      "offerPrice": 123.12,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "14901",
+      "name": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 109.99,
+      "offerPrice": 113.79,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "14863",
+      "name": "Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 111.39,
+      "offerPrice": 115.24,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "14578",
+      "name": "Faysal Islamic KPK Government Pension Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 137.27,
+      "offerPrice": 137.27,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15143",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXI)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 103.14,
+      "offerPrice": 103.14,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15213",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXIX)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 100.39,
+      "offerPrice": 100.39,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15180",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXV)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.25,
+      "offerPrice": 101.25,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15184",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXVI)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.06,
+      "offerPrice": 101.06,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15187",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXVII)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 101.06,
+      "offerPrice": 101.06,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15201",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXVIII)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 100.64,
+      "offerPrice": 100.64,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15215",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXX)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 100.27,
+      "offerPrice": 100.27,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15227",
+      "name": "Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XXXI)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 100,
+      "offerPrice": 100,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "12911",
+      "name": "Faysal Islamic Pension Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 190.85,
+      "offerPrice": 197.44,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12912",
+      "name": "Faysal Islamic Pension Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 359.75,
+      "offerPrice": 372.16,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12910",
+      "name": "Faysal Islamic Pension Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 184.95,
+      "offerPrice": 191.34,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "14996",
+      "name": "Faysal Islamic Punjab Pension Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 104.7,
+      "offerPrice": 104.7,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12883",
+      "name": "Faysal Islamic Savings Growth Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 107.21,
+      "offerPrice": 109.68,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12909",
+      "name": "Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan I)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 102.33,
+      "offerPrice": 104.68,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14589",
+      "name": "Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan II)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 102.12,
+      "offerPrice": 104.47,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12905",
+      "name": "Faysal Islamic Special Income Plan I",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 10.26,
+      "offerPrice": 10.49,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12896",
+      "name": "Faysal Islamic Stock Fund",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 120.32,
+      "offerPrice": 124.47,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14817",
+      "name": "Faysal Islamic Stock Fund II",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 134.21,
+      "offerPrice": 138.84,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14791",
+      "name": "Faysal Khushal Mustaqbil Fund (Faysal Barak’ah Women Savers Plan)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 110.37,
+      "offerPrice": 114.17,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "14789",
+      "name": "Faysal Khushal Mustaqbil Fund (Faysal Nu’umah Women Savers Plan)",
+      "amc": "Faysal Asset Management Limited",
+      "nav": 110.64,
+      "offerPrice": 114.45,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12917",
+      "name": "First Capital Mutual Fund",
+      "amc": "First Capital Investments Limited",
+      "nav": 17.32,
+      "offerPrice": 17.67,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12808",
+      "name": "Golden Arrow Stock Fund",
+      "amc": "AKD Investment Management Limited",
+      "nav": 36.76,
+      "offerPrice": 38,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12927",
+      "name": "HBL Cash Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 105.18,
+      "offerPrice": 106.39,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12920",
+      "name": "HBL Energy Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 38.47,
+      "offerPrice": 39.36,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12930",
+      "name": "HBL Equity Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 249.17,
+      "offerPrice": 254.9,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12952",
+      "name": "HBL Financial Sector Income Fund Plan I",
+      "amc": "HBL Asset Management Limited",
+      "nav": 104.04,
+      "offerPrice": 106.43,
+      "category": "Income"
+    },
+    {
+      "fundId": "14609",
+      "name": "HBL Financial Sector Income Fund Plan II",
+      "amc": "HBL Asset Management Limited",
+      "nav": 102.07,
+      "offerPrice": 104.42,
+      "category": "Income"
+    },
+    {
+      "fundId": "12925",
+      "name": "HBL Government Securities Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 115.96,
+      "offerPrice": 118.62,
+      "category": "Income"
+    },
+    {
+      "fundId": "12942",
+      "name": "HBL Growth Fund-Class A",
+      "amc": "HBL Asset Management Limited",
+      "nav": 41.59,
+      "offerPrice": 42.55,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12951",
+      "name": "HBL Growth Fund-Class B",
+      "amc": "HBL Asset Management Limited",
+      "nav": 47.28,
+      "offerPrice": 48.37,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12921",
+      "name": "HBL Income Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 115.17,
+      "offerPrice": 117.16,
+      "category": "Income"
+    },
+    {
+      "fundId": "12943",
+      "name": "HBL Investment Fund-Class A",
+      "amc": "HBL Asset Management Limited",
+      "nav": 15.02,
+      "offerPrice": 15.37,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12946",
+      "name": "HBL Investment Fund-Class B",
+      "amc": "HBL Asset Management Limited",
+      "nav": 22.29,
+      "offerPrice": 22.8,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12934",
+      "name": "HBL Islamic Asset Allocation Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 332.9,
+      "offerPrice": 340.56,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12932",
+      "name": "HBL Islamic Equity Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 213.36,
+      "offerPrice": 218.26,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15186",
+      "name": "HBL Islamic Fixed Term Fund Plan X",
+      "amc": "HBL Asset Management Limited",
+      "nav": 101.13,
+      "offerPrice": 101.13,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "12933",
+      "name": "HBL Islamic Income Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 106.54,
+      "offerPrice": 108.38,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12928",
+      "name": "HBL Islamic Money Market Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 103.42,
+      "offerPrice": 104.61,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12957",
+      "name": "HBL Islamic Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 1256.55,
+      "offerPrice": 1306.4,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12958",
+      "name": "HBL Islamic Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 345.92,
+      "offerPrice": 359.64,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "12959",
+      "name": "HBL Islamic Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 327.99,
+      "offerPrice": 341.01,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15106",
+      "name": "HBL Islamic Punjab Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 103.22,
+      "offerPrice": 103.22,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15139",
+      "name": "HBL Islamic Regualar Income Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 100,
+      "offerPrice": 100,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14601",
+      "name": "HBL Islamic Savings Plan I",
+      "amc": "HBL Asset Management Limited",
+      "nav": 102.37,
+      "offerPrice": 104.41,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12929",
+      "name": "HBL Islamic Stock Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 267.54,
+      "offerPrice": 273.7,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14558",
+      "name": "HBL KPK Islamic Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 137.83,
+      "offerPrice": 139.42,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14630",
+      "name": "HBL KPK Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 141.5,
+      "offerPrice": 143.12,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "14945",
+      "name": "HBL Mehfooz Munafa Fund Plan XI",
+      "amc": "HBL Asset Management Limited",
+      "nav": 101.13,
+      "offerPrice": 101.13,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15185",
+      "name": "HBL Mehfooz Munafa Fund Plan XIV",
+      "amc": "HBL Asset Management Limited",
+      "nav": 101.07,
+      "offerPrice": 101.07,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15204",
+      "name": "HBL Mehfooz Munafa Fund Plan XVIII",
+      "amc": "HBL Asset Management Limited",
+      "nav": 100.99,
+      "offerPrice": 100.99,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15202",
+      "name": "HBL Mehfooz Munafa Fund Plan XXI",
+      "amc": "HBL Asset Management Limited",
+      "nav": 100.46,
+      "offerPrice": 100.46,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "12924",
+      "name": "HBL Money Market Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 105.36,
+      "offerPrice": 106.57,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12923",
+      "name": "HBL Multi Asset Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 235.5,
+      "offerPrice": 240.91,
+      "category": "Balanced"
+    },
+    {
+      "fundId": "12955",
+      "name": "HBL Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 449.3,
+      "offerPrice": 467.13,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "12954",
+      "name": "HBL Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 1157.46,
+      "offerPrice": 1203.38,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "12956",
+      "name": "HBL Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 377.54,
+      "offerPrice": 392.52,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "15107",
+      "name": "HBL Punjab Pension Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 103.53,
+      "offerPrice": 103.53,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "15138",
+      "name": "HBL Regular Income Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 100,
+      "offerPrice": 100,
+      "category": "Income"
+    },
+    {
+      "fundId": "12922",
+      "name": "HBL Stock Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 238.63,
+      "offerPrice": 244.12,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12963",
+      "name": "HBL Total Treasury Exchange Traded Fund",
+      "amc": "HBL Asset Management Limited",
+      "nav": 105.12,
+      "offerPrice": 105.12,
+      "category": "Exchange Traded Fund"
+    },
+    {
+      "fundId": "15193",
+      "name": "JS Balochistan Islamic Pension Fund",
+      "amc": "JS Investments Limited",
+      "nav": 100.42,
+      "offerPrice": 100.42,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15194",
+      "name": "JS Balochistan Pension Fund",
+      "amc": "JS Investments Limited",
+      "nav": 100.84,
+      "offerPrice": 100.84,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12978",
+      "name": "JS Cash Fund",
+      "amc": "JS Investments Limited",
+      "nav": 108.26,
+      "offerPrice": 109.51,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "14644",
+      "name": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan I)",
+      "amc": "JS Investments Limited",
+      "nav": 116.24,
+      "offerPrice": 116.24,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15040",
+      "name": "JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XX)",
+      "amc": "JS Investments Limited",
+      "nav": 100.19,
+      "offerPrice": 100.19,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14962",
+      "name": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VI)",
+      "amc": "JS Investments Limited",
+      "nav": 106.61,
+      "offerPrice": 106.61,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15066",
+      "name": "JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VII)",
+      "amc": "JS Investments Limited",
+      "nav": 100.05,
+      "offerPrice": 100.05,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15219",
+      "name": "JS Fixed Term Munafa Fund Plan 23",
+      "amc": "JS Investments Limited",
+      "nav": 100,
+      "offerPrice": 100,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15220",
+      "name": "JS Fixed Term Munafa Fund Plan 24",
+      "amc": "JS Investments Limited",
+      "nav": 100,
+      "offerPrice": 100,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "12968",
+      "name": "JS Fund of Funds",
+      "amc": "JS Investments Limited",
+      "nav": 148.01,
+      "offerPrice": 153.12,
+      "category": "Fund of Funds"
+    },
+    {
+      "fundId": "13006",
+      "name": "JS Government Securities Fund",
+      "amc": "JS Investments Limited",
+      "nav": 121.94,
+      "offerPrice": 123.35,
+      "category": "Income"
+    },
+    {
+      "fundId": "12986",
+      "name": "JS Growth Fund",
+      "amc": "JS Investments Limited",
+      "nav": 495.99,
+      "offerPrice": 513.11,
+      "category": "Equity"
+    },
+    {
+      "fundId": "12966",
+      "name": "JS Income Fund",
+      "amc": "JS Investments Limited",
+      "nav": 126.67,
+      "offerPrice": 129.59,
+      "category": "Income"
+    },
+    {
+      "fundId": "12976",
+      "name": "JS Islamic Fund",
+      "amc": "JS Investments Limited",
+      "nav": 242.97,
+      "offerPrice": 251.36,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12983",
+      "name": "JS Islamic Income Fund",
+      "amc": "JS Investments Limited",
+      "nav": 107.89,
+      "offerPrice": 109.14,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13002",
+      "name": "JS Islamic Money Market Fund",
+      "amc": "JS Investments Limited",
+      "nav": 105.7,
+      "offerPrice": 106.92,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13011",
+      "name": "JS Islamic Pension Savings Fund",
+      "amc": "JS Investments Limited",
+      "nav": 448.88,
+      "offerPrice": 448.88,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "13012",
+      "name": "JS Islamic Pension Savings Fund",
+      "amc": "JS Investments Limited",
+      "nav": 434.24,
+      "offerPrice": 434.24,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13010",
+      "name": "JS Islamic Pension Savings Fund",
+      "amc": "JS Investments Limited",
+      "nav": 1873.75,
+      "offerPrice": 1873.75,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14891",
+      "name": "JS Islamic Sarmaya Mehfooz Fund (JS Islamic Sarmaya Mehfooz Plan 1)",
+      "amc": "JS Investments Limited",
+      "nav": 97.19,
+      "offerPrice": 100.55,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "14997",
+      "name": "JS Islamic Sarmaya Mehfooz Fund Plan 2 2020",
+      "amc": "JS Investments Limited",
+      "nav": 96.83,
+      "offerPrice": 100.18,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "14562",
+      "name": "JS KPK Islamic Pension Fund",
+      "amc": "JS Investments Limited",
+      "nav": 142.12,
+      "offerPrice": 142.12,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14629",
+      "name": "JS KPK Pension Fund",
+      "amc": "JS Investments Limited",
+      "nav": 144.26,
+      "offerPrice": 144.26,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12979",
+      "name": "JS Large Cap Fund",
+      "amc": "JS Investments Limited",
+      "nav": 413.04,
+      "offerPrice": 427.29,
+      "category": "Equity"
+    },
+    {
+      "fundId": "13005",
+      "name": "JS Microfinance Sector Fund",
+      "amc": "JS Investments Limited",
+      "nav": 122.65,
+      "offerPrice": 124.07,
+      "category": "Income"
+    },
+    {
+      "fundId": "13015",
+      "name": "JS Momentum Factor Exchange Traded Fund",
+      "amc": "JS Investments Limited",
+      "nav": 10.74,
+      "offerPrice": 10.74,
+      "category": "Exchange Traded Fund"
+    },
+    {
+      "fundId": "14368",
+      "name": "JS Money Market Fund",
+      "amc": "JS Investments Limited",
+      "nav": 123.59,
+      "offerPrice": 126.44,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13007",
+      "name": "JS Pension Savings Fund",
+      "amc": "JS Investments Limited",
+      "nav": 1802.92,
+      "offerPrice": 1802.92,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "13008",
+      "name": "JS Pension Savings Fund",
+      "amc": "JS Investments Limited",
+      "nav": 616.13,
+      "offerPrice": 616.13,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "13009",
+      "name": "JS Pension Savings Fund",
+      "amc": "JS Investments Limited",
+      "nav": 507.45,
+      "offerPrice": 507.45,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "15020",
+      "name": "JS Punjab Islamic Pension Fund",
+      "amc": "JS Investments Limited",
+      "nav": 100.83,
+      "offerPrice": 100.83,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15018",
+      "name": "JS Punjab Pension Fund",
+      "amc": "JS Investments Limited",
+      "nav": 104.13,
+      "offerPrice": 104.13,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12826",
+      "name": "KSE Meezan Index Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 178.36,
+      "offerPrice": 182.91,
+      "category": "Shariah Compliant Index Tracker"
+    },
+    {
+      "fundId": "13030",
+      "name": "Lakson Asset Allocation Developed Markets Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 194.45,
+      "offerPrice": 200.05,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "13027",
+      "name": "Lakson Equity Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 327.86,
+      "offerPrice": 339.18,
+      "category": "Equity"
+    },
+    {
+      "fundId": "13026",
+      "name": "Lakson Income Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 103.98,
+      "offerPrice": 105.78,
+      "category": "Income"
+    },
+    {
+      "fundId": "13031",
+      "name": "Lakson Islamic Money Market Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 102.65,
+      "offerPrice": 103.83,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13029",
+      "name": "Lakson Islamic Tactical Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 92.21,
+      "offerPrice": 94.86,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "13025",
+      "name": "Lakson Money Market Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 104.32,
+      "offerPrice": 105.52,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13028",
+      "name": "Lakson Tactical Fund",
+      "amc": "Lakson Investments Limited",
+      "nav": 105.09,
+      "offerPrice": 108.12,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "15033",
+      "name": "Lucky Islamic Cash Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 101.54,
+      "offerPrice": 105.05,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15174",
+      "name": "Lucky Islamic Dividend Yield Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 94.8,
+      "offerPrice": 94.8,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15022",
+      "name": "Lucky Islamic Energy Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 100.05,
+      "offerPrice": 103.5,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15165",
+      "name": "Lucky Islamic Fixed Term Fund Plan 22",
+      "amc": "Lucky Investments Limited",
+      "nav": 100.31,
+      "offerPrice": 100.31,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15191",
+      "name": "Lucky Islamic Fixed Term Fund Plan 23",
+      "amc": "Lucky Investments Limited",
+      "nav": 100.93,
+      "offerPrice": 100.93,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15210",
+      "name": "Lucky Islamic Fixed Term Fund Plan 24",
+      "amc": "Lucky Investments Limited",
+      "nav": 100.46,
+      "offerPrice": 100.46,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "14848",
+      "name": "Lucky Islamic Income Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 101.7,
+      "offerPrice": 105.21,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14836",
+      "name": "Lucky Islamic Money Market Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 101.85,
+      "offerPrice": 105.37,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14951",
+      "name": "Lucky Islamic Pension Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 107.75,
+      "offerPrice": 111.47,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "14950",
+      "name": "Lucky Islamic Pension Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 107.71,
+      "offerPrice": 111.43,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14953",
+      "name": "Lucky Islamic Pension Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 106.87,
+      "offerPrice": 110.55,
+      "category": "VPS-Shariah Compliant Commodities / Gold"
+    },
+    {
+      "fundId": "14952",
+      "name": "Lucky Islamic Pension Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 109.11,
+      "offerPrice": 112.88,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15007",
+      "name": "Lucky Islamic Punjab Pension Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 106.36,
+      "offerPrice": 106.36,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14849",
+      "name": "Lucky Islamic Stock Fund",
+      "amc": "Lucky Investments Limited",
+      "nav": 133.5,
+      "offerPrice": 138.11,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14909",
+      "name": "Mahaana IGI Islamic Retirement Fund",
+      "amc": "IGI Life Insurance Limited",
+      "nav": 11.33,
+      "offerPrice": 11.33,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "14908",
+      "name": "Mahaana IGI Islamic Retirement Fund",
+      "amc": "IGI Life Insurance Limited",
+      "nav": 11.2,
+      "offerPrice": 11.2,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14907",
+      "name": "Mahaana IGI Islamic Retirement Fund",
+      "amc": "IGI Life Insurance Limited",
+      "nav": 12.59,
+      "offerPrice": 12.59,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14555",
+      "name": "Mahaana Islamic Cash Fund",
+      "amc": "Mahaana Wealth Limited",
+      "nav": 108.69,
+      "offerPrice": 108.69,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14620",
+      "name": "Mahaana Islamic Index Exchange Traded Fund",
+      "amc": "Mahaana Wealth Limited",
+      "nav": 16.65,
+      "offerPrice": 16.65,
+      "category": "Shariah Compliant Exchange Traded Fund"
+    },
+    {
+      "fundId": "14575",
+      "name": "MCB Alhamra KPK Govt Employees Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 141.08,
+      "offerPrice": 141.08,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12723",
+      "name": "MCB Cash Management Optimizer",
+      "amc": "MCB Investment Management Limited",
+      "nav": 104.09,
+      "offerPrice": 104.09,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "14727",
+      "name": "MCB DCF Fixed Return III (Plan IV)",
+      "amc": "MCB Investment Management Limited",
+      "nav": 102.29,
+      "offerPrice": 102.29,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15177",
+      "name": "MCB DCF Fixed Return Plan XI",
+      "amc": "MCB Investment Management Limited",
+      "nav": 101.39,
+      "offerPrice": 101.39,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15178",
+      "name": "MCB DCF Fixed Return Plan XII",
+      "amc": "MCB Investment Management Limited",
+      "nav": 101.12,
+      "offerPrice": 101.12,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15217",
+      "name": "MCB DCF Fixed Return Plan XIII",
+      "amc": "MCB Investment Management Limited",
+      "nav": 99.95,
+      "offerPrice": 99.95,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "12722",
+      "name": "MCB DCF Income Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 111.31,
+      "offerPrice": 113.23,
+      "category": "Income"
+    },
+    {
+      "fundId": "15172",
+      "name": "MCB Financial Sector Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 95.41,
+      "offerPrice": 98.71,
+      "category": "Equity"
+    },
+    {
+      "fundId": "14744",
+      "name": "MCB Government Securities Plan I",
+      "amc": "MCB Investment Management Limited",
+      "nav": 102.22,
+      "offerPrice": 104.57,
+      "category": "Income"
+    },
+    {
+      "fundId": "14699",
+      "name": "MCB Investment Savings Plan I",
+      "amc": "MCB Investment Management Limited",
+      "nav": 102.21,
+      "offerPrice": 103.39,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "14597",
+      "name": "MCB KPK Govt Employees Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 143.52,
+      "offerPrice": 143.52,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "15179",
+      "name": "MCB Money Market Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 101.26,
+      "offerPrice": 103.01,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12720",
+      "name": "MCB Pakistan Asset Allocation Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 242.04,
+      "offerPrice": 250.39,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "12747",
+      "name": "MCB Pakistan Opportunity Fund (MCB Pakistan Dividend Yield Plan)",
+      "amc": "MCB Investment Management Limited",
+      "nav": 353.26,
+      "offerPrice": 365.45,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "12728",
+      "name": "MCB Pakistan Sovereign Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 55.93,
+      "offerPrice": 56.89,
+      "category": "Income"
+    },
+    {
+      "fundId": "12724",
+      "name": "MCB Pakistan Stock Market Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 375.24,
+      "offerPrice": 388.19,
+      "category": "Equity"
+    },
+    {
+      "fundId": "14987",
+      "name": "MCB Punjab Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 107.07,
+      "offerPrice": 107.07,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12843",
+      "name": "Meezan Asset Allocation Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 116.98,
+      "offerPrice": 121.01,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12822",
+      "name": "Meezan Balanced Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 27.52,
+      "offerPrice": 28.15,
+      "category": "Shariah Compliant Balanced"
+    },
+    {
+      "fundId": "15077",
+      "name": "Meezan Capital Protected Fund III (Meezan Capital Secure Plan I)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.23,
+      "offerPrice": 51.97,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "12820",
+      "name": "Meezan Cash Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 52.3,
+      "offerPrice": 52.3,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12854",
+      "name": "Meezan Daily Income Fund (MDIP I)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50,
+      "offerPrice": 50.58,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12855",
+      "name": "Meezan Daily Income Fund (Meezan Mahana Munafa Plan)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50,
+      "offerPrice": 50,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14406",
+      "name": "Meezan Daily Income Fund (Meezan Munafa Plan I)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 51.26,
+      "offerPrice": 51.85,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14407",
+      "name": "Meezan Daily Income Fund (Meezan Sehl Account Plan) (MSHP)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 51.34,
+      "offerPrice": 51.34,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "14652",
+      "name": "Meezan Daily Income Fund (Meezan Super Saver Plan) (MSSP)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 51.27,
+      "offerPrice": 51.27,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12864",
+      "name": "Meezan Dedicated Equity Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 95.64,
+      "offerPrice": 98.94,
+      "category": "Shariah Compliant Dedicated Equity"
+    },
+    {
+      "fundId": "14709",
+      "name": "Meezan Dynamic Asset Allocation Fund (Meezan Dividend Yield Plan)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 83.73,
+      "offerPrice": 85.65,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12837",
+      "name": "Meezan Energy Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 65.3,
+      "offerPrice": 67.56,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12827",
+      "name": "Meezan Financial Planning Fund of Funds (Aggressive)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 183.51,
+      "offerPrice": 187.73,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12828",
+      "name": "Meezan Financial Planning Fund of Funds (Conservative)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 126.52,
+      "offerPrice": 127.98,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12838",
+      "name": "Meezan Financial Planning Fund of Funds (MAAP I)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 143.06,
+      "offerPrice": 143.06,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12829",
+      "name": "Meezan Financial Planning Fund of Funds (Moderate)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 146.69,
+      "offerPrice": 149.22,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "14408",
+      "name": "Meezan Financial Planning Fund of Funds (Very Conservative Allocation Plan)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 53.23,
+      "offerPrice": 53.85,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "14638",
+      "name": "Meezan GOKP Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 145.9,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12840",
+      "name": "Meezan Gold Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 301.01,
+      "offerPrice": 310.95,
+      "category": "Shariah Compliant Commodities"
+    },
+    {
+      "fundId": "15175",
+      "name": "Meezan Government Securities Fund Plan I",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.84,
+      "offerPrice": 51.42,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15043",
+      "name": "Meezan Islamic Asaan Cash Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.77,
+      "offerPrice": 50.77,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12817",
+      "name": "Meezan Islamic Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 162.99,
+      "offerPrice": 166.74,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15200",
+      "name": "Meezan Islamic Government of Balochistan Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 100.48,
+      "offerPrice": 100.48,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14969",
+      "name": "Meezan Islamic Government of Punjab Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 108.32,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12818",
+      "name": "Meezan Islamic Income Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 52.64,
+      "offerPrice": 53.25,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15063",
+      "name": "Meezan Paidaar Munafa Plan 34",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.94,
+      "offerPrice": 50.94,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15065",
+      "name": "Meezan Paidaar Munafa Plan 39",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 51.15,
+      "offerPrice": 51.15,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15090",
+      "name": "Meezan Paidaar Munafa Plan 43",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 51.08,
+      "offerPrice": 51.08,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15144",
+      "name": "Meezan Paidaar Munafa Plan 47",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.81,
+      "offerPrice": 50.81,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15155",
+      "name": "Meezan Paidaar Munafa Plan 48",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.84,
+      "offerPrice": 50.84,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15167",
+      "name": "Meezan Paidaar Munafa Plan 49",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.74,
+      "offerPrice": 50.74,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15203",
+      "name": "Meezan Paidaar Munafa Plan 50",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.32,
+      "offerPrice": 50.32,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15216",
+      "name": "Meezan Paidaar Munafa Plan 51",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.21,
+      "offerPrice": 50.21,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15212",
+      "name": "Meezan Paidaar Munafa Plan 52",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50.21,
+      "offerPrice": 50.21,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "12865",
+      "name": "Meezan Pakistan ETF",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 17.66,
+      "offerPrice": 17.66,
+      "category": "Shariah Compliant Exchange Traded Fund"
+    },
+    {
+      "fundId": "12852",
+      "name": "Meezan Rozana Amdani Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 50,
+      "offerPrice": 50,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12824",
+      "name": "Meezan Sovereign Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 53.2,
+      "offerPrice": 53.81,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "12836",
+      "name": "Meezan Strategic Allocation Fund (MSAP I)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 94.58,
+      "offerPrice": 94.58,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12834",
+      "name": "Meezan Strategic Allocation Fund (MSAP II)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 81.35,
+      "offerPrice": 81.35,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12835",
+      "name": "Meezan Strategic Allocation Fund (MSAP III)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 89.73,
+      "offerPrice": 89.73,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12845",
+      "name": "Meezan Strategic Allocation Fund (MSAP IV)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 95.1,
+      "offerPrice": 95.1,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12839",
+      "name": "Meezan Strategic Allocation Fund (MSAP V)",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 104.46,
+      "offerPrice": 104.46,
+      "category": "Shariah Compliant Fund of Funds"
+    },
+    {
+      "fundId": "12860",
+      "name": "Meezan Tahaffuz Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 1811.7,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "12862",
+      "name": "Meezan Tahaffuz Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 533.87,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12861",
+      "name": "Meezan Tahaffuz Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 534.89,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "12863",
+      "name": "Meezan Tahaffuz Pension Fund",
+      "amc": "Al Meezan Investment Management Limited",
+      "nav": 558.91,
+      "offerPrice": 0,
+      "category": "VPS-Shariah Compliant Commodities / Gold"
+    },
+    {
+      "fundId": "13099",
+      "name": "NAFA Islamic Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 302.9,
+      "offerPrice": 302.9,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "13100",
+      "name": "NAFA Islamic Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 1241,
+      "offerPrice": 1241,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "13101",
+      "name": "NAFA Islamic Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 309.2,
+      "offerPrice": 309.2,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13097",
+      "name": "NAFA Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 1448.84,
+      "offerPrice": 1448.84,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "13096",
+      "name": "NAFA Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 406.34,
+      "offerPrice": 406.34,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "13098",
+      "name": "NAFA Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 347.35,
+      "offerPrice": 347.35,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13034",
+      "name": "National Investment Unit Trust",
+      "amc": "National Investment Trust Limited",
+      "nav": 155.45,
+      "offerPrice": 160.15,
+      "category": "Equity"
+    },
+    {
+      "fundId": "13055",
+      "name": "NBP Balanced Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 43.24,
+      "offerPrice": 44.73,
+      "category": "Balanced"
+    },
+    {
+      "fundId": "15222",
+      "name": "NBP Balochistan Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 100.24,
+      "offerPrice": 100.24,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13093",
+      "name": "NBP Cash Plan I",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.26,
+      "offerPrice": 10.62,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13094",
+      "name": "NBP Cash Plan II",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10,
+      "offerPrice": 10.35,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13081",
+      "name": "NBP Financial Sector Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 25.5,
+      "offerPrice": 26.38,
+      "category": "Equity"
+    },
+    {
+      "fundId": "13062",
+      "name": "NBP Financial Sector Income Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.88,
+      "offerPrice": 11,
+      "category": "Income"
+    },
+    {
+      "fundId": "15101",
+      "name": "NBP Financial Sector Income Plus Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.18,
+      "offerPrice": 10.53,
+      "category": "Income"
+    },
+    {
+      "fundId": "15171",
+      "name": "NBP Fixed Term Munafa Plan VIB (NBP Mustahkam Fund I)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.1,
+      "offerPrice": 10.1,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15182",
+      "name": "NBP Fixed Term Munafa Plan VIIB (NBP Mustahkam Fund I)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.07,
+      "offerPrice": 10.07,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15181",
+      "name": "NBP Fixed Term Munafa Plan XIIB (NBP Mustahkam Fund II)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.15,
+      "offerPrice": 10.15,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14934",
+      "name": "NBP Fixed Term Munafa Plan XIII (NBP Mustahkam Fund II)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.1,
+      "offerPrice": 10.1,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15170",
+      "name": "NBP Fixed Term Munafa Plan XIIIB (NBP Mustahkam Fund II)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.09,
+      "offerPrice": 10.09,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15162",
+      "name": "NBP Fixed Term Munafa Plan XIVB",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.12,
+      "offerPrice": 10.12,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "15069",
+      "name": "NBP Fixed Term Munafa Plan XXA (NBP Mustahkam Fund II)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.35,
+      "offerPrice": 10.35,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14624",
+      "name": "NBP GoKP Islamic Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 142.1,
+      "offerPrice": 142.1,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14614",
+      "name": "NBP GoKP Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 144.24,
+      "offerPrice": 144.24,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13059",
+      "name": "NBP Government Securities Liquid Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.48,
+      "offerPrice": 10.6,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "14374",
+      "name": "NBP Government Securities Plan IV",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.25,
+      "offerPrice": 10.6,
+      "category": "Income"
+    },
+    {
+      "fundId": "14906",
+      "name": "NBP Government Securities Plan VIII",
+      "amc": "NBP Fund Management Limited",
+      "nav": 13.18,
+      "offerPrice": 13.63,
+      "category": "Income"
+    },
+    {
+      "fundId": "13066",
+      "name": "NBP Government Securities Savings Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.69,
+      "offerPrice": 10.81,
+      "category": "Income"
+    },
+    {
+      "fundId": "13053",
+      "name": "NBP Income Opportunity Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 11.1,
+      "offerPrice": 11.22,
+      "category": "Income"
+    },
+    {
+      "fundId": "13095",
+      "name": "NBP Income Plan I",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.21,
+      "offerPrice": 10.56,
+      "category": "Income"
+    },
+    {
+      "fundId": "15223",
+      "name": "NBP Islamic Balochistan Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 100.23,
+      "offerPrice": 100.23,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13089",
+      "name": "NBP Islamic Daily Dividend Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10,
+      "offerPrice": 10.12,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13074",
+      "name": "NBP Islamic Energy Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 23.13,
+      "offerPrice": 23.93,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "15190",
+      "name": "NBP Islamic Fixed Term Munafa Plan IIB (NBP Islamic Mustahkam Fund)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.06,
+      "offerPrice": 10.06,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15197",
+      "name": "NBP Islamic Fixed Term Munafa Plan-IVB ( NBP Islamic Mustahkam Fund )",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10,
+      "offerPrice": 10,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15221",
+      "name": "NBP Islamic Fixed Term Munafa Plan-VB ( NBP Islamic Mustahkam Fund )",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10,
+      "offerPrice": 10,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "15114",
+      "name": "NBP Islamic Gold Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.01,
+      "offerPrice": 10.38,
+      "category": "Shariah Compliant Commodities"
+    },
+    {
+      "fundId": "14596",
+      "name": "NBP Islamic Government Securities Plan III",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.22,
+      "offerPrice": 10.58,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13067",
+      "name": "NBP Islamic Income Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.3,
+      "offerPrice": 10.42,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13085",
+      "name": "NBP Islamic Mahana Amdani Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.3,
+      "offerPrice": 10.42,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13082",
+      "name": "NBP Islamic Money Market Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.35,
+      "offerPrice": 10.47,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14928",
+      "name": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan I)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.08,
+      "offerPrice": 10.08,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "15012",
+      "name": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan II)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.05,
+      "offerPrice": 10.39,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "15041",
+      "name": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan III)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.03,
+      "offerPrice": 10.37,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "15057",
+      "name": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan IV)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.11,
+      "offerPrice": 10.46,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "15153",
+      "name": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan V)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.06,
+      "offerPrice": 10.41,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "15228",
+      "name": "NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan VI)",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10,
+      "offerPrice": 10.34,
+      "category": "Shariah Compliant Capital Protected"
+    },
+    {
+      "fundId": "15029",
+      "name": "NBP Islamic Punjab Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 106.07,
+      "offerPrice": 106.07,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13057",
+      "name": "NBP Islamic Sarmaya Izafa Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 34.98,
+      "offerPrice": 36.18,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "13056",
+      "name": "NBP Islamic Savings Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 9.75,
+      "offerPrice": 10.09,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13068",
+      "name": "NBP Islamic Stock Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 24.79,
+      "offerPrice": 25.65,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "13052",
+      "name": "NBP Mahana Amdani Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.49,
+      "offerPrice": 10.61,
+      "category": "Income"
+    },
+    {
+      "fundId": "13063",
+      "name": "NBP Money Market Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.21,
+      "offerPrice": 10.33,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "15176",
+      "name": "NBP Money Market Liquid Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.15,
+      "offerPrice": 10.26,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13103",
+      "name": "NBP Pakistan Growth Exchange Traded Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 26.58,
+      "offerPrice": 26.58,
+      "category": "Exchange Traded Fund"
+    },
+    {
+      "fundId": "15030",
+      "name": "NBP Punjab Pension Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 106.49,
+      "offerPrice": 106.49,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13060",
+      "name": "NBP Riba Free Savings Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.53,
+      "offerPrice": 10.65,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13061",
+      "name": "NBP Sarmaya Izafa Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 40.05,
+      "offerPrice": 41.44,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "13058",
+      "name": "NBP Savings Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 10.08,
+      "offerPrice": 10.43,
+      "category": "Income"
+    },
+    {
+      "fundId": "13054",
+      "name": "NBP Stock Fund",
+      "amc": "NBP Fund Management Limited",
+      "nav": 42.91,
+      "offerPrice": 44.39,
+      "category": "Equity"
+    },
+    {
+      "fundId": "13036",
+      "name": "NIT - Government Bond Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 10.27,
+      "offerPrice": 10.37,
+      "category": "Income"
+    },
+    {
+      "fundId": "13037",
+      "name": "NIT - Income Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 10.49,
+      "offerPrice": 10.6,
+      "category": "Income"
+    },
+    {
+      "fundId": "13041",
+      "name": "NIT Asset Allocation Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 16.53,
+      "offerPrice": 16.94,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "13038",
+      "name": "NIT Islamic Equity Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 19.05,
+      "offerPrice": 19.05,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "13040",
+      "name": "NIT Islamic Income Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 9.86,
+      "offerPrice": 9.86,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13042",
+      "name": "NIT Islamic Money Market Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 103.12,
+      "offerPrice": 104.15,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13049",
+      "name": "NIT Islamic Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 26.38,
+      "offerPrice": 26.38,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13047",
+      "name": "NIT Islamic Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 26.61,
+      "offerPrice": 26.61,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "13048",
+      "name": "NIT Islamic Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 32.49,
+      "offerPrice": 32.49,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14650",
+      "name": "NIT KP Islamic Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 137.47,
+      "offerPrice": 137.47,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "14570",
+      "name": "NIT KP Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 141.66,
+      "offerPrice": 141.66,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13039",
+      "name": "NIT Money Market Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 9.92,
+      "offerPrice": 9.92,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13051",
+      "name": "NIT Pakistan Gateway Exchange Traded Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 34,
+      "offerPrice": 34,
+      "category": "Exchange Traded Fund"
+    },
+    {
+      "fundId": "13044",
+      "name": "NIT Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 30.63,
+      "offerPrice": 30.63,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "13046",
+      "name": "NIT Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 29.86,
+      "offerPrice": 29.86,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13045",
+      "name": "NIT Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 34.15,
+      "offerPrice": 34.15,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "13050",
+      "name": "NIT Pension Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 51.13,
+      "offerPrice": 51.13,
+      "category": "VPS-Commodities / Gold"
+    },
+    {
+      "fundId": "13043",
+      "name": "NIT Social Impact Fund",
+      "amc": "National Investment Trust Limited",
+      "nav": 10.48,
+      "offerPrice": 10.48,
+      "category": "Income"
+    },
+    {
+      "fundId": "13104",
+      "name": "Pak Oman Advantage Asset Allocation Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 41.21,
+      "offerPrice": 42.37,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "13105",
+      "name": "Pak Oman Advantage Islamic Income Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 54.01,
+      "offerPrice": 54.63,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "13119",
+      "name": "Pak Oman Daily Dividend Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 9.97,
+      "offerPrice": 10.02,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13116",
+      "name": "Pak Oman Income Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 11.04,
+      "offerPrice": 11.04,
+      "category": "Income"
+    },
+    {
+      "fundId": "13106",
+      "name": "Pak Oman Islamic Asset Allocation Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 39.71,
+      "offerPrice": 40.83,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "14673",
+      "name": "Pak Oman Micro Finance Fund",
+      "amc": "Pak Oman Asset Management Company Limited",
+      "nav": 102.74,
+      "offerPrice": 102.74,
+      "category": "Income"
+    },
+    {
+      "fundId": "14364",
+      "name": "Pak Qatar Asset Allocation Plan I (PQAAP IA)",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 120.24,
+      "offerPrice": 124.39,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "14365",
+      "name": "Pak Qatar Asset Allocation Plan II (PQAAP IIA)",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 117.55,
+      "offerPrice": 121.61,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "13125",
+      "name": "Pak Qatar Cash Plan",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 118.2,
+      "offerPrice": 122.28,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13124",
+      "name": "Pak Qatar Daily Dividend Plan",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 100,
+      "offerPrice": 103.45,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15183",
+      "name": "Pak Qatar GoB Islamic Pension Fund",
+      "amc": "Pak-Qatar Family Takaful Limited",
+      "nav": 100.3,
+      "offerPrice": 103.76,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15006",
+      "name": "Pak Qatar GoKP Islamic Pension Fund",
+      "amc": "Pak-Qatar Family Takaful Limited",
+      "nav": 106.21,
+      "offerPrice": 109.88,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "15024",
+      "name": "Pak Qatar GoPB Islamic Pension Fund",
+      "amc": "Pak-Qatar Family Takaful Limited",
+      "nav": 105.21,
+      "offerPrice": 108.84,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13126",
+      "name": "Pak Qatar Income Plan",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 119.55,
+      "offerPrice": 123.68,
+      "category": "Shariah Compliant Income"
+    },
+    {
+      "fundId": "15224",
+      "name": "Pak Qatar Islamic Fixed Term Fund - Plan II",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 100.22,
+      "offerPrice": 103.68,
+      "category": "Shariah Compliant Fixed Rate / Return"
+    },
+    {
+      "fundId": "13129",
+      "name": "Pak Qatar Islamic Pension Fund",
+      "amc": "Pak-Qatar Family Takaful Limited",
+      "nav": 168.79,
+      "offerPrice": 174.61,
+      "category": "VPS-Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "13128",
+      "name": "Pak Qatar Islamic Pension Fund",
+      "amc": "Pak-Qatar Family Takaful Limited",
+      "nav": 316.76,
+      "offerPrice": 327.69,
+      "category": "VPS-Shariah Compliant Equity"
+    },
+    {
+      "fundId": "13130",
+      "name": "Pak Qatar Islamic Pension Fund",
+      "amc": "Pak-Qatar Family Takaful Limited",
+      "nav": 172.33,
+      "offerPrice": 178.27,
+      "category": "VPS-Shariah Compliant Debt"
+    },
+    {
+      "fundId": "13121",
+      "name": "Pak Qatar Islamic Stock Fund",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 213.11,
+      "offerPrice": 220.47,
+      "category": "Shariah Compliant Equity"
+    },
+    {
+      "fundId": "14721",
+      "name": "Pak-Qatar Asset Allocation Plan III (PQAAP IIIA)",
+      "amc": "Pak-Qatar Asset Management Company Limited",
+      "nav": 137.32,
+      "offerPrice": 142.05,
+      "category": "Shariah Compliant Asset Allocation"
+    },
+    {
+      "fundId": "12727",
+      "name": "Pakistan Capital Market Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 30.72,
+      "offerPrice": 31.43,
+      "category": "Balanced"
+    },
+    {
+      "fundId": "12730",
+      "name": "Pakistan Cash Management Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 50.47,
+      "offerPrice": 51.05,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "12731",
+      "name": "Pakistan Income Enhancement Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 56.04,
+      "offerPrice": 57.33,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "12726",
+      "name": "Pakistan Income Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 56.2,
+      "offerPrice": 57.49,
+      "category": "Income"
+    },
+    {
+      "fundId": "12760",
+      "name": "Pakistan Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 568.93,
+      "offerPrice": 568.93,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12758",
+      "name": "Pakistan Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 2477.95,
+      "offerPrice": 2477.95,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "12759",
+      "name": "Pakistan Pension Fund",
+      "amc": "MCB Investment Management Limited",
+      "nav": 657.43,
+      "offerPrice": 657.43,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "13150",
+      "name": "UBL Asset Allocation Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 309.4,
+      "offerPrice": 320.07,
+      "category": "Asset Allocation"
+    },
+    {
+      "fundId": "13185",
+      "name": "UBL Cash Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102.26,
+      "offerPrice": 102.26,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13172",
+      "name": "UBL Financial Sector Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 325.39,
+      "offerPrice": 336.62,
+      "category": "Equity"
+    },
+    {
+      "fundId": "14876",
+      "name": "UBL Fixed Return Plan II (AB)",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 103.06,
+      "offerPrice": 103.06,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14679",
+      "name": "UBL Fixed Return Plan II (M)",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 100.93,
+      "offerPrice": 100.93,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14877",
+      "name": "UBL Fixed Return Plan III (Y)",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 122.68,
+      "offerPrice": 122.68,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "14899",
+      "name": "UBL Fixed Return Plan III (Z)",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102.61,
+      "offerPrice": 102.61,
+      "category": "Fixed Rate / Return"
+    },
+    {
+      "fundId": "13144",
+      "name": "UBL Government Securities Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 108.25,
+      "offerPrice": 109.49,
+      "category": "Income"
+    },
+    {
+      "fundId": "13134",
+      "name": "UBL Growth & Income Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 87.05,
+      "offerPrice": 88.55,
+      "category": "Aggressive Fixed Income"
+    },
+    {
+      "fundId": "13133",
+      "name": "UBL Income Opportunity Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 112.72,
+      "offerPrice": 114.66,
+      "category": "Income"
+    },
+    {
+      "fundId": "14921",
+      "name": "UBL Liquidity Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 101.52,
+      "offerPrice": 101.52,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13138",
+      "name": "UBL Liquidity Plus Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102.97,
+      "offerPrice": 102.97,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13141",
+      "name": "UBL Money Market Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 102.77,
+      "offerPrice": 103.95,
+      "category": "Money Market"
+    },
+    {
+      "fundId": "13210",
+      "name": "UBL Pakistan Enterprise Exchange Traded Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 29.1,
+      "offerPrice": 29.1,
+      "category": "Exchange Traded Fund"
+    },
+    {
+      "fundId": "15025",
+      "name": "UBL Punjab Pension Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 106.36,
+      "offerPrice": 106.36,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13204",
+      "name": "UBL Retirement Saving Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 438.78,
+      "offerPrice": 438.78,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "13203",
+      "name": "UBL Retirement Saving Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 3543.46,
+      "offerPrice": 3543.46,
+      "category": "VPS-Equity"
+    },
+    {
+      "fundId": "13206",
+      "name": "UBL Retirement Saving Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 404.33,
+      "offerPrice": 404.33,
+      "category": "VPS-Commodities / Gold"
+    },
+    {
+      "fundId": "13205",
+      "name": "UBL Retirement Saving Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 571.61,
+      "offerPrice": 571.61,
+      "category": "VPS-Debt"
+    },
+    {
+      "fundId": "14403",
+      "name": "UBL Special Savings Plan X",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 103.59,
+      "offerPrice": 105.15,
+      "category": "Capital Protected - Income"
+    },
+    {
+      "fundId": "13135",
+      "name": "UBL Stock Advantage Fund",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 258.74,
+      "offerPrice": 266.18,
+      "category": "Equity"
+    },
+    {
+      "fundId": "14621",
+      "name": "UBL Voluntary Pension Fund KPK",
+      "amc": "UBL Fund Managers Limited",
+      "nav": 144.96,
+      "offerPrice": 144.96,
+      "category": "VPS-Money Market"
+    },
+    {
+      "fundId": "12965",
+      "name": "Unit Trust of Pakistan",
+      "amc": "JS Investments Limited",
+      "nav": 417.11,
+      "offerPrice": 431.51,
+      "category": "Balanced"
+    },
+    {
+      "fundId": "14750",
+      "name": "786 Islamic Money Market Fund",
+      "amc": "786 Investments Limited",
+      "nav": 101.92,
+      "offerPrice": 102.94,
+      "category": "Shariah Compliant Money Market"
+    },
+    {
+      "fundId": "12814",
+      "name": "786 Smart Fund",
+      "amc": "786 Investments Limited",
+      "nav": 85.41,
+      "offerPrice": 86.26,
+      "category": "Shariah Compliant Income"
+    }
+  ],
+  "updatedAt": "2026-08-30T00:04:48.512Z"
+}

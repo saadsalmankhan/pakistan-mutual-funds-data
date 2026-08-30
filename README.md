@@ -1,0 +1,53 @@
+# Pakistan Mutual Funds — Daily NAV Dataset
+
+Daily net asset values for ~550 Pakistani mutual funds, updated automatically
+every business day from [MUFAP's](https://www.mufap.com.pk/) public Fund
+Directory. No signup, no API key — just clone or fetch the raw files.
+
+Built by the scraper behind
+[pakistan-mutual-funds-api](https://github.com/saadsalmankhan/pakistan-mutual-funds-api);
+run that if you want a live REST API with filters and history endpoints
+instead of flat files.
+
+## Files
+
+| Path | Contents |
+|---|---|
+| `funds.json` | Latest snapshot: every fund's current NAV, offer price, AMC and category, plus `updatedAt` |
+| `history/<fundId>.ndjson` | One line per business day per fund: `{"date","nav","offerPrice"}` — accumulates daily |
+
+`fundId` is MUFAP's internal fund id (the `FundID` in their fund-detail URLs).
+
+## Fetch examples
+
+Latest snapshot:
+
+```bash
+curl -s https://raw.githubusercontent.com/saadsalmankhan/pakistan-mutual-funds-data/main/funds.json
+```
+
+One fund's NAV history (ABL Cash Fund):
+
+```bash
+curl -s https://raw.githubusercontent.com/saadsalmankhan/pakistan-mutual-funds-data/main/history/12768.ndjson
+```
+
+## Update cadence & data notes
+
+- A GitHub Action scrapes MUFAP once per business day (21:30 PKT) and commits
+  any changes; the commit log is the audit trail.
+- History dates are scrape dates in Asia/Karachi — MUFAP doesn't publish an
+  official NAV date on the directory page.
+- History accumulates from 2026-08-30 onward. Earlier data may be backfilled
+  later.
+
+## Disclaimer
+
+Data is scraped from MUFAP's public Fund Directory and provided as-is, for
+informational use only. This project is not affiliated with or endorsed by
+MUFAP. Verify against MUFAP directly before making any financial decision
+based on this data.
+
+## Author
+
+Built by [Saad Salman](https://saadsalman.org).
