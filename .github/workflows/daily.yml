@@ -34,11 +34,18 @@ jobs:
         working-directory: api
         run: npm ci
 
+      - name: Enrich fund metadata
+        working-directory: api
+        env:
+          META_FILE: ${{ github.workspace }}/meta.json
+        run: npm run enrich
+
       - name: Scrape MUFAP
         working-directory: api
         env:
           DATA_FILE: ${{ github.workspace }}/funds.json
           HISTORY_DIR: ${{ github.workspace }}/history
+          META_FILE: ${{ github.workspace }}/meta.json
           SKIP_WEEKENDS: 'true'
         run: npm run scrape
 
@@ -46,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add funds.json history
+          git add funds.json history meta.json
           if git diff --cached --quiet; then
             echo "No changes today."
           else

@@ -13,8 +13,9 @@ instead of flat files.
 
 | Path | Contents |
 |---|---|
-| `funds.json` | Latest snapshot: every fund's current NAV, offer price, AMC and category, plus `updatedAt` |
+| `funds.json` | Latest snapshot: every fund's current NAV, offer price, AMC, category, Shariah flag, benchmark (KSE-100 / KMI-30 / null), expense ratio, management fee and inception date, plus `updatedAt` |
 | `history/<fundId>.ndjson` | One line per business day per fund: `{"date","nav","offerPrice"}` — accumulates daily |
+| `meta.json` | Per-fund metadata from MUFAP's Expense Ratios table: TER YTD %, management fee %, inception date |
 
 `fundId` is MUFAP's internal fund id (the `FundID` in their fund-detail URLs).
 
