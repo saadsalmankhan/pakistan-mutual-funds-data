@@ -6,7 +6,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.44,
       "offerPrice": 10.54,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14347",
@@ -14,7 +16,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.2,
       "offerPrice": 10.43,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15209",
@@ -22,7 +26,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.06,
       "offerPrice": 0,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15168",
@@ -30,7 +36,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.18,
       "offerPrice": 0,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15188",
@@ -38,7 +46,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.14,
       "offerPrice": 0,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15225",
@@ -46,7 +56,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.04,
       "offerPrice": 0,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15195",
@@ -54,7 +66,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 100.6,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15196",
@@ -62,7 +76,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 100.86,
       "offerPrice": 0,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14657",
@@ -70,7 +86,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 126.5,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14668",
@@ -78,7 +96,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 134.67,
       "offerPrice": 0,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14975",
@@ -86,7 +106,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 105.31,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14974",
@@ -94,7 +116,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 107.37,
       "offerPrice": 0,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12767",
@@ -102,7 +126,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.35,
       "offerPrice": 10.53,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12765",
@@ -110,7 +136,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.38,
       "offerPrice": 10.56,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12786",
@@ -118,7 +146,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.14,
       "offerPrice": 10.49,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12793",
@@ -126,7 +156,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.21,
       "offerPrice": 10.33,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12804",
@@ -134,7 +166,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 17.34,
       "offerPrice": 17.34,
-      "category": "Shariah Compliant Dedicated Equity"
+      "category": "Shariah Compliant Dedicated Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12780",
@@ -142,7 +176,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 81.81,
       "offerPrice": 83.71,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12788",
@@ -150,7 +186,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 101.06,
       "offerPrice": 0,
-      "category": "Shariah Compliant Fund of Funds - CPPI"
+      "category": "Shariah Compliant Fund of Funds - CPPI",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12776",
@@ -158,7 +196,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 117.6,
       "offerPrice": 120.33,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12769",
@@ -166,7 +206,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.45,
       "offerPrice": 10.63,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14623",
@@ -174,7 +216,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.2,
       "offerPrice": 10.44,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12802",
@@ -182,7 +226,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 600.97,
       "offerPrice": 621.89,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12803",
@@ -190,7 +236,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 237.94,
       "offerPrice": 246.22,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12801",
@@ -198,7 +246,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 234.55,
       "offerPrice": 242.72,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14692",
@@ -206,7 +256,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.25,
       "offerPrice": 10.61,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12772",
@@ -214,7 +266,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 32.27,
       "offerPrice": 33.02,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14613",
@@ -222,7 +276,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.2,
       "offerPrice": 10.44,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14913",
@@ -230,7 +286,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 9.99,
       "offerPrice": 10.34,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12798",
@@ -238,7 +296,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 387.73,
       "offerPrice": 401.22,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12799",
@@ -246,7 +306,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 655.8,
       "offerPrice": 678.62,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12800",
@@ -254,7 +316,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 293.13,
       "offerPrice": 303.34,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12789",
@@ -262,7 +326,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.3,
       "offerPrice": 10.42,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12790",
@@ -270,7 +336,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.94,
       "offerPrice": 11.2,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12791",
@@ -278,7 +346,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.41,
       "offerPrice": 10.65,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12792",
@@ -286,7 +356,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.34,
       "offerPrice": 10.46,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12794",
@@ -294,7 +366,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.32,
       "offerPrice": 10.44,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12796",
@@ -302,7 +376,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 10.26,
       "offerPrice": 10.38,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12766",
@@ -310,7 +386,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 37.58,
       "offerPrice": 38.45,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12805",
@@ -318,7 +396,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 55.6,
       "offerPrice": 57,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15094",
@@ -326,7 +406,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 52.4,
       "offerPrice": 53,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12809",
@@ -334,7 +416,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 53.04,
       "offerPrice": 53,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12807",
@@ -342,7 +426,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 40.89,
       "offerPrice": 41,
-      "category": "Index Tracker"
+      "category": "Index Tracker",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12813",
@@ -350,7 +436,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 51.2,
       "offerPrice": 51.2,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12810",
@@ -358,7 +446,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 53.86,
       "offerPrice": 55,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12811",
@@ -366,7 +456,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 109.5,
       "offerPrice": 112,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12806",
@@ -374,7 +466,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 230.98,
       "offerPrice": 239,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13137",
@@ -382,7 +476,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.23,
       "offerPrice": 104.42,
-      "category": "Shariah Compliant Aggressive Fixed Income"
+      "category": "Shariah Compliant Aggressive Fixed Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13189",
@@ -390,7 +486,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 101.69,
       "offerPrice": 101.98,
-      "category": "Shariah Compliant Aggressive Fixed Income"
+      "category": "Shariah Compliant Aggressive Fixed Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13152",
@@ -398,7 +496,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 200.98,
       "offerPrice": 207.91,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13146",
@@ -406,7 +506,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.18,
       "offerPrice": 103.18,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13190",
@@ -414,7 +516,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 102.32,
       "offerPrice": 102.32,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13186",
@@ -422,7 +526,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 342.28,
       "offerPrice": 354.09,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14381",
@@ -430,7 +536,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 102.35,
       "offerPrice": 104.12,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15026",
@@ -438,7 +546,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 104.42,
       "offerPrice": 104.42,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13200",
@@ -446,7 +556,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 385.94,
       "offerPrice": 385.94,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13201",
@@ -454,7 +566,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 2962.37,
       "offerPrice": 2962.37,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "13202",
@@ -462,7 +576,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 372.21,
       "offerPrice": 372.21,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13143",
@@ -470,7 +586,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.88,
       "offerPrice": 105.08,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13136",
@@ -478,7 +596,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 488.82,
       "offerPrice": 502.87,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14579",
@@ -486,7 +606,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 137.12,
       "offerPrice": 137.12,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12710",
@@ -494,7 +616,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 105.56,
       "offerPrice": 107.68,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12707",
@@ -502,7 +626,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 103.72,
       "offerPrice": 106.83,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14811",
@@ -510,7 +636,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 101.64,
       "offerPrice": 101.64,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15067",
@@ -518,7 +646,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 101.8,
       "offerPrice": 101.8,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15161",
@@ -526,7 +656,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 101.48,
       "offerPrice": 101.48,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15189",
@@ -534,7 +666,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 100.99,
       "offerPrice": 100.99,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15231",
@@ -542,7 +676,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 100,
       "offerPrice": 100,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14561",
@@ -550,7 +686,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 137.06,
       "offerPrice": 137.06,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14618",
@@ -558,7 +696,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 142.51,
       "offerPrice": 142.51,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14335",
@@ -566,7 +706,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.54,
       "offerPrice": 105.62,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12706",
@@ -574,7 +716,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 104.86,
       "offerPrice": 108,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12712",
@@ -582,7 +726,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.68,
       "offerPrice": 105.76,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12709",
@@ -590,7 +736,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 103.79,
       "offerPrice": 106.9,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15068",
@@ -598,7 +746,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.05,
       "offerPrice": 105.11,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15159",
@@ -606,7 +756,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 101.8,
       "offerPrice": 101.8,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15205",
@@ -614,7 +766,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 100.89,
       "offerPrice": 100.89,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12719",
@@ -622,7 +776,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 169.65,
       "offerPrice": 174.74,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12717",
@@ -630,7 +786,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 459.14,
       "offerPrice": 472.91,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12718",
@@ -638,7 +796,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 170.9,
       "offerPrice": 176.03,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12713",
@@ -646,7 +806,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.76,
       "offerPrice": 105.84,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12708",
@@ -654,7 +816,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 166.87,
       "offerPrice": 170.21,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12711",
@@ -662,7 +826,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.93,
       "offerPrice": 106.02,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12714",
@@ -670,7 +836,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 539.41,
       "offerPrice": 555.59,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12715",
@@ -678,7 +846,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 190.04,
       "offerPrice": 195.74,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12716",
@@ -686,7 +856,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 185.55,
       "offerPrice": 191.12,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14866",
@@ -694,7 +866,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.11,
       "offerPrice": 102.11,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14872",
@@ -702,7 +876,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.03,
       "offerPrice": 102.03,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14873",
@@ -710,7 +886,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 102.07,
       "offerPrice": 102.07,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12705",
@@ -718,7 +896,9 @@
       "amc": "AL Habib Asset Management Limited",
       "nav": 155.97,
       "offerPrice": 159.09,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12821",
@@ -726,7 +906,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.74,
       "offerPrice": 51.91,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12882",
@@ -734,7 +916,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 64.21,
       "offerPrice": 66.43,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15208",
@@ -742,7 +926,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.81,
       "offerPrice": 100.81,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15207",
@@ -750,7 +936,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.8,
       "offerPrice": 100.8,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12900",
@@ -758,7 +946,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 104.88,
       "offerPrice": 107.29,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12680",
@@ -766,7 +956,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 17.33,
       "offerPrice": 17.33,
-      "category": "Exchange Traded Fund"
+      "category": "Exchange Traded Fund",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14338",
@@ -774,7 +966,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.42,
       "offerPrice": 104.77,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12885",
@@ -782,7 +976,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 116.93,
       "offerPrice": 119.62,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14645",
@@ -790,7 +986,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 155.76,
       "offerPrice": 161.13,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14855",
@@ -798,7 +996,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 115.92,
       "offerPrice": 119.92,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12643",
@@ -806,7 +1006,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 115.99,
       "offerPrice": 119.99,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12653",
@@ -814,7 +1016,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 515.4,
       "offerPrice": 527.25,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12679",
@@ -822,7 +1026,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 207.29,
       "offerPrice": 212.05,
-      "category": "Dedicated Equity"
+      "category": "Dedicated Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12649",
@@ -830,7 +1036,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 116.5,
       "offerPrice": 119.18,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12646",
@@ -838,7 +1046,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 55.79,
       "offerPrice": 57.72,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12678",
@@ -846,7 +1056,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 118.84,
       "offerPrice": 120.89,
-      "category": "Shariah Compliant Dedicated Equity"
+      "category": "Shariah Compliant Dedicated Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12652",
@@ -854,7 +1066,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 105.57,
       "offerPrice": 107.99,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12675",
@@ -862,7 +1076,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 221.2,
       "offerPrice": 228.84,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12677",
@@ -870,7 +1086,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 228.36,
       "offerPrice": 236.24,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12676",
@@ -878,7 +1096,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 328.54,
       "offerPrice": 339.88,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12657",
@@ -886,7 +1106,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 103.1,
       "offerPrice": 106.07,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12662",
@@ -894,7 +1116,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 104.06,
       "offerPrice": 105.56,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12661",
@@ -902,7 +1126,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 112,
       "offerPrice": 0,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12645",
@@ -910,7 +1136,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 73.8,
       "offerPrice": 76.35,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12664",
@@ -918,7 +1146,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 144.11,
       "offerPrice": 147.43,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12654",
@@ -926,7 +1156,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 101.07,
       "offerPrice": 103.39,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12673",
@@ -934,7 +1166,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 260.81,
       "offerPrice": 269.8,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12672",
@@ -942,7 +1176,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 337.56,
       "offerPrice": 349.2,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12674",
@@ -950,7 +1186,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 255.08,
       "offerPrice": 263.88,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12660",
@@ -958,7 +1196,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 122.05,
       "offerPrice": 124.86,
-      "category": "Fund of Funds"
+      "category": "Fund of Funds",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12658",
@@ -966,7 +1206,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 115.8,
       "offerPrice": 117.13,
-      "category": "Fund of Funds"
+      "category": "Fund of Funds",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12659",
@@ -974,7 +1216,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.14,
       "offerPrice": 101.87,
-      "category": "Fund of Funds"
+      "category": "Fund of Funds",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12655",
@@ -982,7 +1226,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 109.93,
       "offerPrice": 112.46,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12650",
@@ -990,7 +1236,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 199.54,
       "offerPrice": 205.27,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12647",
@@ -998,7 +1246,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 89.16,
       "offerPrice": 92.24,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15075",
@@ -1006,7 +1256,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.94,
       "offerPrice": 102.94,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15074",
@@ -1014,7 +1266,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 105.33,
       "offerPrice": 105.33,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12894",
@@ -1022,7 +1276,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 139.39,
       "offerPrice": 142.6,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14718",
@@ -1030,7 +1286,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.18,
       "offerPrice": 105.71,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14751",
@@ -1038,7 +1296,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 107.73,
       "offerPrice": 111.44,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12880",
@@ -1046,7 +1306,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 120.35,
       "offerPrice": 123.12,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12668",
@@ -1054,7 +1316,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.28,
       "offerPrice": 104.63,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15157",
@@ -1062,7 +1326,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.33,
       "offerPrice": 102.33,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15112",
@@ -1070,7 +1336,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.11,
       "offerPrice": 102.11,
-      "category": "Shariah Compliant Aggressive Fixed Income"
+      "category": "Shariah Compliant Aggressive Fixed Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14632",
@@ -1078,7 +1346,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 136.02,
       "offerPrice": 136.02,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14339",
@@ -1086,7 +1356,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.41,
       "offerPrice": 104.76,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14340",
@@ -1094,7 +1366,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.93,
       "offerPrice": 104.41,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14566",
@@ -1102,7 +1376,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 112.32,
       "offerPrice": 116.2,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14708",
@@ -1110,7 +1386,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.41,
       "offerPrice": 105.94,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15192",
@@ -1118,7 +1396,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 101.17,
       "offerPrice": 101.17,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14544",
@@ -1126,7 +1406,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 141.39,
       "offerPrice": 141.39,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14342",
@@ -1134,7 +1416,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 128.83,
       "offerPrice": 133.28,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12884",
@@ -1142,7 +1426,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 105.68,
       "offerPrice": 108.11,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12887",
@@ -1150,7 +1436,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 105.75,
       "offerPrice": 108.18,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12881",
@@ -1158,7 +1446,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 106.37,
       "offerPrice": 108.81,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12903",
@@ -1166,7 +1456,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 150.15,
       "offerPrice": 153.6,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12907",
@@ -1174,7 +1466,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 119.34,
       "offerPrice": 122.09,
-      "category": "Capital Protected"
+      "category": "Capital Protected",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14858",
@@ -1182,7 +1476,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 101.87,
       "offerPrice": 101.87,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14916",
@@ -1190,7 +1486,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.12,
       "offerPrice": 102.12,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14976",
@@ -1198,7 +1496,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 102.11,
       "offerPrice": 102.11,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15071",
@@ -1206,7 +1506,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 101.76,
       "offerPrice": 101.76,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15142",
@@ -1214,7 +1516,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 103.62,
       "offerPrice": 103.62,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15169",
@@ -1222,7 +1526,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 101.83,
       "offerPrice": 101.83,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15206",
@@ -1230,7 +1536,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.77,
       "offerPrice": 100.77,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15214",
@@ -1238,7 +1546,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.74,
       "offerPrice": 100.74,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12879",
@@ -1246,7 +1556,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 82.43,
       "offerPrice": 85.28,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "15113",
@@ -1254,7 +1566,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 100.09,
       "offerPrice": 100.09,
-      "category": "Fund of Funds"
+      "category": "Fund of Funds",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14763",
@@ -1262,7 +1576,9 @@
       "amc": "Alfalah Asset Management Limited",
       "nav": 101.76,
       "offerPrice": 105.27,
-      "category": "Fund of Funds"
+      "category": "Fund of Funds",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14349",
@@ -1270,7 +1586,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 102.39,
       "offerPrice": 103.56,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12743",
@@ -1278,7 +1596,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 100,
       "offerPrice": 101.15,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14683",
@@ -1286,7 +1606,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 104.24,
       "offerPrice": 106.63,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12725",
@@ -1294,7 +1616,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 216.63,
       "offerPrice": 224.1,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15173",
@@ -1302,7 +1626,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 96.49,
       "offerPrice": 99.81,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12737",
@@ -1310,7 +1636,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 107.89,
       "offerPrice": 109.75,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15149",
@@ -1318,7 +1646,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 101.86,
       "offerPrice": 103.62,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12744",
@@ -1326,7 +1656,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 99.51,
       "offerPrice": 100.65,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12761",
@@ -1334,7 +1666,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 2184.78,
       "offerPrice": 2184.78,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12762",
@@ -1342,7 +1676,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 476.32,
       "offerPrice": 476.32,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12763",
@@ -1350,7 +1686,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 439.68,
       "offerPrice": 439.68,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15036",
@@ -1358,7 +1696,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 106.24,
       "offerPrice": 106.24,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12733",
@@ -1366,7 +1706,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 30.66,
       "offerPrice": 31.72,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14576",
@@ -1374,7 +1716,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 218.2,
       "offerPrice": 225.73,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12745",
@@ -1382,7 +1726,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 174.89,
       "offerPrice": 180.92,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12787",
@@ -1390,7 +1736,9 @@
       "amc": "ABL Asset Management Company Limited",
       "nav": 16.7,
       "offerPrice": 17.28,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13109",
@@ -1398,7 +1746,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 105.56,
       "offerPrice": 105.56,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13107",
@@ -1406,7 +1756,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 105.21,
       "offerPrice": 107.59,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13118",
@@ -1414,7 +1766,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 106.27,
       "offerPrice": 107.77,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15047",
@@ -1422,7 +1776,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 96.77,
       "offerPrice": 96.77,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "15049",
@@ -1430,7 +1786,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 101.56,
       "offerPrice": 101.56,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12684",
@@ -1438,7 +1796,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 540.95,
       "offerPrice": 540.95,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15087",
@@ -1446,7 +1806,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 108.27,
       "offerPrice": 108.27,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14685",
@@ -1454,7 +1816,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 512.28,
       "offerPrice": 512.28,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12704",
@@ -1462,7 +1826,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 1600.87,
       "offerPrice": 1600.87,
-      "category": "Shariah Compliant Dedicated Equity"
+      "category": "Shariah Compliant Dedicated Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15086",
@@ -1470,7 +1836,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 107.09,
       "offerPrice": 107.09,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12688",
@@ -1478,7 +1846,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 1457.22,
       "offerPrice": 1457.22,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12690",
@@ -1486,7 +1856,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 955.25,
       "offerPrice": 955.25,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12689",
@@ -1494,7 +1866,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 1241.19,
       "offerPrice": 1241.19,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12683",
@@ -1502,7 +1876,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 525.25,
       "offerPrice": 525.25,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12693",
@@ -1510,7 +1886,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 516.18,
       "offerPrice": 516.18,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12681",
@@ -1518,7 +1896,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 1558.8,
       "offerPrice": 1558.8,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14574",
@@ -1526,7 +1906,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 141.98,
       "offerPrice": 141.98,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12695",
@@ -1534,7 +1916,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 512.43,
       "offerPrice": 512.43,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12685",
@@ -1542,7 +1926,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 523.8,
       "offerPrice": 523.8,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12700",
@@ -1550,7 +1936,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 627.8,
       "offerPrice": 627.8,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12696",
@@ -1558,7 +1946,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 2528.47,
       "offerPrice": 2528.47,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12701",
@@ -1566,7 +1956,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 675.25,
       "offerPrice": 675.25,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12697",
@@ -1574,7 +1966,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 522.27,
       "offerPrice": 522.27,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12698",
@@ -1582,7 +1976,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 494.02,
       "offerPrice": 494.02,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12699",
@@ -1590,7 +1986,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 2719.65,
       "offerPrice": 2719.65,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14965",
@@ -1598,7 +1996,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 109.4,
       "offerPrice": 109.4,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14966",
@@ -1606,7 +2006,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 108.17,
       "offerPrice": 108.17,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12687",
@@ -1614,7 +2016,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 104.94,
       "offerPrice": 104.94,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12682",
@@ -1622,7 +2026,9 @@
       "amc": "Atlas Asset Management Limited",
       "nav": 2152.42,
       "offerPrice": 2152.42,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14922",
@@ -1630,7 +2036,9 @@
       "amc": "AWT Investments Limited",
       "nav": 173.07,
       "offerPrice": 177.05,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12871",
@@ -1638,7 +2046,9 @@
       "amc": "AWT Investments Limited",
       "nav": 107.66,
       "offerPrice": 110.13,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14805",
@@ -1646,7 +2056,9 @@
       "amc": "AWT Investments Limited",
       "nav": 120.03,
       "offerPrice": 120.03,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14841",
@@ -1654,7 +2066,9 @@
       "amc": "AWT Investments Limited",
       "nav": 115.38,
       "offerPrice": 115.38,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14839",
@@ -1662,7 +2076,9 @@
       "amc": "AWT Investments Limited",
       "nav": 131.4,
       "offerPrice": 131.4,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14840",
@@ -1670,7 +2086,9 @@
       "amc": "AWT Investments Limited",
       "nav": 116.71,
       "offerPrice": 116.71,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15218",
@@ -1678,7 +2096,9 @@
       "amc": "AWT Investments Limited",
       "nav": 100.27,
       "offerPrice": 100.27,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12870",
@@ -1686,7 +2106,9 @@
       "amc": "AWT Investments Limited",
       "nav": 187.26,
       "offerPrice": 191.56,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15119",
@@ -1694,7 +2116,9 @@
       "amc": "BMA Investment Advisors Limited",
       "nav": 101.9,
       "offerPrice": 105.41,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15121",
@@ -1702,7 +2126,9 @@
       "amc": "BMA Investment Advisors Limited",
       "nav": 101.91,
       "offerPrice": 105.43,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15118",
@@ -1710,7 +2136,9 @@
       "amc": "BMA Investment Advisors Limited",
       "nav": 104.28,
       "offerPrice": 107.88,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "15008",
@@ -1718,7 +2146,9 @@
       "amc": "EFU Life Assurance Limited",
       "nav": 91.77,
       "offerPrice": 95,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15009",
@@ -1726,7 +2156,9 @@
       "amc": "EFU Life Assurance Limited",
       "nav": 102.89,
       "offerPrice": 106,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15010",
@@ -1734,7 +2166,9 @@
       "amc": "EFU Life Assurance Limited",
       "nav": 104.93,
       "offerPrice": 108,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12891",
@@ -1742,7 +2176,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 103.74,
       "offerPrice": 106.13,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14883",
@@ -1750,7 +2186,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 101.66,
       "offerPrice": 103.99,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14989",
@@ -1758,7 +2196,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 101.97,
       "offerPrice": 104.32,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12886",
@@ -1766,7 +2206,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 91.81,
       "offerPrice": 94.97,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14702",
@@ -1774,7 +2216,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 119.11,
       "offerPrice": 123.21,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14919",
@@ -1782,7 +2226,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 109.35,
       "offerPrice": 113.12,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14970",
@@ -1790,7 +2236,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 107.95,
       "offerPrice": 111.67,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15031",
@@ -1798,7 +2246,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 107.21,
       "offerPrice": 110.91,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15124",
@@ -1806,7 +2256,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 103.37,
       "offerPrice": 106.93,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15129",
@@ -1814,7 +2266,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 103.07,
       "offerPrice": 106.63,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15131",
@@ -1822,7 +2276,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 103.35,
       "offerPrice": 106.91,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12888",
@@ -1830,7 +2286,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 102.11,
       "offerPrice": 104.46,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12916",
@@ -1838,7 +2296,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 118.96,
       "offerPrice": 123.06,
-      "category": "Shariah Compliant Dedicated Equity"
+      "category": "Shariah Compliant Dedicated Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14363",
@@ -1846,7 +2306,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 102.24,
       "offerPrice": 104.59,
-      "category": "Shariah Compliant Aggressive Fixed Income"
+      "category": "Shariah Compliant Aggressive Fixed Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14701",
@@ -1854,7 +2316,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 101.93,
       "offerPrice": 105.44,
-      "category": "Shariah Compliant Aggressive Fixed Income"
+      "category": "Shariah Compliant Aggressive Fixed Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14990",
@@ -1862,7 +2326,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 101.83,
       "offerPrice": 105.34,
-      "category": "Shariah Compliant Aggressive Fixed Income"
+      "category": "Shariah Compliant Aggressive Fixed Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14888",
@@ -1870,7 +2336,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 119.4,
       "offerPrice": 123.52,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14901",
@@ -1878,7 +2346,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 110.23,
       "offerPrice": 114.03,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14863",
@@ -1886,7 +2356,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 111.64,
       "offerPrice": 115.49,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14578",
@@ -1894,7 +2366,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 137.61,
       "offerPrice": 137.61,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15143",
@@ -1902,7 +2376,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 103.38,
       "offerPrice": 103.38,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15213",
@@ -1910,7 +2386,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 100.64,
       "offerPrice": 100.64,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15180",
@@ -1918,7 +2396,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 101.42,
       "offerPrice": 101.42,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15184",
@@ -1926,7 +2406,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 101.22,
       "offerPrice": 101.22,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15201",
@@ -1934,7 +2416,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 100.89,
       "offerPrice": 100.89,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15215",
@@ -1942,7 +2426,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 100.52,
       "offerPrice": 100.52,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15227",
@@ -1950,7 +2436,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 100.29,
       "offerPrice": 100.29,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12911",
@@ -1958,7 +2446,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 191.4,
       "offerPrice": 198,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12912",
@@ -1966,7 +2456,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 362.49,
       "offerPrice": 375,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12910",
@@ -1974,7 +2466,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 185.46,
       "offerPrice": 191.86,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14996",
@@ -1982,7 +2476,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 105,
       "offerPrice": 105,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12883",
@@ -1990,7 +2486,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 107.45,
       "offerPrice": 109.92,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12909",
@@ -1998,7 +2496,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 102.55,
       "offerPrice": 104.91,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14589",
@@ -2006,7 +2506,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 102.34,
       "offerPrice": 104.69,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12905",
@@ -2014,7 +2516,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 10.28,
       "offerPrice": 10.51,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12896",
@@ -2022,7 +2526,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 120.82,
       "offerPrice": 124.99,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14817",
@@ -2030,7 +2536,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 134.94,
       "offerPrice": 139.59,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14791",
@@ -2038,7 +2546,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 110.57,
       "offerPrice": 114.38,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14789",
@@ -2046,7 +2556,9 @@
       "amc": "Faysal Asset Management Limited",
       "nav": 110.85,
       "offerPrice": 114.67,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12917",
@@ -2054,7 +2566,9 @@
       "amc": "First Capital Investments Limited",
       "nav": 17.46,
       "offerPrice": 17.81,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12808",
@@ -2062,7 +2576,9 @@
       "amc": "AKD Investment Management Limited",
       "nav": 36.95,
       "offerPrice": 38,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12927",
@@ -2070,7 +2586,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 105.51,
       "offerPrice": 106.73,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12920",
@@ -2078,7 +2596,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 39.56,
       "offerPrice": 40.47,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12930",
@@ -2086,7 +2606,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 249.68,
       "offerPrice": 255.43,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12952",
@@ -2094,7 +2616,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 104.29,
       "offerPrice": 106.69,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14609",
@@ -2102,7 +2626,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 102.32,
       "offerPrice": 104.67,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12925",
@@ -2110,7 +2636,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 116.3,
       "offerPrice": 118.97,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12942",
@@ -2118,7 +2646,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 40.11,
       "offerPrice": 41.04,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12951",
@@ -2126,7 +2656,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 47.28,
       "offerPrice": 48.37,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12921",
@@ -2134,7 +2666,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 115.48,
       "offerPrice": 117.47,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12943",
@@ -2142,7 +2676,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 14.47,
       "offerPrice": 14.81,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12946",
@@ -2150,7 +2686,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 22.4,
       "offerPrice": 22.91,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12934",
@@ -2158,7 +2696,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 335.83,
       "offerPrice": 343.55,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12932",
@@ -2166,7 +2706,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 214.8,
       "offerPrice": 219.74,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15229",
@@ -2174,7 +2716,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 100.4,
       "offerPrice": 100.4,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15186",
@@ -2182,7 +2726,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 101.13,
       "offerPrice": 101.13,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12933",
@@ -2190,7 +2736,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 106.83,
       "offerPrice": 108.67,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12928",
@@ -2198,7 +2746,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 103.72,
       "offerPrice": 104.91,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12957",
@@ -2206,7 +2756,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 1270.84,
       "offerPrice": 1321.26,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12958",
@@ -2214,7 +2766,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 346.75,
       "offerPrice": 360.51,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12959",
@@ -2222,7 +2776,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 328.96,
       "offerPrice": 342.01,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15106",
@@ -2230,7 +2786,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 103.7,
       "offerPrice": 103.7,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15139",
@@ -2238,7 +2796,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 100,
       "offerPrice": 100,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14601",
@@ -2246,7 +2806,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 102.62,
       "offerPrice": 104.67,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12929",
@@ -2254,7 +2816,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 268.04,
       "offerPrice": 274.2,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14558",
@@ -2262,7 +2826,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 138.23,
       "offerPrice": 139.82,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14630",
@@ -2270,7 +2836,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 141.82,
       "offerPrice": 143.45,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14945",
@@ -2278,7 +2846,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 101.83,
       "offerPrice": 101.83,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15185",
@@ -2286,7 +2856,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 101.88,
       "offerPrice": 101.88,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15204",
@@ -2294,7 +2866,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 101.7,
       "offerPrice": 101.7,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15202",
@@ -2302,7 +2876,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 101.21,
       "offerPrice": 101.21,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12924",
@@ -2310,7 +2886,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 105.67,
       "offerPrice": 106.89,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12923",
@@ -2318,7 +2896,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 236.66,
       "offerPrice": 242.1,
-      "category": "Balanced"
+      "category": "Balanced",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12955",
@@ -2326,7 +2906,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 450.38,
       "offerPrice": 468.25,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12954",
@@ -2334,7 +2916,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 1170.08,
       "offerPrice": 1216.51,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12956",
@@ -2342,7 +2926,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 378.58,
       "offerPrice": 393.6,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15107",
@@ -2350,7 +2936,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 103.7,
       "offerPrice": 103.7,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15138",
@@ -2358,7 +2946,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 100,
       "offerPrice": 100,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12922",
@@ -2366,7 +2956,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 239.43,
       "offerPrice": 244.94,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12963",
@@ -2374,7 +2966,9 @@
       "amc": "HBL Asset Management Limited",
       "nav": 105.52,
       "offerPrice": 105.52,
-      "category": "Exchange Traded Fund"
+      "category": "Exchange Traded Fund",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "15193",
@@ -2382,7 +2976,9 @@
       "amc": "JS Investments Limited",
       "nav": 100.57,
       "offerPrice": 100.57,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15194",
@@ -2390,7 +2986,9 @@
       "amc": "JS Investments Limited",
       "nav": 101.08,
       "offerPrice": 101.08,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12978",
@@ -2398,7 +2996,9 @@
       "amc": "JS Investments Limited",
       "nav": 108.54,
       "offerPrice": 109.79,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14644",
@@ -2406,7 +3006,9 @@
       "amc": "JS Investments Limited",
       "nav": 116.24,
       "offerPrice": 116.24,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15040",
@@ -2414,7 +3016,9 @@
       "amc": "JS Investments Limited",
       "nav": 100.19,
       "offerPrice": 100.19,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14962",
@@ -2422,7 +3026,9 @@
       "amc": "JS Investments Limited",
       "nav": 106.61,
       "offerPrice": 106.61,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15066",
@@ -2430,7 +3036,9 @@
       "amc": "JS Investments Limited",
       "nav": 100.05,
       "offerPrice": 100.05,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15219",
@@ -2438,7 +3046,9 @@
       "amc": "JS Investments Limited",
       "nav": 100,
       "offerPrice": 100,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15220",
@@ -2446,7 +3056,9 @@
       "amc": "JS Investments Limited",
       "nav": 100,
       "offerPrice": 100,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12968",
@@ -2454,7 +3066,9 @@
       "amc": "JS Investments Limited",
       "nav": 148.33,
       "offerPrice": 153.45,
-      "category": "Fund of Funds"
+      "category": "Fund of Funds",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13006",
@@ -2462,7 +3076,9 @@
       "amc": "JS Investments Limited",
       "nav": 122.25,
       "offerPrice": 123.66,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12986",
@@ -2470,7 +3086,9 @@
       "amc": "JS Investments Limited",
       "nav": 495.51,
       "offerPrice": 512.61,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12966",
@@ -2478,7 +3096,9 @@
       "amc": "JS Investments Limited",
       "nav": 127,
       "offerPrice": 129.93,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12976",
@@ -2486,7 +3106,9 @@
       "amc": "JS Investments Limited",
       "nav": 245.61,
       "offerPrice": 254.09,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12983",
@@ -2494,7 +3116,9 @@
       "amc": "JS Investments Limited",
       "nav": 108.13,
       "offerPrice": 109.38,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13002",
@@ -2502,7 +3126,9 @@
       "amc": "JS Investments Limited",
       "nav": 106.02,
       "offerPrice": 107.24,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13011",
@@ -2510,7 +3136,9 @@
       "amc": "JS Investments Limited",
       "nav": 449.78,
       "offerPrice": 449.78,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13012",
@@ -2518,7 +3146,9 @@
       "amc": "JS Investments Limited",
       "nav": 435.15,
       "offerPrice": 435.16,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13010",
@@ -2526,7 +3156,9 @@
       "amc": "JS Investments Limited",
       "nav": 1883.6,
       "offerPrice": 1883.6,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14891",
@@ -2534,7 +3166,9 @@
       "amc": "JS Investments Limited",
       "nav": 100.23,
       "offerPrice": 103.69,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14997",
@@ -2542,7 +3176,9 @@
       "amc": "JS Investments Limited",
       "nav": 97.55,
       "offerPrice": 100.92,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14562",
@@ -2550,7 +3186,9 @@
       "amc": "JS Investments Limited",
       "nav": 142.42,
       "offerPrice": 142.42,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14629",
@@ -2558,7 +3196,9 @@
       "amc": "JS Investments Limited",
       "nav": 144.55,
       "offerPrice": 144.55,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12979",
@@ -2566,7 +3206,9 @@
       "amc": "JS Investments Limited",
       "nav": 413.86,
       "offerPrice": 428.14,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13005",
@@ -2574,7 +3216,9 @@
       "amc": "JS Investments Limited",
       "nav": 122.97,
       "offerPrice": 124.39,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13015",
@@ -2582,7 +3226,9 @@
       "amc": "JS Investments Limited",
       "nav": 11.2,
       "offerPrice": 11.2,
-      "category": "Exchange Traded Fund"
+      "category": "Exchange Traded Fund",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14368",
@@ -2590,7 +3236,9 @@
       "amc": "JS Investments Limited",
       "nav": 123.96,
       "offerPrice": 126.82,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13007",
@@ -2598,7 +3246,9 @@
       "amc": "JS Investments Limited",
       "nav": 1804.11,
       "offerPrice": 1804.11,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13008",
@@ -2606,7 +3256,9 @@
       "amc": "JS Investments Limited",
       "nav": 617.62,
       "offerPrice": 617.62,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13009",
@@ -2614,7 +3266,9 @@
       "amc": "JS Investments Limited",
       "nav": 508.51,
       "offerPrice": 508.51,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15020",
@@ -2622,7 +3276,9 @@
       "amc": "JS Investments Limited",
       "nav": 101.35,
       "offerPrice": 101.35,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15018",
@@ -2630,7 +3286,9 @@
       "amc": "JS Investments Limited",
       "nav": 104.31,
       "offerPrice": 104.31,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12826",
@@ -2638,7 +3296,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 180.46,
       "offerPrice": 185.06,
-      "category": "Shariah Compliant Index Tracker"
+      "category": "Shariah Compliant Index Tracker",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "13030",
@@ -2646,7 +3306,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 194.25,
       "offerPrice": 199.84,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13027",
@@ -2654,7 +3316,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 329.13,
       "offerPrice": 340.48,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13026",
@@ -2662,7 +3326,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 104.23,
       "offerPrice": 106.04,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13031",
@@ -2670,7 +3336,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 102.95,
       "offerPrice": 104.13,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13029",
@@ -2678,7 +3346,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 92.63,
       "offerPrice": 95.3,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13025",
@@ -2686,7 +3356,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 104.56,
       "offerPrice": 105.77,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13028",
@@ -2694,7 +3366,9 @@
       "amc": "Lakson Investments Limited",
       "nav": 105.47,
       "offerPrice": 108.51,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15033",
@@ -2702,7 +3376,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 101.88,
       "offerPrice": 105.4,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15174",
@@ -2710,7 +3386,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 95.38,
       "offerPrice": 95.38,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15022",
@@ -2718,7 +3396,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 101.84,
       "offerPrice": 105.36,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15165",
@@ -2726,7 +3406,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 100.58,
       "offerPrice": 100.58,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15191",
@@ -2734,7 +3416,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 100.96,
       "offerPrice": 100.96,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15210",
@@ -2742,7 +3426,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 100.78,
       "offerPrice": 100.78,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15230",
@@ -2750,7 +3436,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 100.13,
       "offerPrice": 100.13,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14848",
@@ -2758,7 +3446,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 101.97,
       "offerPrice": 105.49,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14836",
@@ -2766,7 +3456,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 102.18,
       "offerPrice": 105.7,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14951",
@@ -2774,7 +3466,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 108.06,
       "offerPrice": 111.79,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14950",
@@ -2782,7 +3476,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 108.03,
       "offerPrice": 111.75,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14953",
@@ -2790,7 +3486,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 107.93,
       "offerPrice": 111.65,
-      "category": "VPS-Shariah Compliant Commodities / Gold"
+      "category": "VPS-Shariah Compliant Commodities / Gold",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14952",
@@ -2798,7 +3496,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 110.32,
       "offerPrice": 114.13,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15007",
@@ -2806,7 +3506,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 106.65,
       "offerPrice": 106.65,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14849",
@@ -2814,7 +3516,9 @@
       "amc": "Lucky Investments Limited",
       "nav": 134.84,
       "offerPrice": 139.5,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14909",
@@ -2822,7 +3526,9 @@
       "amc": "IGI Life Insurance Limited",
       "nav": 11.36,
       "offerPrice": 11.36,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14908",
@@ -2830,7 +3536,9 @@
       "amc": "IGI Life Insurance Limited",
       "nav": 11.23,
       "offerPrice": 11.23,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14907",
@@ -2838,7 +3546,9 @@
       "amc": "IGI Life Insurance Limited",
       "nav": 12.69,
       "offerPrice": 12.69,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14555",
@@ -2846,7 +3556,9 @@
       "amc": "Mahaana Wealth Limited",
       "nav": 109,
       "offerPrice": 109,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14620",
@@ -2854,7 +3566,9 @@
       "amc": "Mahaana Wealth Limited",
       "nav": 16.64,
       "offerPrice": 16.64,
-      "category": "Shariah Compliant Exchange Traded Fund"
+      "category": "Shariah Compliant Exchange Traded Fund",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14575",
@@ -2862,7 +3576,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 141.42,
       "offerPrice": 141.42,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12723",
@@ -2870,7 +3586,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 104.41,
       "offerPrice": 104.41,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14727",
@@ -2878,7 +3596,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 102.55,
       "offerPrice": 102.55,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15177",
@@ -2886,7 +3606,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 101.66,
       "offerPrice": 101.66,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15178",
@@ -2894,7 +3616,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 101.42,
       "offerPrice": 101.42,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15217",
@@ -2902,7 +3626,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 100.24,
       "offerPrice": 100.24,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12722",
@@ -2910,7 +3636,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 111.59,
       "offerPrice": 113.52,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15172",
@@ -2918,7 +3646,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 96.08,
       "offerPrice": 99.39,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14744",
@@ -2926,7 +3656,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 102.47,
       "offerPrice": 104.83,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14699",
@@ -2934,7 +3666,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 102.49,
       "offerPrice": 103.67,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14597",
@@ -2942,7 +3676,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 143.88,
       "offerPrice": 143.88,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15179",
@@ -2950,7 +3686,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 101.6,
       "offerPrice": 103.35,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12720",
@@ -2958,7 +3696,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 244.3,
       "offerPrice": 252.73,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12747",
@@ -2966,7 +3706,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 353.89,
       "offerPrice": 366.1,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12728",
@@ -2974,7 +3716,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 56.08,
       "offerPrice": 57.05,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12724",
@@ -2982,7 +3726,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 378.36,
       "offerPrice": 391.42,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14987",
@@ -2990,7 +3736,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 107.2,
       "offerPrice": 107.2,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12843",
@@ -2998,7 +3746,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 117.69,
       "offerPrice": 121.75,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12822",
@@ -3006,7 +3756,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 27.68,
       "offerPrice": 28.31,
-      "category": "Shariah Compliant Balanced"
+      "category": "Shariah Compliant Balanced",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15077",
@@ -3014,7 +3766,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.38,
       "offerPrice": 52.12,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12820",
@@ -3022,7 +3776,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 52.44,
       "offerPrice": 52.44,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12854",
@@ -3030,7 +3786,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50,
       "offerPrice": 50.58,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12855",
@@ -3038,7 +3796,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50,
       "offerPrice": 50,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14406",
@@ -3046,7 +3806,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 51.39,
       "offerPrice": 51.98,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14407",
@@ -3054,7 +3816,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 51.44,
       "offerPrice": 51.44,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14652",
@@ -3062,7 +3826,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 51.39,
       "offerPrice": 51.39,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12864",
@@ -3070,7 +3836,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 96.33,
       "offerPrice": 99.65,
-      "category": "Shariah Compliant Dedicated Equity"
+      "category": "Shariah Compliant Dedicated Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14709",
@@ -3078,7 +3846,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 84.4,
       "offerPrice": 86.34,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12837",
@@ -3086,7 +3856,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 66.47,
       "offerPrice": 68.76,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12827",
@@ -3094,7 +3866,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 184.51,
       "offerPrice": 188.76,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12828",
@@ -3102,7 +3876,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 126.94,
       "offerPrice": 128.4,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12838",
@@ -3110,7 +3886,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 143.94,
       "offerPrice": 143.94,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12829",
@@ -3118,7 +3896,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 147.36,
       "offerPrice": 149.9,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14408",
@@ -3126,7 +3906,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 53.35,
       "offerPrice": 53.96,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14638",
@@ -3134,7 +3916,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 146.3,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12840",
@@ -3142,7 +3926,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 304.47,
       "offerPrice": 314.52,
-      "category": "Shariah Compliant Commodities"
+      "category": "Shariah Compliant Commodities",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15175",
@@ -3150,7 +3936,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.97,
       "offerPrice": 51.55,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15043",
@@ -3158,7 +3946,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.9,
       "offerPrice": 50.9,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12817",
@@ -3166,7 +3956,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 164.81,
       "offerPrice": 168.6,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15200",
@@ -3174,7 +3966,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 100.84,
       "offerPrice": 100.84,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14969",
@@ -3182,7 +3976,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 108.6,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12818",
@@ -3190,7 +3986,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 52.77,
       "offerPrice": 53.38,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15063",
@@ -3198,7 +3996,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 51.09,
       "offerPrice": 51.09,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15065",
@@ -3206,7 +4006,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 51.29,
       "offerPrice": 51.29,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15090",
@@ -3214,7 +4016,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 51.24,
       "offerPrice": 51.24,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15144",
@@ -3222,7 +4026,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.92,
       "offerPrice": 50.92,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15155",
@@ -3230,7 +4036,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.95,
       "offerPrice": 50.95,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15167",
@@ -3238,7 +4046,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.86,
       "offerPrice": 50.86,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15203",
@@ -3246,7 +4056,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.45,
       "offerPrice": 50.45,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15216",
@@ -3254,7 +4066,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.34,
       "offerPrice": 50.34,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15212",
@@ -3262,7 +4076,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50.34,
       "offerPrice": 50.34,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12865",
@@ -3270,7 +4086,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 17.87,
       "offerPrice": 17.87,
-      "category": "Shariah Compliant Exchange Traded Fund"
+      "category": "Shariah Compliant Exchange Traded Fund",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12852",
@@ -3278,7 +4096,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 50,
       "offerPrice": 50,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12824",
@@ -3286,7 +4106,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 53.32,
       "offerPrice": 53.94,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12836",
@@ -3294,7 +4116,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 95.15,
       "offerPrice": 95.15,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12834",
@@ -3302,7 +4126,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 81.85,
       "offerPrice": 81.85,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12835",
@@ -3310,7 +4136,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 90.27,
       "offerPrice": 90.27,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12845",
@@ -3318,7 +4146,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 95.7,
       "offerPrice": 95.7,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12839",
@@ -3326,7 +4156,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 105.07,
       "offerPrice": 105.07,
-      "category": "Shariah Compliant Fund of Funds"
+      "category": "Shariah Compliant Fund of Funds",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12860",
@@ -3334,7 +4166,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 1829.14,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "12862",
@@ -3342,7 +4176,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 535.29,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12861",
@@ -3350,7 +4186,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 536.35,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12863",
@@ -3358,7 +4196,9 @@
       "amc": "Al Meezan Investment Management Limited",
       "nav": 565.2,
       "offerPrice": 0,
-      "category": "VPS-Shariah Compliant Commodities / Gold"
+      "category": "VPS-Shariah Compliant Commodities / Gold",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13099",
@@ -3366,7 +4206,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 303.56,
       "offerPrice": 303.56,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13100",
@@ -3374,7 +4216,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 1250.24,
       "offerPrice": 1250.24,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "13101",
@@ -3382,7 +4226,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 309.88,
       "offerPrice": 309.88,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13097",
@@ -3390,7 +4236,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 1456.79,
       "offerPrice": 1456.79,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13096",
@@ -3398,7 +4246,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 407.49,
       "offerPrice": 407.49,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13098",
@@ -3406,7 +4256,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 348.11,
       "offerPrice": 348.11,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13034",
@@ -3414,7 +4266,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 153.55,
       "offerPrice": 158.2,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13055",
@@ -3422,7 +4276,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 43.54,
       "offerPrice": 45.05,
-      "category": "Balanced"
+      "category": "Balanced",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15222",
@@ -3430,7 +4286,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 100.47,
       "offerPrice": 100.47,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13093",
@@ -3438,7 +4296,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.29,
       "offerPrice": 10.64,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13094",
@@ -3446,7 +4306,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10,
       "offerPrice": 10.35,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13081",
@@ -3454,7 +4316,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 25.33,
       "offerPrice": 26.2,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13062",
@@ -3462,7 +4326,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.9,
       "offerPrice": 11.03,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15101",
@@ -3470,7 +4336,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.21,
       "offerPrice": 10.56,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15171",
@@ -3478,7 +4346,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.1,
       "offerPrice": 10.1,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15182",
@@ -3486,7 +4356,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.07,
       "offerPrice": 10.07,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15181",
@@ -3494,7 +4366,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.15,
       "offerPrice": 10.15,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14934",
@@ -3502,7 +4376,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.1,
       "offerPrice": 10.1,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15170",
@@ -3510,7 +4386,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.09,
       "offerPrice": 10.09,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15162",
@@ -3518,7 +4396,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.12,
       "offerPrice": 10.12,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15069",
@@ -3526,7 +4406,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.35,
       "offerPrice": 10.35,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14624",
@@ -3534,7 +4416,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 142.43,
       "offerPrice": 142.43,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14614",
@@ -3542,7 +4426,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 144.58,
       "offerPrice": 144.58,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13059",
@@ -3550,7 +4436,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.51,
       "offerPrice": 10.63,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14374",
@@ -3558,7 +4446,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.28,
       "offerPrice": 10.63,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14906",
@@ -3566,7 +4456,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 13.2,
       "offerPrice": 13.65,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13066",
@@ -3574,7 +4466,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.72,
       "offerPrice": 10.84,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13053",
@@ -3582,7 +4476,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 11.12,
       "offerPrice": 11.25,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13095",
@@ -3590,7 +4486,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.23,
       "offerPrice": 10.58,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15223",
@@ -3598,7 +4496,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 100.47,
       "offerPrice": 100.47,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13089",
@@ -3606,7 +4506,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10,
       "offerPrice": 10.12,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13074",
@@ -3614,7 +4516,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 23.34,
       "offerPrice": 24.15,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "15190",
@@ -3622,7 +4526,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.06,
       "offerPrice": 10.06,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15197",
@@ -3630,7 +4536,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.02,
       "offerPrice": 10.02,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15221",
@@ -3638,7 +4546,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10,
       "offerPrice": 10,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15114",
@@ -3646,7 +4556,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.12,
       "offerPrice": 10.49,
-      "category": "Shariah Compliant Commodities"
+      "category": "Shariah Compliant Commodities",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14596",
@@ -3654,7 +4566,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.25,
       "offerPrice": 10.6,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13067",
@@ -3662,7 +4576,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.32,
       "offerPrice": 10.44,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13085",
@@ -3670,7 +4586,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.32,
       "offerPrice": 10.44,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13082",
@@ -3678,7 +4596,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.37,
       "offerPrice": 10.49,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14928",
@@ -3686,7 +4606,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.12,
       "offerPrice": 10.12,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15012",
@@ -3694,7 +4616,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.15,
       "offerPrice": 10.5,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15041",
@@ -3702,7 +4626,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.11,
       "offerPrice": 10.46,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15057",
@@ -3710,7 +4636,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.18,
       "offerPrice": 10.54,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15153",
@@ -3718,7 +4646,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.13,
       "offerPrice": 10.48,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15228",
@@ -3726,7 +4656,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10,
       "offerPrice": 10.35,
-      "category": "Shariah Compliant Capital Protected"
+      "category": "Shariah Compliant Capital Protected",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15029",
@@ -3734,7 +4666,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 106.31,
       "offerPrice": 106.31,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13057",
@@ -3742,7 +4676,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 35.31,
       "offerPrice": 36.52,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13056",
@@ -3750,7 +4686,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 9.77,
       "offerPrice": 10.11,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13068",
@@ -3758,7 +4696,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 25.01,
       "offerPrice": 25.87,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "13052",
@@ -3766,7 +4706,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.52,
       "offerPrice": 10.64,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13063",
@@ -3774,7 +4716,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.24,
       "offerPrice": 10.36,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "15176",
@@ -3782,7 +4726,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.17,
       "offerPrice": 10.29,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13103",
@@ -3790,7 +4736,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 26.58,
       "offerPrice": 26.58,
-      "category": "Exchange Traded Fund"
+      "category": "Exchange Traded Fund",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "15030",
@@ -3798,7 +4746,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 106.75,
       "offerPrice": 106.75,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13060",
@@ -3806,7 +4756,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.55,
       "offerPrice": 10.67,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13061",
@@ -3814,7 +4766,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 40.37,
       "offerPrice": 41.76,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13058",
@@ -3822,7 +4776,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 10.1,
       "offerPrice": 10.45,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13054",
@@ -3830,7 +4786,9 @@
       "amc": "NBP Fund Management Limited",
       "nav": 43.18,
       "offerPrice": 44.67,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13036",
@@ -3838,7 +4796,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 10.29,
       "offerPrice": 10.4,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13037",
@@ -3846,7 +4806,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 10.49,
       "offerPrice": 10.59,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13041",
@@ -3854,7 +4816,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 16.62,
       "offerPrice": 17.04,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13038",
@@ -3862,7 +4826,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 19.14,
       "offerPrice": 19.14,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "13040",
@@ -3870,7 +4836,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 9.88,
       "offerPrice": 9.88,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13042",
@@ -3878,7 +4846,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 103.43,
       "offerPrice": 104.47,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13049",
@@ -3886,7 +4856,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 26.44,
       "offerPrice": 26.44,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13047",
@@ -3894,7 +4866,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 26.67,
       "offerPrice": 26.67,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13048",
@@ -3902,7 +4876,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 32.72,
       "offerPrice": 32.72,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14650",
@@ -3910,7 +4886,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 137.84,
       "offerPrice": 137.84,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14570",
@@ -3918,7 +4896,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 141.96,
       "offerPrice": 141.96,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13039",
@@ -3926,7 +4906,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 9.95,
       "offerPrice": 9.95,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13051",
@@ -3934,7 +4916,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 34.34,
       "offerPrice": 34.34,
-      "category": "Exchange Traded Fund"
+      "category": "Exchange Traded Fund",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13044",
@@ -3942,7 +4926,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 30.7,
       "offerPrice": 30.7,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13046",
@@ -3950,7 +4936,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 9.92,
       "offerPrice": 9.92,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13045",
@@ -3958,7 +4946,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 34.37,
       "offerPrice": 34.37,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13050",
@@ -3966,7 +4956,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 53.56,
       "offerPrice": 53.56,
-      "category": "VPS-Commodities / Gold"
+      "category": "VPS-Commodities / Gold",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13043",
@@ -3974,7 +4966,9 @@
       "amc": "National Investment Trust Limited",
       "nav": 10.51,
       "offerPrice": 10.51,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13104",
@@ -3982,7 +4976,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 40.76,
       "offerPrice": 41.91,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13105",
@@ -3990,7 +4986,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 54.08,
       "offerPrice": 54.69,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13119",
@@ -3998,7 +4996,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 9.97,
       "offerPrice": 10.02,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13116",
@@ -4006,7 +5006,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 11.05,
       "offerPrice": 11.05,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13106",
@@ -4014,7 +5016,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 39.51,
       "offerPrice": 40.63,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14673",
@@ -4022,7 +5026,9 @@
       "amc": "Pak Oman Asset Management Company Limited",
       "nav": 102.97,
       "offerPrice": 102.97,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14364",
@@ -4030,7 +5036,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 120.57,
       "offerPrice": 124.73,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "14365",
@@ -4038,7 +5046,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 117.87,
       "offerPrice": 121.94,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13125",
@@ -4046,7 +5056,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 118.53,
       "offerPrice": 122.62,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13124",
@@ -4054,7 +5066,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 100,
       "offerPrice": 103.45,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15183",
@@ -4062,7 +5076,9 @@
       "amc": "Pak-Qatar Family Takaful Limited",
       "nav": 100.36,
       "offerPrice": 103.83,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15006",
@@ -4070,7 +5086,9 @@
       "amc": "Pak-Qatar Family Takaful Limited",
       "nav": 106.46,
       "offerPrice": 110.13,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15024",
@@ -4078,7 +5096,9 @@
       "amc": "Pak-Qatar Family Takaful Limited",
       "nav": 105.49,
       "offerPrice": 109.12,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13126",
@@ -4086,7 +5106,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 119.87,
       "offerPrice": 124.01,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "15224",
@@ -4094,7 +5116,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 100.5,
       "offerPrice": 103.96,
-      "category": "Shariah Compliant Fixed Rate / Return"
+      "category": "Shariah Compliant Fixed Rate / Return",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13129",
@@ -4102,7 +5126,9 @@
       "amc": "Pak-Qatar Family Takaful Limited",
       "nav": 169.28,
       "offerPrice": 175.12,
-      "category": "VPS-Shariah Compliant Money Market"
+      "category": "VPS-Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13128",
@@ -4110,7 +5136,9 @@
       "amc": "Pak-Qatar Family Takaful Limited",
       "nav": 318.76,
       "offerPrice": 329.76,
-      "category": "VPS-Shariah Compliant Equity"
+      "category": "VPS-Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "13130",
@@ -4118,7 +5146,9 @@
       "amc": "Pak-Qatar Family Takaful Limited",
       "nav": 172.79,
       "offerPrice": 178.75,
-      "category": "VPS-Shariah Compliant Debt"
+      "category": "VPS-Shariah Compliant Debt",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "13121",
@@ -4126,7 +5156,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 213.91,
       "offerPrice": 221.29,
-      "category": "Shariah Compliant Equity"
+      "category": "Shariah Compliant Equity",
+      "shariah": true,
+      "benchmark": "KMI-30"
     },
     {
       "fundId": "14721",
@@ -4134,7 +5166,9 @@
       "amc": "Pak-Qatar Asset Management Company Limited",
       "nav": 137.77,
       "offerPrice": 142.52,
-      "category": "Shariah Compliant Asset Allocation"
+      "category": "Shariah Compliant Asset Allocation",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12727",
@@ -4142,7 +5176,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 30.92,
       "offerPrice": 31.63,
-      "category": "Balanced"
+      "category": "Balanced",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12730",
@@ -4150,7 +5186,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 50.47,
       "offerPrice": 51.05,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12731",
@@ -4158,7 +5196,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 56.2,
       "offerPrice": 57.49,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12726",
@@ -4166,7 +5206,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 56.35,
       "offerPrice": 57.64,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12760",
@@ -4174,7 +5216,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 570.33,
       "offerPrice": 570.33,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12758",
@@ -4182,7 +5226,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 2495.2,
       "offerPrice": 2495.2,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "12759",
@@ -4190,7 +5236,9 @@
       "amc": "MCB Investment Management Limited",
       "nav": 659.45,
       "offerPrice": 659.45,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13150",
@@ -4198,7 +5246,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 311.29,
       "offerPrice": 322.03,
-      "category": "Asset Allocation"
+      "category": "Asset Allocation",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13185",
@@ -4206,7 +5256,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 102.6,
       "offerPrice": 102.6,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13172",
@@ -4214,7 +5266,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 325.81,
       "offerPrice": 337.05,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14876",
@@ -4222,7 +5276,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.06,
       "offerPrice": 103.06,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14679",
@@ -4230,7 +5286,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 100.93,
       "offerPrice": 100.93,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14877",
@@ -4238,7 +5296,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 123.35,
       "offerPrice": 123.35,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14899",
@@ -4246,7 +5306,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 102.94,
       "offerPrice": 102.94,
-      "category": "Fixed Rate / Return"
+      "category": "Fixed Rate / Return",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13144",
@@ -4254,7 +5316,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 108.62,
       "offerPrice": 109.86,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13134",
@@ -4262,7 +5326,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 87.32,
       "offerPrice": 88.83,
-      "category": "Aggressive Fixed Income"
+      "category": "Aggressive Fixed Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13133",
@@ -4270,7 +5336,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 113.05,
       "offerPrice": 115,
-      "category": "Income"
+      "category": "Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14921",
@@ -4278,7 +5346,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 101.84,
       "offerPrice": 101.84,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13138",
@@ -4286,7 +5356,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.3,
       "offerPrice": 103.3,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13141",
@@ -4294,7 +5366,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.07,
       "offerPrice": 104.26,
-      "category": "Money Market"
+      "category": "Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13210",
@@ -4302,7 +5376,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 29.44,
       "offerPrice": 29.44,
-      "category": "Exchange Traded Fund"
+      "category": "Exchange Traded Fund",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "15025",
@@ -4310,7 +5386,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 106.76,
       "offerPrice": 106.76,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13204",
@@ -4318,7 +5396,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 440.16,
       "offerPrice": 440.16,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13203",
@@ -4326,7 +5406,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 3569.63,
       "offerPrice": 3569.63,
-      "category": "VPS-Equity"
+      "category": "VPS-Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "13206",
@@ -4334,7 +5416,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 404.33,
       "offerPrice": 404.33,
-      "category": "VPS-Commodities / Gold"
+      "category": "VPS-Commodities / Gold",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13205",
@@ -4342,7 +5426,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 573.61,
       "offerPrice": 573.61,
-      "category": "VPS-Debt"
+      "category": "VPS-Debt",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14403",
@@ -4350,7 +5436,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 103.94,
       "offerPrice": 105.5,
-      "category": "Capital Protected - Income"
+      "category": "Capital Protected - Income",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "13135",
@@ -4358,7 +5446,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 260.41,
       "offerPrice": 267.9,
-      "category": "Equity"
+      "category": "Equity",
+      "shariah": false,
+      "benchmark": "KSE-100"
     },
     {
       "fundId": "14621",
@@ -4366,7 +5456,9 @@
       "amc": "UBL Fund Managers Limited",
       "nav": 145.4,
       "offerPrice": 145.4,
-      "category": "VPS-Money Market"
+      "category": "VPS-Money Market",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "12965",
@@ -4374,7 +5466,9 @@
       "amc": "JS Investments Limited",
       "nav": 418.09,
       "offerPrice": 432.52,
-      "category": "Balanced"
+      "category": "Balanced",
+      "shariah": false,
+      "benchmark": null
     },
     {
       "fundId": "14750",
@@ -4382,7 +5476,9 @@
       "amc": "786 Investments Limited",
       "nav": 102.12,
       "offerPrice": 103.14,
-      "category": "Shariah Compliant Money Market"
+      "category": "Shariah Compliant Money Market",
+      "shariah": true,
+      "benchmark": null
     },
     {
       "fundId": "12814",
@@ -4390,8 +5486,10 @@
       "amc": "786 Investments Limited",
       "nav": 85.58,
       "offerPrice": 86.44,
-      "category": "Shariah Compliant Income"
+      "category": "Shariah Compliant Income",
+      "shariah": true,
+      "benchmark": null
     }
   ],
-  "updatedAt": "2026-08-30T00:12:21.372Z"
+  "updatedAt": "2026-08-30T00:32:27.723Z"
 }
