@@ -3,8 +3,12 @@ name: Daily NAV update
 on:
   schedule:
     # 16:30 UTC = 21:30 PKT, well after MUFAP publishes the day's NAVs.
-    # Weekdays only — MUFAP doesn't publish on weekends.
+    # Weekdays only — MUFAP doesn't publish on weekends. The second run is a
+    # safety net: Cloudflare 403s some GitHub runner IPs, so a later retry on
+    # a fresh runner usually gets through; it commits nothing new if the
+    # first run already succeeded.
     - cron: '30 16 * * 1-5'
+    - cron: '30 18 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -34,20 +38,40 @@ jobs:
         working-directory: api
         run: npm ci
 
+      # Non-fatal: if Cloudflare blocks this fetch, the previous meta.json
+      # (already in the checkout) still gets merged into today's snapshot.
       - name: Enrich fund metadata
+        continue-on-error: true
         working-directory: api
         env:
           META_FILE: ${{ github.workspace }}/meta.json
+          SCRAPE_ATTEMPTS: '6'
         run: npm run enrich
 
       - name: Scrape MUFAP
+        id: scrape
+        continue-on-error: true
         working-directory: api
         env:
           DATA_FILE: ${{ github.workspace }}/funds.json
           HISTORY_DIR: ${{ github.workspace }}/history
           META_FILE: ${{ github.workspace }}/meta.json
           SKIP_WEEKENDS: 'true'
+          SCRAPE_ATTEMPTS: '6'
         run: npm run scrape
+
+      - name: Retry scrape after cooldown
+        if: steps.scrape.outcome == 'failure'
+        working-directory: api
+        env:
+          DATA_FILE: ${{ github.workspace }}/funds.json
+          HISTORY_DIR: ${{ github.workspace }}/history
+          META_FILE: ${{ github.workspace }}/meta.json
+          SKIP_WEEKENDS: 'true'
+          SCRAPE_ATTEMPTS: '6'
+        run: |
+          sleep 120
+          npm run scrape
 
       - name: Commit and push if changed
         run: |
