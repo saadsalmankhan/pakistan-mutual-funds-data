@@ -4008,8 +4008,8 @@
       "fundId": "13006",
       "name": "JS Government Securities Fund",
       "amc": "JS Investments Limited",
-      "nav": 122.32,
-      "offerPrice": 123.73,
+      "nav": 115.7,
+      "offerPrice": 117.04,
       "category": "Income",
       "shariah": false,
       "benchmark": null,
@@ -4294,8 +4294,8 @@
       "fundId": "12826",
       "name": "KSE Meezan Index Fund",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 180.34,
-      "offerPrice": 184.94,
+      "nav": 180.47,
+      "offerPrice": 185.07,
       "category": "Shariah Compliant Index Tracker",
       "shariah": true,
       "benchmark": "KMI-30",
@@ -5009,8 +5009,8 @@
       "fundId": "12837",
       "name": "Meezan Energy Fund",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 67.77,
-      "offerPrice": 70.1,
+      "nav": 67.74,
+      "offerPrice": 70.07,
       "category": "Shariah Compliant Equity",
       "shariah": true,
       "benchmark": "KMI-30",
@@ -5321,8 +5321,8 @@
       "fundId": "12865",
       "name": "Meezan Pakistan ETF",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 17.9,
-      "offerPrice": 17.9,
+      "nav": 17.88,
+      "offerPrice": 17.88,
       "category": "Shariah Compliant Exchange Traded Fund",
       "shariah": true,
       "benchmark": "KMI-30",
@@ -7151,5 +7151,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-09-01T19:28:58.237Z"
+  "updatedAt": "2026-09-01T21:15:12.306Z"
 }
