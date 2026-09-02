@@ -5009,13 +5009,13 @@
       "fundId": "12837",
       "name": "Meezan Energy Fund",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 67.74,
-      "offerPrice": 70.07,
+      "nav": 66.86,
+      "offerPrice": 69.17,
       "category": "Shariah Compliant Equity",
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Nov 30, 2016",
-      "expenseRatio": 4.37,
+      "expenseRatio": 4.4,
       "managementFee": 3
     },
     {
@@ -5321,14 +5321,14 @@
       "fundId": "12865",
       "name": "Meezan Pakistan ETF",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 17.88,
-      "offerPrice": 17.88,
+      "nav": 17.68,
+      "offerPrice": 17.68,
       "category": "Shariah Compliant Exchange Traded Fund",
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Oct 06, 2020",
       "expenseRatio": 0.96,
-      "managementFee": 0.5
+      "managementFee": 1
     },
     {
       "fundId": "12852",
@@ -7151,5 +7151,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-09-02T19:27:48.902Z"
+  "updatedAt": "2026-09-02T21:14:18.704Z"
 }

@@ -646,7 +646,7 @@
   },
   "12837": {
     "inceptionDate": "Nov 30, 2016",
-    "expenseRatio": 4.37,
+    "expenseRatio": 4.4,
     "managementFee": 3
   },
   "12838": {
@@ -717,7 +717,7 @@
   "12865": {
     "inceptionDate": "Oct 06, 2020",
     "expenseRatio": 0.96,
-    "managementFee": 0.5
+    "managementFee": 1
   },
   "12870": {
     "inceptionDate": "Mar 04, 2014",
