@@ -6,7 +6,9 @@ on:
     # Weekdays only — MUFAP doesn't publish on weekends. The second run is a
     # safety net: Cloudflare 403s some GitHub runner IPs, so a later retry on
     # a fresh runner usually gets through; it commits nothing new if the
-    # first run already succeeded.
+    # first run already succeeded. GitHub delays these by hours in practice —
+    # harmless: history dates come from MUFAP's table, not the clock, and the
+    # snapshot just refreshes whenever the run lands.
     - cron: '30 16 * * 1-5'
     - cron: '30 18 * * 1-5'
   workflow_dispatch:
@@ -48,15 +50,18 @@ jobs:
           SCRAPE_ATTEMPTS: '6'
         run: npm run enrich
 
-      - name: Scrape MUFAP
+      # Snapshot only (SKIP_HISTORY): the directory page has no NAV date, and
+      # GitHub starts this job hours late — often past midnight PKT — so
+      # scrape-dated history rows would land under the wrong day. History is
+      # merged from MUFAP's dated table in the step below instead.
+      - name: Scrape MUFAP snapshot
         id: scrape
         continue-on-error: true
         working-directory: api
         env:
           DATA_FILE: ${{ github.workspace }}/funds.json
-          HISTORY_DIR: ${{ github.workspace }}/history
           META_FILE: ${{ github.workspace }}/meta.json
-          SKIP_WEEKENDS: 'true'
+          SKIP_HISTORY: 'true'
           SCRAPE_ATTEMPTS: '6'
         run: npm run scrape
 
@@ -65,13 +70,25 @@ jobs:
         working-directory: api
         env:
           DATA_FILE: ${{ github.workspace }}/funds.json
-          HISTORY_DIR: ${{ github.workspace }}/history
           META_FILE: ${{ github.workspace }}/meta.json
-          SKIP_WEEKENDS: 'true'
+          SKIP_HISTORY: 'true'
           SCRAPE_ATTEMPTS: '6'
         run: |
           sleep 120
           npm run scrape
+
+      # IndustryStatDaily publishes each NAV with its validity date at full
+      # 4-decimal precision, so it doesn't matter how late this actually runs.
+      # The trailing window re-merges every day (--overwrite: MUFAP rows win),
+      # which also heals gaps from failed runs and picks up MUFAP corrections.
+      # Non-fatal: tomorrow's window covers anything today's run missed.
+      - name: Merge dated NAV history
+        continue-on-error: true
+        working-directory: api
+        env:
+          HISTORY_DIR: ${{ github.workspace }}/history
+          SCRAPE_ATTEMPTS: '6'
+        run: npm run backfill -- --recent=10 --overwrite
 
       - name: Commit and push if changed
         run: |

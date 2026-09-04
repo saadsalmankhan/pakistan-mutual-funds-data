@@ -35,12 +35,15 @@ curl -s https://raw.githubusercontent.com/saadsalmankhan/pakistan-mutual-funds-d
 
 ## Update cadence & data notes
 
-- A GitHub Action scrapes MUFAP once per business day (21:30 PKT) and commits
-  any changes; the commit log is the audit trail.
-- History dates are scrape dates in Asia/Karachi — MUFAP doesn't publish an
-  official NAV date on the directory page.
-- History accumulates from 2026-08-30 onward. Earlier data may be backfilled
-  later.
+- A GitHub Action runs once per business day (scheduled 21:30 PKT): it
+  refreshes the snapshot from the Fund Directory and merges the trailing ten
+  days of NAV history from MUFAP's daily-stats table. The commit log is the
+  audit trail.
+- History dates are MUFAP's published NAV validity dates, at MUFAP's full
+  4-decimal precision — however late the workflow actually runs, rows land
+  under the right day, and MUFAP's own corrections get picked up by the
+  trailing-window re-merge.
+- History is backfilled from 2022-01-01 onward and accumulates daily.
 
 ## Disclaimer
 
