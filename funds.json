@@ -3722,8 +3722,8 @@
       "fundId": "15204",
       "name": "HBL Mehfooz Munafa Fund Plan XVIII",
       "amc": "HBL Asset Management Limited",
-      "nav": 102.05,
-      "offerPrice": 102.05,
+      "nav": 102.14,
+      "offerPrice": 102.14,
       "category": "Fixed Rate / Return",
       "shariah": false,
       "benchmark": null,
@@ -7112,5 +7112,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-09-09T19:22:39.158Z"
+  "updatedAt": "2026-09-09T21:02:33.236Z"
 }
