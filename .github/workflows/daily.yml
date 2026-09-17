@@ -3,18 +3,38 @@ name: Daily NAV update
 on:
   schedule:
     # 16:30 UTC = 21:30 PKT, well after MUFAP publishes the day's NAVs.
-    # Weekdays only — MUFAP doesn't publish on weekends. The second run is a
-    # safety net: Cloudflare 403s some GitHub runner IPs, so a later retry on
-    # a fresh runner usually gets through; it commits nothing new if the
-    # first run already succeeded. GitHub delays these by hours in practice —
-    # harmless: history dates come from MUFAP's table, not the clock, and the
-    # snapshot just refreshes whenever the run lands.
+    # Weekdays only — MUFAP doesn't publish on weekends. The second slot is a
+    # safety net for late MUFAP publishing; it commits nothing new if the
+    # first run already caught everything. GitHub delays these by hours in
+    # practice — harmless: history dates come from MUFAP's table, not the
+    # clock, and the snapshot just refreshes whenever the run lands.
     - cron: '30 16 * * 1-5'
     - cron: '30 18 * * 1-5'
   workflow_dispatch:
+    inputs:
+      attempt:
+        description: 'Attempt number — set automatically when a run re-dispatches itself after Cloudflare blocked it'
+        required: false
+        default: '1'
 
 permissions:
   contents: write
+  actions: write # to re-dispatch itself after a blocked run
+
+# Retries and the two cron slots must not race each other on `git push`.
+concurrency:
+  group: nav-update
+  cancel-in-progress: false
+
+env:
+  ATTEMPT: ${{ inputs.attempt || '1' }}
+  # Cloudflare scores GitHub's datacenter IPs harshly: a blocked runner tends
+  # to stay blocked (Sep 2026 logs show 18 straight 403s on one runner), so
+  # in-job retries mostly burn minutes. A re-dispatched run lands on a fresh
+  # runner with a fresh IP, which is the retry that actually helps. Three
+  # attempts is plenty: blocks are rare since the scraper switched to
+  # Firefox/Safari fingerprints, and the next cron slot has another go anyway.
+  MAX_ATTEMPTS: '3'
 
 jobs:
   update:
@@ -42,6 +62,8 @@ jobs:
 
       # Non-fatal: if Cloudflare blocks this fetch, the previous meta.json
       # (already in the checkout) still gets merged into today's snapshot.
+      # Expense ratios change rarely, so a missed day here costs nothing and
+      # doesn't count towards a retry.
       - name: Enrich fund metadata
         continue-on-error: true
         working-directory: api
@@ -65,24 +87,14 @@ jobs:
           SCRAPE_ATTEMPTS: '6'
         run: npm run scrape
 
-      - name: Retry scrape after cooldown
-        if: steps.scrape.outcome == 'failure'
-        working-directory: api
-        env:
-          DATA_FILE: ${{ github.workspace }}/funds.json
-          META_FILE: ${{ github.workspace }}/meta.json
-          SKIP_HISTORY: 'true'
-          SCRAPE_ATTEMPTS: '6'
-        run: |
-          sleep 120
-          npm run scrape
-
       # IndustryStatDaily publishes each NAV with its validity date at full
       # 4-decimal precision, so it doesn't matter how late this actually runs.
       # The trailing window re-merges every day (--overwrite: MUFAP rows win),
       # which also heals gaps from failed runs and picks up MUFAP corrections.
-      # Non-fatal: tomorrow's window covers anything today's run missed.
+      # Runs even when the snapshot was blocked — each fetch is its own roll
+      # of the dice — and the verdict step below decides what a miss means.
       - name: Merge dated NAV history
+        id: history
         continue-on-error: true
         working-directory: api
         env:
@@ -90,6 +102,9 @@ jobs:
           SCRAPE_ATTEMPTS: '6'
         run: npm run backfill -- --recent=10 --overwrite
 
+      # Commit whatever did get through, even on a partial run: a fresh
+      # snapshot with stale history is still better than nothing, and the
+      # retry below only has to recover what's missing.
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -101,4 +116,25 @@ jobs:
           else
             git commit -m "NAV update $(TZ=Asia/Karachi date +%F)"
             git push
+          fi
+
+      # The run only counts as good if both the snapshot and the history
+      # merge got through. Otherwise re-dispatch onto a fresh runner (see
+      # MAX_ATTEMPTS above) and finish green so only a truly lost day sends
+      # a failure email; the last permitted attempt fails loudly instead.
+      - name: Verdict — retry on a fresh runner if anything was missed
+        if: steps.scrape.outcome != 'success' || steps.history.outcome != 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          missed=""
+          [ "${{ steps.scrape.outcome }}" = success ] || missed="snapshot"
+          [ "${{ steps.history.outcome }}" = success ] || missed="${missed:+$missed, }history"
+          if [ "$ATTEMPT" -lt "$MAX_ATTEMPTS" ]; then
+            next=$((ATTEMPT + 1))
+            echo "::warning::Cloudflare blocked the $missed fetch on attempt $ATTEMPT of $MAX_ATTEMPTS; re-dispatching as attempt $next on a fresh runner."
+            gh workflow run daily.yml --ref "$GITHUB_REF_NAME" -f attempt="$next"
+          else
+            echo "::error::Cloudflare blocked the $missed fetch on all $MAX_ATTEMPTS attempts. The next scheduled run's 10-day history window will self-heal it."
+            exit 1
           fi

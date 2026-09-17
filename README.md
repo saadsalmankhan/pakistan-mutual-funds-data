@@ -35,10 +35,12 @@ curl -s https://raw.githubusercontent.com/saadsalmankhan/pakistan-mutual-funds-d
 
 ## Update cadence & data notes
 
-- A GitHub Action runs once per business day (scheduled 21:30 PKT): it
-  refreshes the snapshot from the Fund Directory and merges the trailing ten
-  days of NAV history from MUFAP's daily-stats table. The commit log is the
-  audit trail.
+- A GitHub Action runs every business day (scheduled 21:30 PKT, with a
+  second slot at 23:30 PKT): it refreshes the snapshot from the Fund
+  Directory and merges the trailing ten days of NAV history from MUFAP's
+  daily-stats table. If Cloudflare blocks the runner it re-dispatches itself
+  onto a fresh one (up to three attempts), and whatever a partial run did
+  fetch is committed anyway. The commit log is the audit trail.
 - History dates are MUFAP's published NAV validity dates, at MUFAP's full
   4-decimal precision — however late the workflow actually runs, rows land
   under the right day, and MUFAP's own corrections get picked up by the
