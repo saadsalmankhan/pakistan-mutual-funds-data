@@ -16,6 +16,10 @@ on:
         description: 'Attempt number — set automatically when a run re-dispatches itself after Cloudflare blocked it'
         required: false
         default: '1'
+      need:
+        description: 'Which pieces this run must fetch (snapshot, history, or both) — a retry only asks for what earlier attempts missed'
+        required: false
+        default: 'snapshot,history'
 
 permissions:
   contents: write
@@ -28,13 +32,16 @@ concurrency:
 
 env:
   ATTEMPT: ${{ inputs.attempt || '1' }}
-  # Cloudflare scores GitHub's datacenter IPs harshly: a blocked runner tends
-  # to stay blocked (Sep 2026 logs show 18 straight 403s on one runner), so
-  # in-job retries mostly burn minutes. A re-dispatched run lands on a fresh
-  # runner with a fresh IP, which is the retry that actually helps. Three
-  # attempts is plenty: blocks are rare since the scraper switched to
-  # Firefox/Safari fingerprints, and the next cron slot has another go anyway.
-  MAX_ATTEMPTS: '3'
+  NEED: ${{ inputs.need || 'snapshot,history' }}
+  # Cloudflare scores GitHub's datacenter IPs harshly: even with the
+  # scraper's Firefox/Safari fingerprints a runner gets only some requests
+  # through, and some runners get nothing at all (Sep 2026 logs). So each
+  # step rolls the dice several times, and a run that still comes up short
+  # re-dispatches itself onto a fresh runner with a fresh IP, asking only for
+  # the pieces still missing. Four such attempts, plus the second cron slot,
+  # make a lost day very unlikely.
+  MAX_ATTEMPTS: '4'
+  SCRAPE_ATTEMPTS: '8'
 
 jobs:
   update:
@@ -65,11 +72,11 @@ jobs:
       # Expense ratios change rarely, so a missed day here costs nothing and
       # doesn't count towards a retry.
       - name: Enrich fund metadata
+        if: contains(env.NEED, 'snapshot')
         continue-on-error: true
         working-directory: api
         env:
           META_FILE: ${{ github.workspace }}/meta.json
-          SCRAPE_ATTEMPTS: '6'
         run: npm run enrich
 
       # Snapshot only (SKIP_HISTORY): the directory page has no NAV date, and
@@ -78,13 +85,13 @@ jobs:
       # merged from MUFAP's dated table in the step below instead.
       - name: Scrape MUFAP snapshot
         id: scrape
+        if: contains(env.NEED, 'snapshot')
         continue-on-error: true
         working-directory: api
         env:
           DATA_FILE: ${{ github.workspace }}/funds.json
           META_FILE: ${{ github.workspace }}/meta.json
           SKIP_HISTORY: 'true'
-          SCRAPE_ATTEMPTS: '6'
         run: npm run scrape
 
       # IndustryStatDaily publishes each NAV with its validity date at full
@@ -95,11 +102,11 @@ jobs:
       # of the dice — and the verdict step below decides what a miss means.
       - name: Merge dated NAV history
         id: history
+        if: contains(env.NEED, 'history')
         continue-on-error: true
         working-directory: api
         env:
           HISTORY_DIR: ${{ github.workspace }}/history
-          SCRAPE_ATTEMPTS: '6'
         run: npm run backfill -- --recent=10 --overwrite
 
       # Commit whatever did get through, even on a partial run: a fresh
@@ -118,22 +125,23 @@ jobs:
             git push
           fi
 
-      # The run only counts as good if both the snapshot and the history
-      # merge got through. Otherwise re-dispatch onto a fresh runner (see
-      # MAX_ATTEMPTS above) and finish green so only a truly lost day sends
-      # a failure email; the last permitted attempt fails loudly instead.
+      # The run only counts as good if every piece it was asked for got
+      # through. Otherwise re-dispatch onto a fresh runner (see MAX_ATTEMPTS
+      # above) asking only for what's still missing, and finish green so only
+      # a truly lost day sends a failure email; the last permitted attempt
+      # fails loudly instead. A step that was skipped (not asked for) is fine.
       - name: Verdict — retry on a fresh runner if anything was missed
-        if: steps.scrape.outcome != 'success' || steps.history.outcome != 'success'
+        if: steps.scrape.outcome == 'failure' || steps.history.outcome == 'failure'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           missed=""
-          [ "${{ steps.scrape.outcome }}" = success ] || missed="snapshot"
-          [ "${{ steps.history.outcome }}" = success ] || missed="${missed:+$missed, }history"
+          [ "${{ steps.scrape.outcome }}" = failure ] && missed="snapshot"
+          [ "${{ steps.history.outcome }}" = failure ] && missed="${missed:+$missed,}history"
           if [ "$ATTEMPT" -lt "$MAX_ATTEMPTS" ]; then
             next=$((ATTEMPT + 1))
-            echo "::warning::Cloudflare blocked the $missed fetch on attempt $ATTEMPT of $MAX_ATTEMPTS; re-dispatching as attempt $next on a fresh runner."
-            gh workflow run daily.yml --ref "$GITHUB_REF_NAME" -f attempt="$next"
+            echo "::warning::Cloudflare blocked the $missed fetch on attempt $ATTEMPT of $MAX_ATTEMPTS; re-dispatching as attempt $next on a fresh runner for: $missed."
+            gh workflow run daily.yml --ref "$GITHUB_REF_NAME" -f attempt="$next" -f need="$missed"
           else
             echo "::error::Cloudflare blocked the $missed fetch on all $MAX_ATTEMPTS attempts. The next scheduled run's 10-day history window will self-heal it."
             exit 1
