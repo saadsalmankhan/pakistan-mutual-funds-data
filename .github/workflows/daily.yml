@@ -17,9 +17,9 @@ on:
         required: false
         default: '1'
       need:
-        description: 'Which pieces this run must fetch (snapshot, history, or both) — a retry only asks for what earlier attempts missed'
+        description: 'Which pieces this run must fetch (any of snapshot, history, payouts, indices) — a retry only asks for what earlier attempts missed'
         required: false
-        default: 'snapshot,history'
+        default: 'snapshot,history,payouts,indices'
 
 permissions:
   contents: write
@@ -32,15 +32,16 @@ concurrency:
 
 env:
   ATTEMPT: ${{ inputs.attempt || '1' }}
-  NEED: ${{ inputs.need || 'snapshot,history' }}
+  NEED: ${{ inputs.need || 'snapshot,history,payouts,indices' }}
   # Cloudflare scores GitHub's datacenter IPs harshly: even with the
   # scraper's Firefox/Safari fingerprints a runner gets only some requests
   # through, and some runners get nothing at all (Sep 2026 logs). So each
   # step rolls the dice several times, and a run that still comes up short
   # re-dispatches itself onto a fresh runner with a fresh IP, asking only for
-  # the pieces still missing. Four such attempts, plus the second cron slot,
-  # make a lost day very unlikely.
-  MAX_ATTEMPTS: '4'
+  # the pieces still missing. Six such attempts, plus the second cron slot,
+  # make a lost day very unlikely (the first unattended night needed all four
+  # of the four it had back then).
+  MAX_ATTEMPTS: '6'
   SCRAPE_ATTEMPTS: '8'
 
 jobs:
@@ -66,18 +67,6 @@ jobs:
       - name: Install scraper
         working-directory: api
         run: npm ci
-
-      # Non-fatal: if Cloudflare blocks this fetch, the previous meta.json
-      # (already in the checkout) still gets merged into today's snapshot.
-      # Expense ratios change rarely, so a missed day here costs nothing and
-      # doesn't count towards a retry.
-      - name: Enrich fund metadata
-        if: contains(env.NEED, 'snapshot')
-        continue-on-error: true
-        working-directory: api
-        env:
-          META_FILE: ${{ github.workspace }}/meta.json
-        run: npm run enrich
 
       # Snapshot only (SKIP_HISTORY): the directory page has no NAV date, and
       # GitHub starts this job hours late — often past midnight PKT — so
@@ -109,6 +98,57 @@ jobs:
           HISTORY_DIR: ${{ github.workspace }}/history
         run: npm run backfill -- --recent=10 --overwrite
 
+      # Dividend payouts, from MUFAP's Payouts table. Without them a fund that
+      # pays out looks like it lost money on its ex-date; with them returns are
+      # total returns. The trailing window re-merges every day, so a missed
+      # day heals itself.
+      - name: Merge payouts
+        id: payouts
+        if: contains(env.NEED, 'payouts')
+        continue-on-error: true
+        working-directory: api
+        env:
+          PAYOUTS_DIR: ${{ github.workspace }}/payouts
+        run: npm run payouts -- --recent=45
+
+      # KSE-100 and KMI-30 closes from the PSX Data Portal: the benchmarks
+      # fund returns are held against. PSX only serves ~5 years, so merging
+      # daily is what lets this history outgrow that window.
+      - name: Merge index history
+        id: indices
+        if: contains(env.NEED, 'indices')
+        continue-on-error: true
+        working-directory: api
+        env:
+          INDEX_DIR: ${{ github.workspace }}/indices
+        run: npm run indices
+
+      # Expense ratios change rarely and this page is the one Cloudflare
+      # blocks hardest, so it goes last, runs on the first attempt only and
+      # never counts towards a retry. If it's blocked, the previous meta.json
+      # (already in the checkout) stays, and the next snapshot merges it.
+      - name: Enrich fund metadata
+        if: env.ATTEMPT == '1'
+        continue-on-error: true
+        working-directory: api
+        env:
+          META_FILE: ${{ github.workspace }}/meta.json
+        run: npm run enrich
+
+      # The who-beat-the-market table: every fund's total returns next to its
+      # benchmark. Pure computation over the files above, so it runs on every
+      # attempt with whatever is freshest.
+      - name: Build performance table
+        continue-on-error: true
+        working-directory: api
+        env:
+          DATA_FILE: ${{ github.workspace }}/funds.json
+          HISTORY_DIR: ${{ github.workspace }}/history
+          PAYOUTS_DIR: ${{ github.workspace }}/payouts
+          INDEX_DIR: ${{ github.workspace }}/indices
+          PERFORMANCE_FILE: ${{ github.workspace }}/performance.json
+        run: npm run performance
+
       # Commit whatever did get through, even on a partial run: a fresh
       # snapshot with stale history is still better than nothing, and the
       # retry below only has to recover what's missing.
@@ -117,7 +157,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add funds.json history
-          if [ -f meta.json ]; then git add meta.json; fi
+          for f in meta.json performance.json payouts indices; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then
             echo "No changes today."
           else
@@ -131,18 +173,22 @@ jobs:
       # a truly lost day sends a failure email; the last permitted attempt
       # fails loudly instead. A step that was skipped (not asked for) is fine.
       - name: Verdict — retry on a fresh runner if anything was missed
-        if: steps.scrape.outcome == 'failure' || steps.history.outcome == 'failure'
+        if: >-
+          steps.scrape.outcome == 'failure' || steps.history.outcome == 'failure' ||
+          steps.payouts.outcome == 'failure' || steps.indices.outcome == 'failure'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           missed=""
           [ "${{ steps.scrape.outcome }}" = failure ] && missed="snapshot"
           [ "${{ steps.history.outcome }}" = failure ] && missed="${missed:+$missed,}history"
+          [ "${{ steps.payouts.outcome }}" = failure ] && missed="${missed:+$missed,}payouts"
+          [ "${{ steps.indices.outcome }}" = failure ] && missed="${missed:+$missed,}indices"
           if [ "$ATTEMPT" -lt "$MAX_ATTEMPTS" ]; then
             next=$((ATTEMPT + 1))
-            echo "::warning::Cloudflare blocked the $missed fetch on attempt $ATTEMPT of $MAX_ATTEMPTS; re-dispatching as attempt $next on a fresh runner for: $missed."
+            echo "::warning::Blocked on the $missed fetch on attempt $ATTEMPT of $MAX_ATTEMPTS; re-dispatching as attempt $next on a fresh runner for: $missed."
             gh workflow run daily.yml --ref "$GITHUB_REF_NAME" -f attempt="$next" -f need="$missed"
           else
-            echo "::error::Cloudflare blocked the $missed fetch on all $MAX_ATTEMPTS attempts. The next scheduled run's 10-day history window will self-heal it."
+            echo "::error::Blocked on the $missed fetch on all $MAX_ATTEMPTS attempts. The next scheduled run's trailing windows will self-heal it."
             exit 1
           fi
