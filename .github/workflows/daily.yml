@@ -187,7 +187,18 @@ jobs:
           if [ "$ATTEMPT" -lt "$MAX_ATTEMPTS" ]; then
             next=$((ATTEMPT + 1))
             echo "::warning::Blocked on the $missed fetch on attempt $ATTEMPT of $MAX_ATTEMPTS; re-dispatching as attempt $next on a fresh runner for: $missed."
-            gh workflow run daily.yml --ref "$GITHUB_REF_NAME" -f attempt="$next" -f need="$missed"
+            # GitHub's API itself hiccups now and then (a 502 here once turned
+            # a recoverable night into a red run), so give the dispatch a few
+            # tries before declaring the retry chain broken.
+            for try in 1 2 3 4 5; do
+              if gh workflow run daily.yml --ref "$GITHUB_REF_NAME" -f attempt="$next" -f need="$missed"; then
+                exit 0
+              fi
+              echo "dispatch attempt $try failed, retrying in 30s"
+              sleep 30
+            done
+            echo "::error::Could not re-dispatch the workflow after 5 tries (GitHub API errors). Still missing: $missed. The next scheduled run's trailing windows will self-heal it."
+            exit 1
           else
             echo "::error::Blocked on the $missed fetch on all $MAX_ATTEMPTS attempts. The next scheduled run's trailing windows will self-heal it."
             exit 1
