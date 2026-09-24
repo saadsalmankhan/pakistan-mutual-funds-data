@@ -5191,8 +5191,8 @@
       "fundId": "12817",
       "name": "Meezan Islamic Fund",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 160.13,
-      "offerPrice": 163.81,
+      "nav": 158.08,
+      "offerPrice": 161.72,
       "category": "Shariah Compliant Equity",
       "shariah": true,
       "benchmark": "KMI-30",
@@ -7177,5 +7177,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-09-24T20:28:14.007Z"
+  "updatedAt": "2026-09-24T21:39:02.834Z"
 }
