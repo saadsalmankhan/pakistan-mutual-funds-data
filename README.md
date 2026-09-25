@@ -6,6 +6,9 @@ business day from [MUFAP's](https://www.mufap.com.pk/) public pages and the
 [PSX Data Portal](https://dps.psx.com.pk/). No signup, no API key — just clone
 or fetch the raw files.
 
+> **Docs, the free REST API and a hosted MCP connector:**
+> [saadsalman.org/projects/pakistan-mutual-funds](https://saadsalman.org/projects/pakistan-mutual-funds)
+
 Built by the scraper behind
 [pakistan-mutual-funds-api](https://github.com/saadsalmankhan/pakistan-mutual-funds-api);
 run that if you want a live REST API with filters and history endpoints
