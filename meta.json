@@ -931,12 +931,12 @@
   },
   "12943": {
     "inceptionDate": "Jul 02, 2018",
-    "expenseRatio": 1.4,
+    "expenseRatio": 0,
     "managementFee": 1
   },
   "12946": {
     "inceptionDate": "Jul 02, 2018",
-    "expenseRatio": 4.28,
+    "expenseRatio": 0,
     "managementFee": 3
   },
   "12951": {
@@ -1641,7 +1641,7 @@
   },
   "14558": {
     "inceptionDate": "Dec 14, 2023",
-    "expenseRatio": 0.11,
+    "expenseRatio": 0,
     "managementFee": 0
   },
   "14561": {
@@ -1756,7 +1756,7 @@
   },
   "14630": {
     "inceptionDate": "Dec 14, 2023",
-    "expenseRatio": 0.12,
+    "expenseRatio": 0,
     "managementFee": 0
   },
   "14632": {
