@@ -5124,7 +5124,7 @@
       "name": "Meezan Financial Planning Fund of Funds (Conservative)",
       "amc": "Al Meezan Investment Management Limited",
       "nav": 126.29,
-      "offerPrice": 127.75,
+      "offerPrice": 127.74,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
       "benchmark": null,
@@ -5136,7 +5136,7 @@
       "fundId": "12838",
       "name": "Meezan Financial Planning Fund of Funds (MAAP I)",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 134.47,
+      "nav": 134.46,
       "offerPrice": 0,
       "category": "Shariah Compliant Fund of Funds",
       "shariah": true,
@@ -5227,8 +5227,8 @@
       "fundId": "12817",
       "name": "Meezan Islamic Fund",
       "amc": "Al Meezan Investment Management Limited",
-      "nav": 154.8,
-      "offerPrice": 158.36,
+      "nav": 154.49,
+      "offerPrice": 158.04,
       "category": "Shariah Compliant Equity",
       "shariah": true,
       "benchmark": "KMI-30",
@@ -7057,5 +7057,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-10-19T21:11:32.126Z"
+  "updatedAt": "2026-10-19T22:32:18.810Z"
 }
