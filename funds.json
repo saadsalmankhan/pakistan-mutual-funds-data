@@ -4944,8 +4944,8 @@
       "fundId": "12722",
       "name": "MCB DCF Income Fund",
       "amc": "MCB Investment Management Limited",
-      "nav": 112.67,
-      "offerPrice": 114.61,
+      "nav": 112.78,
+      "offerPrice": 114.72,
       "category": "Income",
       "shariah": false,
       "benchmark": null,
@@ -4989,7 +4989,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 05, 2024",
-      "expenseRatio": 0.43,
+      "expenseRatio": 0.44,
       "managementFee": 0.3
     },
     {
@@ -7320,5 +7320,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-10-20T20:41:16.545Z"
+  "updatedAt": "2026-10-20T22:01:26.804Z"
 }
