@@ -1,9 +1,9 @@
 {
- "checkedAt": "2026-10-27T10:07:37.365Z",
+ "checkedAt": "2026-10-27T10:35:07.887Z",
  "sources": {
   "scstrade": {
    "ok": true,
-   "detail": "80 closes 2026-09-01..2026-10-27"
+   "detail": "62 closes 2026-09-12..2026-10-27"
   },
   "psx": {
    "ok": true,
@@ -28,8 +28,8 @@
     },
     "spreadPct": 0
    },
-   "written": 23,
-   "singleSourceDays": 40
+   "written": 0,
+   "singleSourceDays": 31
   },
   "KMI-30": {
    "latest": {
@@ -44,8 +44,8 @@
     },
     "spreadPct": 0
    },
-   "written": 23,
-   "singleSourceDays": 40
+   "written": 0,
+   "singleSourceDays": 31
   }
  },
  "conflicts": []
