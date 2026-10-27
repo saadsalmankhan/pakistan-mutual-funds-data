@@ -2,9 +2,9 @@
 
 Daily net asset values, dividend payouts and total returns for ~550 Pakistani
 mutual funds, held against the KSE-100 and KMI-30, updated automatically every
-business day from [MUFAP's](https://www.mufap.com.pk/) public pages and the
-[PSX Data Portal](https://dps.psx.com.pk/). No signup, no API key — just clone
-or fetch the raw files.
+business day from [MUFAP's](https://www.mufap.com.pk/) public pages, with index
+closes cross-checked across PSX, scstrade.com and TradingView. No signup, no
+API key — just clone or fetch the raw files.
 
 > **Docs, the free REST API and a hosted MCP connector:**
 > [saadsalman.org/projects/pakistan-mutual-funds](https://saadsalman.org/projects/pakistan-mutual-funds)
@@ -22,7 +22,8 @@ instead of flat files.
 | `history/<fundId>.ndjson` | One line per business day per fund: `{"date","nav","offerPrice"}` — accumulates daily |
 | `meta.json` | Per-fund metadata from MUFAP's Expense Ratios table: TER YTD %, management fee %, inception date |
 | `payouts/<fundId>.ndjson` | Every dividend/payout since 2022: `{"date","payout","exNav"}`, PKR per unit and the NAV right after it. No file means the fund never paid out |
-| `indices/KSE100.ndjson`, `indices/KMI30.ndjson` | End-of-day index closes: `{"date","close"}`. Both are total-return indices |
+| `indices/KSE100.ndjson`, `indices/KMI30.ndjson` | End-of-day index closes: `{"date","close","sources"}`. Both are total-return indices. `sources` lists which of psx, scstrade and tradingview agreed on the close (absent on rows before Oct 2026, which PSX itself served) |
+| `indices/sources.json` | What each index source said on the last run: up or down, the newest close and how many sources confirmed it, and any disagreements |
 | `performance.json` | Who beat the market after fees: every fund's total returns (1m to 3y, payouts reinvested) next to its benchmark index over the same dates |
 
 `fundId` is MUFAP's internal fund id (the `FundID` in their fund-detail URLs).
@@ -77,9 +78,11 @@ curl -s https://raw.githubusercontent.com/saadsalmankhan/pakistan-mutual-funds-d
 - A GitHub Action runs every business day (scheduled 21:30 PKT, with a
   second slot at 23:30 PKT): it refreshes the snapshot from the Fund
   Directory, merges the trailing ten days of NAV history and 45 days of
-  payouts from MUFAP's daily-stats tables, merges index closes from PSX and
-  rebuilds `performance.json`. If Cloudflare blocks the runner it re-dispatches itself
-  onto a fresh one (up to three attempts), and whatever a partial run did
+  payouts from MUFAP's daily-stats tables, merges cross-checked index closes
+  and rebuilds `performance.json`. A separate check runs every 3 hours
+  against these files and the hosted connector, and opens an issue in this
+  repo when something users would see is wrong. If Cloudflare blocks the runner it re-dispatches itself
+  onto a fresh one (up to six attempts), and whatever a partial run did
   fetch is committed anyway. The commit log is the audit trail.
 - History dates are MUFAP's published NAV validity dates, at MUFAP's full
   4-decimal precision — however late the workflow actually runs, rows land

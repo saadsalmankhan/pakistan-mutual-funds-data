@@ -1,0 +1,82 @@
+name: Weekly report
+
+# Every Monday morning (09:00 PKT): connector usage, npm downloads, GitHub
+# counters and the current health warnings, posted as a GitHub issue that
+# @-mentions the owner, so it lands in their inbox. Last week's report issue
+# is closed when the new one opens. The numbers come from
+# pakistan-mutual-funds-api's `npm run usage-report` (connector usage via
+# its key-protected /stats endpoint, so STATS_KEY must be set as a repo
+# secret matching the Worker's) and `npm run healthcheck`.
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout tools
+        uses: actions/checkout@v5
+        with:
+          repository: saadsalmankhan/pakistan-mutual-funds-api
+          path: api
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: api/package-lock.json
+
+      - name: Install
+        working-directory: api
+        run: npm ci
+
+      - name: Usage numbers
+        working-directory: api
+        env:
+          STATS_KEY: ${{ secrets.STATS_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          REPORT_FILE: ${{ runner.temp }}/report.md
+        run: npm run usage-report
+
+      - name: Health snapshot
+        continue-on-error: true
+        working-directory: api
+        env:
+          HEALTH_REPORT_FILE: ${{ runner.temp }}/health.json
+        run: npm run healthcheck
+
+      - name: Post the report
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          body="${{ runner.temp }}/body.md"
+          {
+            echo "@$OWNER here is this week's report."
+            echo
+            cat "${{ runner.temp }}/report.md"
+            echo
+            echo "## Health"
+            if [ -f "${{ runner.temp }}/health.json" ]; then
+              fails=$(jq '.failures | length' "${{ runner.temp }}/health.json")
+              warns=$(jq '.warnings | length' "${{ runner.temp }}/health.json")
+              echo "$fails failing, $warns warning right now. Failures also raise their own data-health issue."
+              echo
+              jq -r '.markdown' "${{ runner.temp }}/health.json"
+            else
+              echo "_The health check didn't produce a report this run._"
+            fi
+          } > "$body"
+          gh label create weekly-report --color 0E8A16 --description "Automated weekly usage report" --force >/dev/null
+          for old in $(gh issue list --label weekly-report --state open --json number --jq '.[].number'); do
+            gh issue close "$old" --comment "Superseded by this week's report."
+          done
+          gh issue create --title "Weekly report: week to $(date -u +%Y-%m-%d)" --label weekly-report --body-file "$body"
