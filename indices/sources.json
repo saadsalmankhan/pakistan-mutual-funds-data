@@ -1,0 +1,52 @@
+{
+ "checkedAt": "2026-10-27T10:07:37.365Z",
+ "sources": {
+  "scstrade": {
+   "ok": true,
+   "detail": "80 closes 2026-09-01..2026-10-27"
+  },
+  "psx": {
+   "ok": true,
+   "detail": "market still open on 2026-10-27: no close to compare yet"
+  },
+  "tradingview": {
+   "ok": true,
+   "detail": "latest values"
+  }
+ },
+ "indices": {
+  "KSE-100": {
+   "latest": {
+    "date": "2026-10-26",
+    "status": "single-source",
+    "close": 163038.46,
+    "sources": [
+     "scstrade"
+    ],
+    "values": {
+     "scstrade": 163038.46
+    },
+    "spreadPct": 0
+   },
+   "written": 23,
+   "singleSourceDays": 40
+  },
+  "KMI-30": {
+   "latest": {
+    "date": "2026-10-26",
+    "status": "single-source",
+    "close": 233976.84,
+    "sources": [
+     "scstrade"
+    ],
+    "values": {
+     "scstrade": 233976.84
+    },
+    "spreadPct": 0
+   },
+   "written": 23,
+   "singleSourceDays": 40
+  }
+ },
+ "conflicts": []
+}
