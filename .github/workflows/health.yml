@@ -1,0 +1,122 @@
+name: Data health
+
+# End-to-end check of what users actually get: the published files in this
+# repo and the hosted MCP connector at funds.saadsalman.org, read over HTTP
+# the way a consumer reads them (pakistan-mutual-funds-api's
+# `npm run healthcheck`; the checks and their thresholds live there).
+#
+# Alerting goes through GitHub issues, which email the repo owner:
+#  - a failing check opens one issue labelled data-health;
+#  - while it stays broken, the issue only gets a new comment when the set
+#    of failing checks changes, so one incident means one or two emails;
+#  - when everything passes again the issue is commented and closed.
+# Warnings (a source down while the others cover for it, a stale day after a
+# holiday) don't open issues; they show in each run's summary.
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      dataset_ref:
+        description: 'Dataset commit or branch to check (default main). Pointing at an old broken commit drills the alert path end to end.'
+        required: false
+        default: 'main'
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: data-health
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout checker
+        uses: actions/checkout@v5
+        with:
+          repository: saadsalmankhan/pakistan-mutual-funds-api
+          path: api
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: api/package-lock.json
+
+      - name: Install
+        working-directory: api
+        run: npm ci
+
+      - name: Run health check
+        id: check
+        continue-on-error: true
+        working-directory: api
+        env:
+          HEALTH_REPORT_FILE: ${{ runner.temp }}/health.json
+          DATASET_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ inputs.dataset_ref || 'main' }}
+        run: npm run healthcheck
+
+      - name: Summary
+        if: always()
+        run: |
+          report="${{ runner.temp }}/health.json"
+          if [ -f "$report" ]; then
+            jq -r '.markdown' "$report" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "The health check crashed before writing a report; see the step log." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Open, update or close the alert issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          report="${{ runner.temp }}/health.json"
+          if [ ! -f "$report" ]; then
+            # The checker itself broke: fail this run so GitHub emails about it.
+            echo "::error::Health check produced no report"
+            exit 1
+          fi
+          gh label create data-health --color B60205 --description "Automated data health alert" --force >/dev/null
+
+          ok=$(jq -r '.ok' "$report")
+          fingerprint=$(jq -r '.fingerprint' "$report")
+          failing=$(jq -r '.failures | length' "$report")
+          headline=$(jq -r '[.failures[].message] | join("; ")' "$report" | cut -c1-180)
+          run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          issue=$(gh issue list --label data-health --state open --json number --jq '.[0].number // empty')
+
+          body_file="${{ runner.temp }}/body.md"
+          {
+            echo "<!-- health-fingerprint: $fingerprint -->"
+            echo "@$OWNER $failing health check(s) failing. Users of the dataset or the MCP connector may be getting wrong or missing answers."
+            echo
+            jq -r '.markdown' "$report"
+            echo
+            echo "[Run log]($run_url). This issue updates itself while the problem lasts and closes when the checks pass."
+          } > "$body_file"
+
+          if [ "$ok" = "true" ]; then
+            if [ -n "$issue" ]; then
+              gh issue comment "$issue" --body "Recovered: all checks pass as of $(date -u '+%Y-%m-%d %H:%M UTC'). [Run log]($run_url)"
+              gh issue close "$issue"
+            fi
+            exit 0
+          fi
+
+          if [ -z "$issue" ]; then
+            gh issue create --title "Data health: $headline" --label data-health --body-file "$body_file"
+            exit 0
+          fi
+          previous=$(gh issue view "$issue" --json body --jq '.body' | sed -n 's/.*health-fingerprint: \([0-9a-f]*\).*/\1/p' | head -1)
+          if [ "$previous" != "$fingerprint" ]; then
+            gh issue edit "$issue" --title "Data health: $headline" --body-file "$body_file"
+            gh issue comment "$issue" --body-file "$body_file"
+          else
+            echo "Same checks still failing as already reported in #$issue; not commenting again."
+          fi
