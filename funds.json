@@ -10,7 +10,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 31, 2010",
-      "expenseRatio": 1.15,
+      "expenseRatio": 1.02,
       "managementFee": 0.7
     },
     {
@@ -49,8 +49,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 29, 2026",
-      "expenseRatio": 0.15,
-      "managementFee": 0
+      "expenseRatio": 0.87,
+      "managementFee": 0.63
     },
     {
       "fundId": "15225",
@@ -192,7 +192,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 31, 2018",
-      "expenseRatio": 2.82,
+      "expenseRatio": 2.8,
       "managementFee": 0.2
     },
     {
@@ -205,7 +205,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Feb 13, 2020",
-      "expenseRatio": 0.41,
+      "expenseRatio": 0.4,
       "managementFee": 0.15
     },
     {
@@ -218,7 +218,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Dec 19, 2016",
-      "expenseRatio": 8.28,
+      "expenseRatio": 8.41,
       "managementFee": 3
     },
     {
@@ -231,8 +231,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 22, 2015",
-      "expenseRatio": 1.12,
-      "managementFee": 0.2448
+      "expenseRatio": 1.29,
+      "managementFee": 0.24
     },
     {
       "fundId": "12788",
@@ -245,7 +245,7 @@
       "benchmark": null,
       "inceptionDate": "Mar 29, 2019",
       "expenseRatio": 1.14,
-      "managementFee": 0.0371
+      "managementFee": 1
     },
     {
       "fundId": "12776",
@@ -257,8 +257,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 22, 2015",
-      "expenseRatio": 1.18,
-      "managementFee": 0.0327
+      "expenseRatio": 1.48,
+      "managementFee": 0.03
     },
     {
       "fundId": "12769",
@@ -270,7 +270,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 31, 2010",
-      "expenseRatio": 2.84,
+      "expenseRatio": 2.81,
       "managementFee": 0.55
     },
     {
@@ -335,7 +335,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 22, 2024",
-      "expenseRatio": 4.84,
+      "expenseRatio": 4.7,
       "managementFee": 0.55
     },
     {
@@ -348,7 +348,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jun 11, 2013",
-      "expenseRatio": 4.39,
+      "expenseRatio": 4.37,
       "managementFee": 3
     },
     {
@@ -361,7 +361,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Nov 15, 2023",
-      "expenseRatio": 0.44,
+      "expenseRatio": 0.43,
       "managementFee": 0.15
     },
     {
@@ -374,7 +374,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 03, 2025",
-      "expenseRatio": 2.68,
+      "expenseRatio": 2.8,
       "managementFee": 1.15
     },
     {
@@ -387,7 +387,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 20, 2014",
-      "expenseRatio": 1.06,
+      "expenseRatio": 1.49,
       "managementFee": 0.6
     },
     {
@@ -400,7 +400,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Aug 20, 2014",
-      "expenseRatio": 2.59,
+      "expenseRatio": 2.8,
       "managementFee": 1.5
     },
     {
@@ -413,7 +413,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 20, 2014",
-      "expenseRatio": 0.74,
+      "expenseRatio": 1.12,
       "managementFee": 0.4
     },
     {
@@ -465,7 +465,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 06, 2019",
-      "expenseRatio": 0.2,
+      "expenseRatio": 0.19,
       "managementFee": 0.03
     },
     {
@@ -478,7 +478,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Feb 26, 2021",
-      "expenseRatio": 1.39,
+      "expenseRatio": 1.38,
       "managementFee": 0.95
     },
     {
@@ -530,7 +530,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Apr 10, 2026",
-      "expenseRatio": 1.1,
+      "expenseRatio": 1.11,
       "managementFee": 0.5
     },
     {
@@ -595,7 +595,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Feb 20, 2018",
-      "expenseRatio": 5.18,
+      "expenseRatio": 5.19,
       "managementFee": 3
     },
     {
@@ -634,7 +634,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Apr 16, 2020",
-      "expenseRatio": 4.89,
+      "expenseRatio": 4.94,
       "managementFee": 0.6
     },
     {
@@ -648,7 +648,7 @@
       "benchmark": null,
       "inceptionDate": "Dec 11, 2013",
       "expenseRatio": 2.14,
-      "managementFee": 1.9192
+      "managementFee": 1.9147
     },
     {
       "fundId": "13146",
@@ -660,7 +660,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 19, 2012",
-      "expenseRatio": 1.1,
+      "expenseRatio": 1.11,
       "managementFee": 1.2106
     },
     {
@@ -700,7 +700,7 @@
       "benchmark": null,
       "inceptionDate": "May 29, 2023",
       "expenseRatio": 0.13,
-      "managementFee": 0.0001
+      "managementFee": 0.368
     },
     {
       "fundId": "15026",
@@ -712,8 +712,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 24, 2025",
-      "expenseRatio": 141.46,
-      "managementFee": 0.2003
+      "expenseRatio": -3.34,
+      "managementFee": 0.2
     },
     {
       "fundId": "13200",
@@ -738,7 +738,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "May 19, 2010",
-      "expenseRatio": 1.85,
+      "expenseRatio": 1.84,
       "managementFee": 1.5001
     },
     {
@@ -751,7 +751,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 19, 2010",
-      "expenseRatio": 0.87,
+      "expenseRatio": 0.86,
       "managementFee": 0.75
     },
     {
@@ -777,7 +777,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Dec 24, 2006",
-      "expenseRatio": 3.14,
+      "expenseRatio": 3.15,
       "managementFee": 2.8503
     },
     {
@@ -803,7 +803,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Nov 08, 2017",
-      "expenseRatio": 2.87,
+      "expenseRatio": 2.88,
       "managementFee": 2
     },
     {
@@ -816,8 +816,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 10, 2011",
-      "expenseRatio": 1.02,
-      "managementFee": 0.76
+      "expenseRatio": 1,
+      "managementFee": 0.74
     },
     {
       "fundId": "14811",
@@ -829,8 +829,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 06, 2025",
-      "expenseRatio": 0.72,
-      "managementFee": 0.28
+      "expenseRatio": 0.7,
+      "managementFee": 0.27
     },
     {
       "fundId": "15067",
@@ -842,7 +842,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 06, 2026",
-      "expenseRatio": 0.23,
+      "expenseRatio": 0.22,
       "managementFee": 0.07
     },
     {
@@ -855,8 +855,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 22, 2026",
-      "expenseRatio": 0.22,
-      "managementFee": 0.07
+      "expenseRatio": 0.21,
+      "managementFee": 0.06
     },
     {
       "fundId": "15189",
@@ -881,8 +881,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 27, 2026",
-      "expenseRatio": 0.2,
-      "managementFee": 0.05
+      "expenseRatio": 0.19,
+      "managementFee": 0.04
     },
     {
       "fundId": "15280",
@@ -892,7 +892,10 @@
       "offerPrice": 100.1,
       "category": "Fixed Rate / Return",
       "shariah": false,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 30, 2026",
+      "expenseRatio": 0.15,
+      "managementFee": 0
     },
     {
       "fundId": "15250",
@@ -917,8 +920,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Oct 08, 2026",
-      "expenseRatio": 0.51,
-      "managementFee": 0.32
+      "expenseRatio": 0.54,
+      "managementFee": 0.35
     },
     {
       "fundId": "14561",
@@ -930,7 +933,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 03, 2024",
-      "expenseRatio": 0.73,
+      "expenseRatio": 0.72,
       "managementFee": 0.1
     },
     {
@@ -943,7 +946,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jan 03, 2024",
-      "expenseRatio": 0.5,
+      "expenseRatio": 0.49,
       "managementFee": 0.1
     },
     {
@@ -956,8 +959,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 13, 2023",
-      "expenseRatio": 0.98,
-      "managementFee": 0.72
+      "expenseRatio": 0.96,
+      "managementFee": 0.71
     },
     {
       "fundId": "12706",
@@ -969,8 +972,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "May 29, 2007",
-      "expenseRatio": 1.12,
-      "managementFee": 0.82
+      "expenseRatio": 1.13,
+      "managementFee": 0.83
     },
     {
       "fundId": "12712",
@@ -995,7 +998,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 23, 2017",
-      "expenseRatio": 0.7,
+      "expenseRatio": 0.71,
       "managementFee": 0.46
     },
     {
@@ -1008,8 +1011,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Mar 05, 2026",
-      "expenseRatio": 0.19,
-      "managementFee": 0.04
+      "expenseRatio": 0.23,
+      "managementFee": 0.08
     },
     {
       "fundId": "15265",
@@ -1032,7 +1035,10 @@
       "offerPrice": 100.09,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 30, 2026",
+      "expenseRatio": 0.14,
+      "managementFee": 0
     },
     {
       "fundId": "12717",
@@ -1044,7 +1050,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Sep 05, 2022",
-      "expenseRatio": 4,
+      "expenseRatio": 3.99,
       "managementFee": 2.5
     },
     {
@@ -1057,7 +1063,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 05, 2022",
-      "expenseRatio": 1.58,
+      "expenseRatio": 1.56,
       "managementFee": 1
     },
     {
@@ -1071,7 +1077,7 @@
       "benchmark": null,
       "inceptionDate": "Sep 05, 2022",
       "expenseRatio": 1.91,
-      "managementFee": 1.17
+      "managementFee": 1.18
     },
     {
       "fundId": "12713",
@@ -1083,8 +1089,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 20, 2021",
-      "expenseRatio": 0.7,
-      "managementFee": 0.46
+      "expenseRatio": 0.71,
+      "managementFee": 0.47
     },
     {
       "fundId": "12708",
@@ -1096,7 +1102,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Nov 09, 2012",
-      "expenseRatio": 4.42,
+      "expenseRatio": 4.4,
       "managementFee": 3
     },
     {
@@ -1109,8 +1115,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 20, 2021",
-      "expenseRatio": 0.92,
-      "managementFee": 0.68
+      "expenseRatio": 0.91,
+      "managementFee": 0.67
     },
     {
       "fundId": "12714",
@@ -1122,7 +1128,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jun 30, 2022",
-      "expenseRatio": 3.32,
+      "expenseRatio": 3.35,
       "managementFee": 2.5
     },
     {
@@ -1161,8 +1167,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 03, 2025",
-      "expenseRatio": 0.58,
-      "managementFee": 0.38
+      "expenseRatio": 0.57,
+      "managementFee": 0.37
     },
     {
       "fundId": "14872",
@@ -1174,8 +1180,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2025",
-      "expenseRatio": 0.57,
-      "managementFee": 0.36
+      "expenseRatio": 0.56,
+      "managementFee": 0.35
     },
     {
       "fundId": "14873",
@@ -1187,8 +1193,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2025",
-      "expenseRatio": 0.71,
-      "managementFee": 0.45
+      "expenseRatio": 0.68,
+      "managementFee": 0.43
     },
     {
       "fundId": "12705",
@@ -1213,7 +1219,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jul 13, 1995",
-      "expenseRatio": 4.01,
+      "expenseRatio": 4,
       "managementFee": 3
     },
     {
@@ -1226,7 +1232,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 24, 2006",
-      "expenseRatio": 4.3,
+      "expenseRatio": 4.34,
       "managementFee": 2.5
     },
     {
@@ -1265,8 +1271,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 22, 2020",
-      "expenseRatio": 0.68,
-      "managementFee": 0.27
+      "expenseRatio": 0.64,
+      "managementFee": 0
     },
     {
       "fundId": "12680",
@@ -1304,7 +1310,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 05, 2013",
-      "expenseRatio": 0.72,
+      "expenseRatio": 0.73,
       "managementFee": 0.55
     },
     {
@@ -1343,7 +1349,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Sep 09, 2008",
-      "expenseRatio": 4.2,
+      "expenseRatio": 4.19,
       "managementFee": 3
     },
     {
@@ -1369,7 +1375,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Nov 28, 2022",
-      "expenseRatio": 4.34,
+      "expenseRatio": 4.37,
       "managementFee": 3
     },
     {
@@ -1395,7 +1401,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 15, 2007",
-      "expenseRatio": 0.56,
+      "expenseRatio": 0.54,
       "managementFee": 0.17
     },
     {
@@ -1408,7 +1414,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "May 25, 2017",
-      "expenseRatio": 5.45,
+      "expenseRatio": 5.47,
       "managementFee": 3
     },
     {
@@ -1421,7 +1427,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 03, 2009",
-      "expenseRatio": 0.52,
+      "expenseRatio": 0.47,
       "managementFee": 0
     },
     {
@@ -1473,7 +1479,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Nov 01, 2016",
-      "expenseRatio": 1.24,
+      "expenseRatio": 1.25,
       "managementFee": 1.45
     },
     {
@@ -1499,7 +1505,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 11, 2016",
-      "expenseRatio": 0.69,
+      "expenseRatio": 0.7,
       "managementFee": 1.45
     },
     {
@@ -1512,7 +1518,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Sep 03, 2007",
-      "expenseRatio": 4.64,
+      "expenseRatio": 4.63,
       "managementFee": 3
     },
     {
@@ -1564,7 +1570,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Nov 08, 2016",
-      "expenseRatio": 4.09,
+      "expenseRatio": 4.05,
       "managementFee": 2.5
     },
     {
@@ -1590,7 +1596,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 12, 2015",
-      "expenseRatio": 0.35,
+      "expenseRatio": 0.34,
       "managementFee": 1.2
     },
     {
@@ -1642,7 +1648,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jul 15, 2008",
-      "expenseRatio": 4.08,
+      "expenseRatio": 4.07,
       "managementFee": 3
     },
     {
@@ -1668,7 +1674,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Mar 04, 2026",
-      "expenseRatio": 0.74,
+      "expenseRatio": 0.72,
       "managementFee": 0
     },
     {
@@ -1694,7 +1700,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 16, 2020",
-      "expenseRatio": 0.42,
+      "expenseRatio": 0.41,
       "managementFee": 0
     },
     {
@@ -1707,7 +1713,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 10, 2024",
-      "expenseRatio": 0.24,
+      "expenseRatio": 0.23,
       "managementFee": 0
     },
     {
@@ -1720,7 +1726,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Nov 12, 2024",
-      "expenseRatio": 0.27,
+      "expenseRatio": 0.26,
       "managementFee": 0
     },
     {
@@ -1746,7 +1752,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 21, 2020",
-      "expenseRatio": 0.77,
+      "expenseRatio": 0.76,
       "managementFee": 0.42
     },
     {
@@ -1785,7 +1791,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 14, 2023",
-      "expenseRatio": 0.81,
+      "expenseRatio": 0.8,
       "managementFee": 0
     },
     {
@@ -1824,7 +1830,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 13, 2023",
-      "expenseRatio": 2.13,
+      "expenseRatio": 2.14,
       "managementFee": 1.5
     },
     {
@@ -1850,7 +1856,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 15, 2026",
-      "expenseRatio": 0,
+      "expenseRatio": 7.29,
       "managementFee": 0
     },
     {
@@ -1863,7 +1869,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 15, 2026",
-      "expenseRatio": 0,
+      "expenseRatio": 1.58,
       "managementFee": 0
     },
     {
@@ -1876,7 +1882,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 15, 2026",
-      "expenseRatio": 0,
+      "expenseRatio": 0.4,
       "managementFee": 0
     },
     {
@@ -1902,7 +1908,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 14, 2023",
-      "expenseRatio": 1.11,
+      "expenseRatio": 1.1,
       "managementFee": 0
     },
     {
@@ -2032,7 +2038,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "May 19, 2026",
-      "expenseRatio": 0.69,
+      "expenseRatio": 0.68,
       "managementFee": 0.25
     },
     {
@@ -2058,7 +2064,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Apr 19, 2004",
-      "expenseRatio": 5.11,
+      "expenseRatio": 5.1,
       "managementFee": 3
     },
     {
@@ -2084,7 +2090,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 26, 2026",
-      "expenseRatio": 0.11,
+      "expenseRatio": 0.15,
       "managementFee": 0
     },
     {
@@ -2123,8 +2129,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Apr 10, 2018",
-      "expenseRatio": 1.55,
-      "managementFee": 1.51
+      "expenseRatio": 1.56,
+      "managementFee": 1.5
     },
     {
       "fundId": "14683",
@@ -2149,7 +2155,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Apr 22, 2006",
-      "expenseRatio": 4.22,
+      "expenseRatio": 4.2,
       "managementFee": 3
     },
     {
@@ -2162,7 +2168,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 08, 2026",
-      "expenseRatio": 0.78,
+      "expenseRatio": 0.75,
       "managementFee": 0.1
     },
     {
@@ -2175,7 +2181,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jul 02, 2026",
-      "expenseRatio": 6.76,
+      "expenseRatio": 6.66,
       "managementFee": 3
     },
     {
@@ -2188,7 +2194,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2011",
-      "expenseRatio": 1.41,
+      "expenseRatio": 1.42,
       "managementFee": 1.25
     },
     {
@@ -2214,7 +2220,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 20, 2020",
-      "expenseRatio": 1.03,
+      "expenseRatio": 1.04,
       "managementFee": 0.9
     },
     {
@@ -2227,7 +2233,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Nov 02, 2007",
-      "expenseRatio": 3.36,
+      "expenseRatio": 3.35,
       "managementFee": 2.5
     },
     {
@@ -2266,7 +2272,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 16, 2026",
-      "expenseRatio": 0.74,
+      "expenseRatio": 0.73,
       "managementFee": 0.47
     },
     {
@@ -2279,7 +2285,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Aug 25, 2004",
-      "expenseRatio": 4.04,
+      "expenseRatio": 4.03,
       "managementFee": 3
     },
     {
@@ -2305,7 +2311,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 11, 2021",
-      "expenseRatio": 0.96,
+      "expenseRatio": 0.95,
       "managementFee": 0.02
     },
     {
@@ -2318,7 +2324,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 21, 2026",
-      "expenseRatio": 0.27,
+      "expenseRatio": 0.26,
       "managementFee": 0.09
     },
     {
@@ -2357,7 +2363,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 30, 2009",
-      "expenseRatio": 0.57,
+      "expenseRatio": 0.59,
       "managementFee": 0.9
     },
     {
@@ -2370,7 +2376,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 16, 2006",
-      "expenseRatio": 0.88,
+      "expenseRatio": 0.91,
       "managementFee": 1.5
     },
     {
@@ -2383,7 +2389,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "May 07, 2012",
-      "expenseRatio": 0.84,
+      "expenseRatio": 0.87,
       "managementFee": 0.5
     },
     {
@@ -2422,7 +2428,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Feb 10, 2026",
-      "expenseRatio": 3.97,
+      "expenseRatio": 3.96,
       "managementFee": 3
     },
     {
@@ -2435,7 +2441,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Feb 10, 2026",
-      "expenseRatio": 4.3,
+      "expenseRatio": 4.28,
       "managementFee": 3
     },
     {
@@ -2461,7 +2467,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Apr 01, 2026",
-      "expenseRatio": 6.95,
+      "expenseRatio": 6.86,
       "managementFee": 3
     },
     {
@@ -2474,7 +2480,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 03, 2024",
-      "expenseRatio": 0.56,
+      "expenseRatio": 0.55,
       "managementFee": 0.2
     },
     {
@@ -2487,7 +2493,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jan 10, 2019",
-      "expenseRatio": 4.15,
+      "expenseRatio": 4.14,
       "managementFee": 3
     },
     {
@@ -2500,7 +2506,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Apr 01, 2026",
-      "expenseRatio": 5.19,
+      "expenseRatio": 5.23,
       "managementFee": 3
     },
     {
@@ -2514,7 +2520,7 @@
       "benchmark": null,
       "inceptionDate": "Jan 07, 2019",
       "expenseRatio": 0.34,
-      "managementFee": 0.0553
+      "managementFee": 0.0551
     },
     {
       "fundId": "12690",
@@ -2527,7 +2533,7 @@
       "benchmark": null,
       "inceptionDate": "Jan 07, 2019",
       "expenseRatio": 0.36,
-      "managementFee": 0.0546
+      "managementFee": 0.0551
     },
     {
       "fundId": "12689",
@@ -2540,7 +2546,7 @@
       "benchmark": null,
       "inceptionDate": "Jan 07, 2019",
       "expenseRatio": 0.35,
-      "managementFee": 0.0568
+      "managementFee": 0.0566
     },
     {
       "fundId": "12683",
@@ -2591,7 +2597,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 13, 2023",
-      "expenseRatio": 0.48,
+      "expenseRatio": 0.47,
       "managementFee": 0.02
     },
     {
@@ -2605,7 +2611,7 @@
       "benchmark": null,
       "inceptionDate": "Nov 23, 2021",
       "expenseRatio": 0.47,
-      "managementFee": 0.3706
+      "managementFee": 0.3499
     },
     {
       "fundId": "12685",
@@ -2669,7 +2675,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Nov 06, 2007",
-      "expenseRatio": 0.35,
+      "expenseRatio": 0.36,
       "managementFee": 0.15
     },
     {
@@ -2864,8 +2870,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 08, 2026",
-      "expenseRatio": 0.75,
-      "managementFee": 0.12
+      "expenseRatio": 0.74,
+      "managementFee": 0.22
     },
     {
       "fundId": "15121",
@@ -2878,7 +2884,7 @@
       "benchmark": null,
       "inceptionDate": "May 08, 2026",
       "expenseRatio": 0.78,
-      "managementFee": 0.17
+      "managementFee": 0.71
     },
     {
       "fundId": "15118",
@@ -2890,7 +2896,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "May 08, 2026",
-      "expenseRatio": 3.78,
+      "expenseRatio": 3.76,
       "managementFee": 1.92
     },
     {
@@ -2903,7 +2909,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Dec 01, 2025",
-      "expenseRatio": 2.46,
+      "expenseRatio": 2.45,
       "managementFee": 1.5
     },
     {
@@ -2955,7 +2961,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 02, 2025",
-      "expenseRatio": 0.82,
+      "expenseRatio": 0.74,
       "managementFee": 0.5
     },
     {
@@ -2968,7 +2974,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 10, 2025",
-      "expenseRatio": 0.58,
+      "expenseRatio": 0.18,
       "managementFee": 0.01
     },
     {
@@ -2981,7 +2987,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 09, 2015",
-      "expenseRatio": 0.79,
+      "expenseRatio": 0.64,
       "managementFee": 0.15
     },
     {
@@ -2994,7 +3000,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 12, 2024",
-      "expenseRatio": 3.04,
+      "expenseRatio": 2.6,
       "managementFee": 2
     },
     {
@@ -3007,7 +3013,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 17, 2025",
-      "expenseRatio": 0.6,
+      "expenseRatio": 0.54,
       "managementFee": 0.15
     },
     {
@@ -3020,7 +3026,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Nov 25, 2025",
-      "expenseRatio": 2.14,
+      "expenseRatio": 2.07,
       "managementFee": 1.5
     },
     {
@@ -3033,7 +3039,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 19, 2026",
-      "expenseRatio": 0.43,
+      "expenseRatio": 0.42,
       "managementFee": 0.15
     },
     {
@@ -3046,7 +3052,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 11, 2026",
-      "expenseRatio": 0.48,
+      "expenseRatio": 0.45,
       "managementFee": 0.15
     },
     {
@@ -3072,7 +3078,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 15, 2026",
-      "expenseRatio": 0.75,
+      "expenseRatio": 0.25,
       "managementFee": 0.01
     },
     {
@@ -3098,7 +3104,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jan 03, 2020",
-      "expenseRatio": 7.62,
+      "expenseRatio": 6.42,
       "managementFee": 3
     },
     {
@@ -3111,7 +3117,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Oct 07, 2026",
-      "expenseRatio": 9.57,
+      "expenseRatio": 6.26,
       "managementFee": 3
     },
     {
@@ -3124,7 +3130,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 25, 2023",
-      "expenseRatio": 1.88,
+      "expenseRatio": 1.89,
       "managementFee": 1.5
     },
     {
@@ -3137,7 +3143,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 06, 2024",
-      "expenseRatio": 1.83,
+      "expenseRatio": 1.89,
       "managementFee": 1.5
     },
     {
@@ -3150,7 +3156,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 10, 2025",
-      "expenseRatio": 0.65,
+      "expenseRatio": 0.17,
       "managementFee": 0.01
     },
     {
@@ -3163,7 +3169,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 18, 2025",
-      "expenseRatio": 0.43,
+      "expenseRatio": 0,
       "managementFee": 1
     },
     {
@@ -3176,7 +3182,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 11, 2025",
-      "expenseRatio": 0.39,
+      "expenseRatio": 0,
       "managementFee": 1
     },
     {
@@ -3189,7 +3195,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 29, 2025",
-      "expenseRatio": 1.1,
+      "expenseRatio": 0,
       "managementFee": 1.5
     },
     {
@@ -3202,7 +3208,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 20, 2023",
-      "expenseRatio": 0.68,
+      "expenseRatio": 0.49,
       "managementFee": 0.15
     },
     {
@@ -3215,7 +3221,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 21, 2026",
-      "expenseRatio": 0.56,
+      "expenseRatio": 0.17,
       "managementFee": 0.01
     },
     {
@@ -3228,7 +3234,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 09, 2026",
-      "expenseRatio": 0.93,
+      "expenseRatio": 0.17,
       "managementFee": 0.01
     },
     {
@@ -3241,7 +3247,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 18, 2026",
-      "expenseRatio": 0.64,
+      "expenseRatio": 0.15,
       "managementFee": 0.01
     },
     {
@@ -3254,7 +3260,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 05, 2021",
-      "expenseRatio": 0.31,
+      "expenseRatio": 0.29,
       "managementFee": 0.01
     },
     {
@@ -3267,7 +3273,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Oct 05, 2021",
-      "expenseRatio": 1.97,
+      "expenseRatio": 1.7,
       "managementFee": 0.01
     },
     {
@@ -3280,7 +3286,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 05, 2021",
-      "expenseRatio": 0.52,
+      "expenseRatio": 0.44,
       "managementFee": 0.01
     },
     {
@@ -3306,7 +3312,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 16, 2010",
-      "expenseRatio": 1.94,
+      "expenseRatio": 1.93,
       "managementFee": 1.5
     },
     {
@@ -3319,7 +3325,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Feb 01, 2023",
-      "expenseRatio": 1.96,
+      "expenseRatio": 1.93,
       "managementFee": 1.5
     },
     {
@@ -3332,7 +3338,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 08, 2024",
-      "expenseRatio": 1.97,
+      "expenseRatio": 1.94,
       "managementFee": 1.5
     },
     {
@@ -3358,7 +3364,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jul 24, 2020",
-      "expenseRatio": 5.47,
+      "expenseRatio": 4.56,
       "managementFee": 3
     },
     {
@@ -3371,7 +3377,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Mar 10, 2025",
-      "expenseRatio": 5.82,
+      "expenseRatio": 4.27,
       "managementFee": 3
     },
     {
@@ -3384,7 +3390,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 10, 2025",
-      "expenseRatio": 1.78,
+      "expenseRatio": 0,
       "managementFee": 1
     },
     {
@@ -3397,7 +3403,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 10, 2025",
-      "expenseRatio": 1.44,
+      "expenseRatio": 0,
       "managementFee": 1
     },
     {
@@ -3410,7 +3416,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "May 24, 1995",
-      "expenseRatio": 4.51,
+      "expenseRatio": 4.5,
       "managementFee": 3
     },
     {
@@ -3436,7 +3442,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 13, 2010",
-      "expenseRatio": 1.15,
+      "expenseRatio": 1.16,
       "managementFee": 0.87
     },
     {
@@ -3449,7 +3455,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jan 20, 2006",
-      "expenseRatio": 4.49,
+      "expenseRatio": 4.24,
       "managementFee": 3
     },
     {
@@ -3462,7 +3468,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Sep 26, 2011",
-      "expenseRatio": 5.94,
+      "expenseRatio": 5.39,
       "managementFee": 3
     },
     {
@@ -3501,7 +3507,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 24, 2010",
-      "expenseRatio": 1.84,
+      "expenseRatio": 1.92,
       "managementFee": 1.5
     },
     {
@@ -3527,7 +3533,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jul 02, 2018",
-      "expenseRatio": 4.08,
+      "expenseRatio": 4.17,
       "managementFee": 3
     },
     {
@@ -3540,7 +3546,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Feb 19, 2007",
-      "expenseRatio": 1.65,
+      "expenseRatio": 3.61,
       "managementFee": 1.25
     },
     {
@@ -3566,7 +3572,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jul 02, 2018",
-      "expenseRatio": 4.34,
+      "expenseRatio": 5.08,
       "managementFee": 3
     },
     {
@@ -3579,7 +3585,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jan 11, 2016",
-      "expenseRatio": 4.26,
+      "expenseRatio": 3.66,
       "managementFee": 2.75
     },
     {
@@ -3592,7 +3598,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "May 29, 2014",
-      "expenseRatio": 4.71,
+      "expenseRatio": 4.72,
       "managementFee": 3
     },
     {
@@ -3605,7 +3611,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 11, 2026",
-      "expenseRatio": 0.29,
+      "expenseRatio": 0.3,
       "managementFee": 0.12
     },
     {
@@ -3618,7 +3624,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 10, 2026",
-      "expenseRatio": 0.2,
+      "expenseRatio": 0.21,
       "managementFee": 0.05
     },
     {
@@ -3631,7 +3637,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 22, 2026",
-      "expenseRatio": 0.32,
+      "expenseRatio": 0.33,
       "managementFee": 0.06
     },
     {
@@ -3644,7 +3650,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 30, 2026",
-      "expenseRatio": 0.44,
+      "expenseRatio": 0.46,
       "managementFee": 0.21
     },
     {
@@ -3670,7 +3676,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 29, 2014",
-      "expenseRatio": 1.44,
+      "expenseRatio": 1.43,
       "managementFee": 1.1
     },
     {
@@ -3696,7 +3702,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Dec 15, 2011",
-      "expenseRatio": 1.58,
+      "expenseRatio": 1.53,
       "managementFee": 1
     },
     {
@@ -3709,7 +3715,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 15, 2011",
-      "expenseRatio": 1.01,
+      "expenseRatio": 1.02,
       "managementFee": 0.75
     },
     {
@@ -3722,7 +3728,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 15, 2011",
-      "expenseRatio": 1.01,
+      "expenseRatio": 1.02,
       "managementFee": 0.75
     },
     {
@@ -3761,7 +3767,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Mar 13, 2024",
-      "expenseRatio": 1.52,
+      "expenseRatio": 1.58,
       "managementFee": 1.25
     },
     {
@@ -3774,7 +3780,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "May 09, 2011",
-      "expenseRatio": 4.85,
+      "expenseRatio": 4.29,
       "managementFee": 3
     },
     {
@@ -3800,7 +3806,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 14, 2023",
-      "expenseRatio": 0.14,
+      "expenseRatio": 0.11,
       "managementFee": 0
     },
     {
@@ -3813,8 +3819,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 29, 2026",
-      "expenseRatio": 0.32,
-      "managementFee": 0.17
+      "expenseRatio": 0,
+      "managementFee": 0.12
     },
     {
       "fundId": "14945",
@@ -3839,7 +3845,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 08, 2026",
-      "expenseRatio": 0.25,
+      "expenseRatio": 0,
       "managementFee": 0.1
     },
     {
@@ -3852,7 +3858,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 30, 2026",
-      "expenseRatio": 0.26,
+      "expenseRatio": 0,
       "managementFee": 0.04
     },
     {
@@ -3878,7 +3884,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Nov 08, 2007",
-      "expenseRatio": 3.8,
+      "expenseRatio": 3.27,
       "managementFee": 2.25
     },
     {
@@ -3904,7 +3910,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Dec 15, 2011",
-      "expenseRatio": 1.98,
+      "expenseRatio": 1.41,
       "managementFee": 1
     },
     {
@@ -3917,7 +3923,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 15, 2011",
-      "expenseRatio": 1.36,
+      "expenseRatio": 1.42,
       "managementFee": 1.05
     },
     {
@@ -3956,7 +3962,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Aug 23, 2007",
-      "expenseRatio": 4.44,
+      "expenseRatio": 3.91,
       "managementFee": 3
     },
     {
@@ -3995,7 +4001,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 22, 2026",
-      "expenseRatio": 0.18,
+      "expenseRatio": 0.19,
       "managementFee": 0
     },
     {
@@ -4112,7 +4118,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 15, 2022",
-      "expenseRatio": 1.32,
+      "expenseRatio": 1.34,
       "managementFee": 0.9282
     },
     {
@@ -4151,7 +4157,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Dec 27, 2002",
-      "expenseRatio": 5.29,
+      "expenseRatio": 5.31,
       "managementFee": 3
     },
     {
@@ -4177,7 +4183,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 03, 2020",
-      "expenseRatio": 0.33,
+      "expenseRatio": 0.34,
       "managementFee": 0.0716
     },
     {
@@ -4216,7 +4222,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Mar 17, 2008",
-      "expenseRatio": 4.11,
+      "expenseRatio": 4.13,
       "managementFee": 1.5
     },
     {
@@ -4229,7 +4235,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jul 26, 2025",
-      "expenseRatio": 0.34,
+      "expenseRatio": 0.35,
       "managementFee": 0
     },
     {
@@ -4242,7 +4248,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 11, 2025",
-      "expenseRatio": 0.36,
+      "expenseRatio": 0.37,
       "managementFee": 0
     },
     {
@@ -4281,7 +4287,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "May 15, 2004",
-      "expenseRatio": 4.05,
+      "expenseRatio": 4.06,
       "managementFee": 3
     },
     {
@@ -4307,7 +4313,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jan 07, 2022",
-      "expenseRatio": 2.62,
+      "expenseRatio": 2.6,
       "managementFee": 0.75
     },
     {
@@ -4320,7 +4326,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Feb 28, 2023",
-      "expenseRatio": 0.05,
+      "expenseRatio": 0.03,
       "managementFee": 0
     },
     {
@@ -4333,7 +4339,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jun 25, 2007",
-      "expenseRatio": 3.15,
+      "expenseRatio": 3.16,
       "managementFee": 1.5
     },
     {
@@ -4372,7 +4378,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 25, 2025",
-      "expenseRatio": 2.22,
+      "expenseRatio": 2.87,
       "managementFee": 0
     },
     {
@@ -4385,7 +4391,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 25, 2025",
-      "expenseRatio": 2.17,
+      "expenseRatio": 2.8,
       "managementFee": 0
     },
     {
@@ -4411,7 +4417,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Oct 10, 2011",
-      "expenseRatio": 0.74,
+      "expenseRatio": 0.78,
       "managementFee": 2.25
     },
     {
@@ -4424,7 +4430,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Nov 13, 2009",
-      "expenseRatio": 1.06,
+      "expenseRatio": 1.12,
       "managementFee": 3
     },
     {
@@ -4451,7 +4457,7 @@
       "benchmark": null,
       "inceptionDate": "Sep 29, 2022",
       "expenseRatio": 0,
-      "managementFee": 0
+      "managementFee": 1
     },
     {
       "fundId": "13029",
@@ -4463,7 +4469,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 10, 2011",
-      "expenseRatio": 0.94,
+      "expenseRatio": 0.99,
       "managementFee": 2.25
     },
     {
@@ -4477,7 +4483,7 @@
       "benchmark": null,
       "inceptionDate": "Nov 13, 2009",
       "expenseRatio": 0.96,
-      "managementFee": 0.8
+      "managementFee": 0.4
     },
     {
       "fundId": "13028",
@@ -4489,7 +4495,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Oct 10, 2011",
-      "expenseRatio": 0.89,
+      "expenseRatio": 0.93,
       "managementFee": 2.25
     },
     {
@@ -4502,8 +4508,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 08, 2026",
-      "expenseRatio": 0.69,
-      "managementFee": 0.07
+      "expenseRatio": 0.92,
+      "managementFee": 1.5
     },
     {
       "fundId": "15033",
@@ -4516,7 +4522,7 @@
       "benchmark": null,
       "inceptionDate": "Jan 20, 2026",
       "expenseRatio": 0.32,
-      "managementFee": 0.2248
+      "managementFee": 0.1
     },
     {
       "fundId": "15174",
@@ -4528,7 +4534,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jul 01, 2026",
-      "expenseRatio": 4,
+      "expenseRatio": 3.96,
       "managementFee": 1.5
     },
     {
@@ -4541,7 +4547,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jan 01, 2026",
-      "expenseRatio": 4.97,
+      "expenseRatio": 5.02,
       "managementFee": 3
     },
     {
@@ -4555,7 +4561,7 @@
       "benchmark": null,
       "inceptionDate": "Aug 05, 2026",
       "expenseRatio": 0.35,
-      "managementFee": -2.0124
+      "managementFee": 0
     },
     {
       "fundId": "15246",
@@ -4594,7 +4600,7 @@
       "benchmark": null,
       "inceptionDate": "Sep 29, 2026",
       "expenseRatio": 0.13,
-      "managementFee": 0.3459
+      "managementFee": -0.0952
     },
     {
       "fundId": "15243",
@@ -4606,7 +4612,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 16, 2026",
-      "expenseRatio": 0.42,
+      "expenseRatio": 0.41,
       "managementFee": 0
     },
     {
@@ -4617,7 +4623,10 @@
       "offerPrice": 100.13,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 30, 2026",
+      "expenseRatio": 0.11,
+      "managementFee": 0
     },
     {
       "fundId": "14848",
@@ -4630,7 +4639,7 @@
       "benchmark": null,
       "inceptionDate": "Apr 25, 2025",
       "expenseRatio": 0.66,
-      "managementFee": 0.1
+      "managementFee": 0.42
     },
     {
       "fundId": "14836",
@@ -4681,7 +4690,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Nov 10, 2025",
-      "expenseRatio": 3.21,
+      "expenseRatio": 3.17,
       "managementFee": 1.5
     },
     {
@@ -4694,7 +4703,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Nov 10, 2025",
-      "expenseRatio": 2.4,
+      "expenseRatio": 2.39,
       "managementFee": 1.5
     },
     {
@@ -4733,7 +4742,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "May 26, 2025",
-      "expenseRatio": 1.63,
+      "expenseRatio": 1.62,
       "managementFee": 1
     },
     {
@@ -4785,7 +4794,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 11, 2026",
-      "expenseRatio": 2.55,
+      "expenseRatio": 2.54,
       "managementFee": 1.5
     },
     {
@@ -4876,7 +4885,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Oct 12, 2026",
-      "expenseRatio": 0.24,
+      "expenseRatio": 0.23,
       "managementFee": 0.08
     },
     {
@@ -4902,7 +4911,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jan 03, 2007",
-      "expenseRatio": 1.96,
+      "expenseRatio": 1.95,
       "managementFee": 1.5
     },
     {
@@ -4915,7 +4924,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jul 02, 2026",
-      "expenseRatio": 6.03,
+      "expenseRatio": 5.96,
       "managementFee": 3
     },
     {
@@ -4941,7 +4950,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 05, 2024",
-      "expenseRatio": 0.44,
+      "expenseRatio": 0.45,
       "managementFee": 0.3
     },
     {
@@ -4967,7 +4976,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 08, 2026",
-      "expenseRatio": 0.21,
+      "expenseRatio": 0.22,
       "managementFee": 0
     },
     {
@@ -4980,7 +4989,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 17, 2008",
-      "expenseRatio": 4.35,
+      "expenseRatio": 4.34,
       "managementFee": 3
     },
     {
@@ -5006,7 +5015,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 01, 2003",
-      "expenseRatio": 1.95,
+      "expenseRatio": 1.96,
       "managementFee": 1.5
     },
     {
@@ -5019,7 +5028,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Mar 11, 2002",
-      "expenseRatio": 3.89,
+      "expenseRatio": 3.88,
       "managementFee": 3
     },
     {
@@ -5032,7 +5041,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 08, 2025",
-      "expenseRatio": 0.74,
+      "expenseRatio": 0.73,
       "managementFee": 0.47
     },
     {
@@ -5045,7 +5054,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Apr 18, 2016",
-      "expenseRatio": 4.73,
+      "expenseRatio": 4.72,
       "managementFee": 3
     },
     {
@@ -5071,7 +5080,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Mar 12, 2026",
-      "expenseRatio": 2.45,
+      "expenseRatio": 2.44,
       "managementFee": 1.75
     },
     {
@@ -5084,7 +5093,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 29, 2026",
-      "expenseRatio": 3.1,
+      "expenseRatio": 2.99,
       "managementFee": 1.75
     },
     {
@@ -5123,7 +5132,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 29, 2022",
-      "expenseRatio": 1.9,
+      "expenseRatio": 1.91,
       "managementFee": 1.5
     },
     {
@@ -5175,7 +5184,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Oct 06, 2017",
-      "expenseRatio": 4.77,
+      "expenseRatio": 4.75,
       "managementFee": 3
     },
     {
@@ -5188,7 +5197,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 28, 2024",
-      "expenseRatio": 4.6,
+      "expenseRatio": 4.59,
       "managementFee": 3
     },
     {
@@ -5201,7 +5210,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Nov 30, 2016",
-      "expenseRatio": 4.44,
+      "expenseRatio": 4.47,
       "managementFee": 3
     },
     {
@@ -5214,7 +5223,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Apr 12, 2013",
-      "expenseRatio": 0.35,
+      "expenseRatio": 0.37,
       "managementFee": 1
     },
     {
@@ -5227,7 +5236,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Apr 12, 2013",
-      "expenseRatio": 0.27,
+      "expenseRatio": 0.35,
       "managementFee": 1
     },
     {
@@ -5266,7 +5275,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 18, 2023",
-      "expenseRatio": 0.37,
+      "expenseRatio": 0.35,
       "managementFee": 1
     },
     {
@@ -5459,7 +5468,10 @@
       "offerPrice": 50,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 28, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "12865",
@@ -5471,7 +5483,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Oct 06, 2020",
-      "expenseRatio": 1.05,
+      "expenseRatio": 1.04,
       "managementFee": 0.5
     },
     {
@@ -5588,8 +5600,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 28, 2007",
-      "expenseRatio": 0.99,
-      "managementFee": 0.75
+      "expenseRatio": 2.68,
+      "managementFee": 1.5
     },
     {
       "fundId": "12861",
@@ -5614,7 +5626,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 04, 2016",
-      "expenseRatio": 2.7,
+      "expenseRatio": 2.68,
       "managementFee": 1.5
     },
     {
@@ -5640,7 +5652,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jul 02, 2013",
-      "expenseRatio": 2.7,
+      "expenseRatio": 2.69,
       "managementFee": 2
     },
     {
@@ -5692,7 +5704,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 02, 2013",
-      "expenseRatio": 1.21,
+      "expenseRatio": 1.2,
       "managementFee": 0.8
     },
     {
@@ -5718,7 +5730,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jan 22, 2007",
-      "expenseRatio": 3.41,
+      "expenseRatio": 3.4,
       "managementFee": 2.46
     },
     {
@@ -5758,7 +5770,7 @@
       "benchmark": null,
       "inceptionDate": "Jan 10, 2023",
       "expenseRatio": 0.25,
-      "managementFee": 0.01
+      "managementFee": 0.04
     },
     {
       "fundId": "13081",
@@ -5770,7 +5782,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Feb 14, 2018",
-      "expenseRatio": 3.31,
+      "expenseRatio": 3.33,
       "managementFee": 2.5
     },
     {
@@ -5809,7 +5821,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Oct 15, 2026",
-      "expenseRatio": 0.58,
+      "expenseRatio": 0.64,
       "managementFee": 0.5
     },
     {
@@ -5991,7 +6003,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Apr 21, 2016",
-      "expenseRatio": 4.71,
+      "expenseRatio": 4.7,
       "managementFee": 3
     },
     {
@@ -6002,7 +6014,10 @@
       "offerPrice": 10.01,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 28, 2026",
+      "expenseRatio": 0.12,
+      "managementFee": 0
     },
     {
       "fundId": "15271",
@@ -6079,8 +6094,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Feb 28, 2018",
-      "expenseRatio": 0.38,
-      "managementFee": 0.2
+      "expenseRatio": 0.39,
+      "managementFee": 0.3
     },
     {
       "fundId": "15249",
@@ -6105,8 +6120,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Sep 25, 2025",
-      "expenseRatio": 2.52,
-      "managementFee": 1.86
+      "expenseRatio": 2.51,
+      "managementFee": 1.85
     },
     {
       "fundId": "15012",
@@ -6170,7 +6185,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 17, 2026",
-      "expenseRatio": 2.42,
+      "expenseRatio": 2.41,
       "managementFee": 1.71
     },
     {
@@ -6196,8 +6211,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 29, 2007",
-      "expenseRatio": 3.75,
-      "managementFee": 2.75
+      "expenseRatio": 3.74,
+      "managementFee": 2.76
     },
     {
       "fundId": "13056",
@@ -6222,7 +6237,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jan 12, 2015",
-      "expenseRatio": 4.03,
+      "expenseRatio": 4.02,
       "managementFee": 3
     },
     {
@@ -6261,7 +6276,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 03, 2026",
-      "expenseRatio": 0.4,
+      "expenseRatio": 0.42,
       "managementFee": 0.35
     },
     {
@@ -6339,7 +6354,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 17, 2026",
-      "expenseRatio": 0.94,
+      "expenseRatio": 0.92,
       "managementFee": 0
     },
     {
@@ -6415,7 +6430,10 @@
       "offerPrice": 100,
       "category": "Shariah Compliant Fixed Rate / Return",
       "shariah": true,
-      "benchmark": null
+      "benchmark": null,
+      "inceptionDate": "Oct 29, 2026",
+      "expenseRatio": 0,
+      "managementFee": 0
     },
     {
       "fundId": "13040",
@@ -6453,7 +6471,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2015",
-      "expenseRatio": 0.86,
+      "expenseRatio": 0.89,
       "managementFee": 0.5
     },
     {
@@ -6466,7 +6484,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2015",
-      "expenseRatio": 0.98,
+      "expenseRatio": 0.94,
       "managementFee": 0.5
     },
     {
@@ -6479,8 +6497,8 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Jun 19, 2015",
-      "expenseRatio": 1.28,
-      "managementFee": 0.75
+      "expenseRatio": 1.62,
+      "managementFee": 0.5
     },
     {
       "fundId": "14650",
@@ -6492,7 +6510,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 14, 2023",
-      "expenseRatio": 0.81,
+      "expenseRatio": 1.23,
       "managementFee": 0.5
     },
     {
@@ -6505,7 +6523,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 14, 2023",
-      "expenseRatio": 0.86,
+      "expenseRatio": 1.29,
       "managementFee": 0.5
     },
     {
@@ -6544,8 +6562,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2015",
-      "expenseRatio": 0.88,
-      "managementFee": 0.5
+      "expenseRatio": 0.9,
+      "managementFee": 0.75
     },
     {
       "fundId": "13046",
@@ -6557,8 +6575,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 19, 2015",
-      "expenseRatio": 0.83,
-      "managementFee": 0.5
+      "expenseRatio": 0.85,
+      "managementFee": 0.75
     },
     {
       "fundId": "13045",
@@ -6570,7 +6588,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jun 19, 2015",
-      "expenseRatio": 1.3,
+      "expenseRatio": 1.68,
       "managementFee": 0.75
     },
     {
@@ -6597,7 +6615,7 @@
       "benchmark": null,
       "inceptionDate": "May 16, 2022",
       "expenseRatio": 1.63,
-      "managementFee": 1.11
+      "managementFee": 1.25
     },
     {
       "fundId": "13104",
@@ -6609,7 +6627,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Oct 30, 2008",
-      "expenseRatio": 1.47,
+      "expenseRatio": 1.52,
       "managementFee": 2
     },
     {
@@ -6622,7 +6640,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 28, 2008",
-      "expenseRatio": 1.42,
+      "expenseRatio": 1.48,
       "managementFee": 0.7
     },
     {
@@ -6635,7 +6653,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 07, 2021",
-      "expenseRatio": 1.91,
+      "expenseRatio": 1.99,
       "managementFee": 0.1
     },
     {
@@ -6648,7 +6666,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 28, 2011",
-      "expenseRatio": 1.07,
+      "expenseRatio": 1.11,
       "managementFee": 1.1
     },
     {
@@ -6661,7 +6679,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 28, 2008",
-      "expenseRatio": 1.67,
+      "expenseRatio": 1.73,
       "managementFee": 2
     },
     {
@@ -6674,7 +6692,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "May 14, 2024",
-      "expenseRatio": 0.24,
+      "expenseRatio": 0.25,
       "managementFee": 0.5
     },
     {
@@ -6713,7 +6731,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 03, 2022",
-      "expenseRatio": 0.58,
+      "expenseRatio": 0.57,
       "managementFee": 0.4
     },
     {
@@ -6752,7 +6770,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Dec 12, 2025",
-      "expenseRatio": 0.69,
+      "expenseRatio": 0.7,
       "managementFee": 0.75
     },
     {
@@ -6791,8 +6809,8 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Aug 13, 2026",
-      "expenseRatio": 0.39,
-      "managementFee": 0.05
+      "expenseRatio": 0.72,
+      "managementFee": 0.75
     },
     {
       "fundId": "13129",
@@ -6817,7 +6835,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Dec 01, 2022",
-      "expenseRatio": 3.3,
+      "expenseRatio": 3.29,
       "managementFee": 2.5
     },
     {
@@ -6843,7 +6861,7 @@
       "shariah": true,
       "benchmark": "KMI-30",
       "inceptionDate": "Sep 22, 2022",
-      "expenseRatio": 3.53,
+      "expenseRatio": 3.5,
       "managementFee": 2.1
     },
     {
@@ -6869,7 +6887,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jan 24, 2004",
-      "expenseRatio": 4.11,
+      "expenseRatio": 4.1,
       "managementFee": 3
     },
     {
@@ -6882,7 +6900,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 19, 2008",
-      "expenseRatio": 1.12,
+      "expenseRatio": 1.13,
       "managementFee": 0.9
     },
     {
@@ -6934,7 +6952,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Jun 27, 2007",
-      "expenseRatio": 3.26,
+      "expenseRatio": 3.25,
       "managementFee": 2.5
     },
     {
@@ -6960,8 +6978,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Aug 20, 2013",
-      "expenseRatio": 3.08,
-      "managementFee": 2.6098
+      "expenseRatio": 3.07,
+      "managementFee": 2.5937
     },
     {
       "fundId": "13185",
@@ -6974,7 +6992,7 @@
       "benchmark": null,
       "inceptionDate": "Sep 23, 2019",
       "expenseRatio": 0.16,
-      "managementFee": 0.0312
+      "managementFee": 0.0573
     },
     {
       "fundId": "13172",
@@ -6986,7 +7004,7 @@
       "shariah": false,
       "benchmark": "KSE-100",
       "inceptionDate": "Apr 06, 2018",
-      "expenseRatio": 3.25,
+      "expenseRatio": 3.24,
       "managementFee": 2.8503
     },
     {
@@ -6999,8 +7017,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 26, 2025",
-      "expenseRatio": 9.84,
-      "managementFee": 0.3155
+      "expenseRatio": 9.46,
+      "managementFee": 0.3119
     },
     {
       "fundId": "14899",
@@ -7012,7 +7030,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 21, 2025",
-      "expenseRatio": 1.18,
+      "expenseRatio": 1.13,
       "managementFee": 0.0973
     },
     {
@@ -7025,7 +7043,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jul 27, 2011",
-      "expenseRatio": 1.63,
+      "expenseRatio": 1.64,
       "managementFee": 1.5001
     },
     {
@@ -7064,8 +7082,8 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Sep 05, 2025",
-      "expenseRatio": 0.47,
-      "managementFee": 0.0325
+      "expenseRatio": 0.45,
+      "managementFee": 0.094
     },
     {
       "fundId": "13138",
@@ -7077,7 +7095,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Jun 21, 2009",
-      "expenseRatio": 0.95,
+      "expenseRatio": 0.94,
       "managementFee": 0.6054
     },
     {
@@ -7116,7 +7134,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Dec 24, 2025",
-      "expenseRatio": 117.87,
+      "expenseRatio": 121.04,
       "managementFee": 0.2
     },
     {
@@ -7129,7 +7147,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "May 19, 2010",
-      "expenseRatio": 0.85,
+      "expenseRatio": 0.84,
       "managementFee": 0.75
     },
     {
@@ -7155,7 +7173,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Apr 21, 2014",
-      "expenseRatio": 1.88,
+      "expenseRatio": 1.87,
       "managementFee": 1.5001
     },
     {
@@ -7168,7 +7186,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "May 19, 2010",
-      "expenseRatio": 0.88,
+      "expenseRatio": 0.87,
       "managementFee": 0.75
     },
     {
@@ -7181,7 +7199,7 @@
       "shariah": false,
       "benchmark": null,
       "inceptionDate": "Mar 29, 2023",
-      "expenseRatio": 1,
+      "expenseRatio": 0.99,
       "managementFee": 0.6565
     },
     {
@@ -7233,7 +7251,7 @@
       "shariah": true,
       "benchmark": null,
       "inceptionDate": "Oct 22, 2024",
-      "expenseRatio": 0.93,
+      "expenseRatio": 0.94,
       "managementFee": 0.75
     },
     {
@@ -7250,5 +7268,5 @@
       "managementFee": 1.5
     }
   ],
-  "updatedAt": "2026-11-02T23:54:45.885Z"
+  "updatedAt": "2026-11-03T01:14:45.361Z"
 }
