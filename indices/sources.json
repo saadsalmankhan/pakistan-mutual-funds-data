@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-02T23:48:20.167Z",
+ "checkedAt": "2026-11-03T01:13:33.122Z",
  "sources": {
   "scstrade": {
    "ok": true,
@@ -32,7 +32,7 @@
     },
     "spreadPct": 0
    },
-   "written": 1,
+   "written": 0,
    "singleSourceDays": 30
   },
   "KMI-30": {
@@ -52,7 +52,7 @@
     },
     "spreadPct": 0
    },
-   "written": 1,
+   "written": 0,
    "singleSourceDays": 30
   }
  },
