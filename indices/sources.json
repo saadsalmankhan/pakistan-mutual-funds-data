@@ -1,9 +1,9 @@
 {
- "checkedAt": "2026-11-06T23:27:47.019Z",
+ "checkedAt": "2026-11-10T00:28:52.869Z",
  "sources": {
   "scstrade": {
    "ok": true,
-   "detail": "66 closes 2026-09-23..2026-11-07"
+   "detail": "60 closes 2026-09-26..2026-11-10"
   },
   "psx": {
    "ok": true,
@@ -33,7 +33,7 @@
     "spreadPct": 0
    },
    "written": 0,
-   "singleSourceDays": 32
+   "singleSourceDays": 29
   },
   "KMI-30": {
    "latest": {
@@ -53,7 +53,7 @@
     "spreadPct": 0
    },
    "written": 0,
-   "singleSourceDays": 32
+   "singleSourceDays": 29
   }
  },
  "conflicts": []
