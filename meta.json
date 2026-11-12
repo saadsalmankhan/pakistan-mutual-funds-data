@@ -1,7 +1,7 @@
 {
   "12643": {
     "inceptionDate": "Sep 09, 2008",
-    "expenseRatio": 4.23,
+    "expenseRatio": 4.24,
     "managementFee": 3
   },
   "12645": {
@@ -12,7 +12,7 @@
   "12646": {
     "inceptionDate": "Jun 15, 2007",
     "expenseRatio": 0.52,
-    "managementFee": 0.24
+    "managementFee": 0.44
   },
   "12647": {
     "inceptionDate": "Oct 28, 2005",
@@ -26,12 +26,12 @@
   },
   "12650": {
     "inceptionDate": "Jul 15, 2008",
-    "expenseRatio": 4.14,
+    "expenseRatio": 4.15,
     "managementFee": 3
   },
   "12652": {
     "inceptionDate": "Dec 03, 2009",
-    "expenseRatio": 0.4,
+    "expenseRatio": 0.39,
     "managementFee": 0
   },
   "12653": {
@@ -91,7 +91,7 @@
   },
   "12672": {
     "inceptionDate": "Nov 08, 2016",
-    "expenseRatio": 4.01,
+    "expenseRatio": 4.09,
     "managementFee": 2.5
   },
   "12673": {
@@ -106,7 +106,7 @@
   },
   "12675": {
     "inceptionDate": "Nov 08, 2016",
-    "expenseRatio": 0.97,
+    "expenseRatio": 0.96,
     "managementFee": 0.35
   },
   "12676": {
@@ -126,7 +126,7 @@
   },
   "12679": {
     "inceptionDate": "Nov 28, 2022",
-    "expenseRatio": 4.56,
+    "expenseRatio": 4.55,
     "managementFee": 3
   },
   "12680": {
@@ -161,23 +161,23 @@
   },
   "12687": {
     "inceptionDate": "Dec 01, 2014",
-    "expenseRatio": 0.6,
+    "expenseRatio": 0.61,
     "managementFee": 0.35
   },
   "12688": {
     "inceptionDate": "Jan 07, 2019",
     "expenseRatio": 0.33,
-    "managementFee": 0.0495
+    "managementFee": 0.0496
   },
   "12689": {
     "inceptionDate": "Jan 07, 2019",
     "expenseRatio": 0.34,
-    "managementFee": 0.0538
+    "managementFee": 0.0539
   },
   "12690": {
     "inceptionDate": "Jan 07, 2019",
     "expenseRatio": 0.35,
-    "managementFee": 0.0534
+    "managementFee": 0.0526
   },
   "12693": {
     "inceptionDate": "Jan 07, 2021",
@@ -231,12 +231,12 @@
   },
   "12706": {
     "inceptionDate": "May 29, 2007",
-    "expenseRatio": 1.15,
-    "managementFee": 0.85
+    "expenseRatio": 1.16,
+    "managementFee": 0.86
   },
   "12707": {
     "inceptionDate": "Mar 10, 2011",
-    "expenseRatio": 1.01,
+    "expenseRatio": 1.02,
     "managementFee": 0.76
   },
   "12708": {
@@ -246,7 +246,7 @@
   },
   "12709": {
     "inceptionDate": "Jan 23, 2017",
-    "expenseRatio": 0.71,
+    "expenseRatio": 0.72,
     "managementFee": 0.47
   },
   "12710": {
@@ -266,12 +266,12 @@
   },
   "12713": {
     "inceptionDate": "Dec 20, 2021",
-    "expenseRatio": 0.7,
-    "managementFee": 0.46
+    "expenseRatio": 0.71,
+    "managementFee": 0.47
   },
   "12714": {
     "inceptionDate": "Jun 30, 2022",
-    "expenseRatio": 3.35,
+    "expenseRatio": 3.36,
     "managementFee": 2.5
   },
   "12715": {
@@ -286,7 +286,7 @@
   },
   "12717": {
     "inceptionDate": "Sep 05, 2022",
-    "expenseRatio": 4.02,
+    "expenseRatio": 4.04,
     "managementFee": 2.5
   },
   "12718": {
@@ -296,7 +296,7 @@
   },
   "12719": {
     "inceptionDate": "Sep 05, 2022",
-    "expenseRatio": 1.55,
+    "expenseRatio": 1.54,
     "managementFee": 1
   },
   "12720": {
@@ -312,11 +312,11 @@
   "12723": {
     "inceptionDate": "Oct 01, 2009",
     "expenseRatio": 1.11,
-    "managementFee": 0.9
+    "managementFee": 1.1
   },
   "12724": {
     "inceptionDate": "Mar 11, 2002",
-    "expenseRatio": 3.89,
+    "expenseRatio": 3.88,
     "managementFee": 3
   },
   "12725": {
@@ -326,7 +326,7 @@
   },
   "12726": {
     "inceptionDate": "Mar 11, 2002",
-    "expenseRatio": 1.37,
+    "expenseRatio": 1.38,
     "managementFee": 1.5
   },
   "12727": {
@@ -362,11 +362,11 @@
   "12743": {
     "inceptionDate": "Apr 10, 2018",
     "expenseRatio": 1.57,
-    "managementFee": 1.32
+    "managementFee": 1.5
   },
   "12744": {
     "inceptionDate": "Aug 20, 2020",
-    "expenseRatio": 1.05,
+    "expenseRatio": 1.06,
     "managementFee": 0.9
   },
   "12745": {
@@ -421,7 +421,7 @@
   },
   "12767": {
     "inceptionDate": "Nov 29, 2011",
-    "expenseRatio": 1.72,
+    "expenseRatio": 1.73,
     "managementFee": 1.25
   },
   "12768": {
@@ -431,7 +431,7 @@
   },
   "12769": {
     "inceptionDate": "Jul 31, 2010",
-    "expenseRatio": 2.79,
+    "expenseRatio": 2.81,
     "managementFee": 0.55
   },
   "12772": {
@@ -461,7 +461,7 @@
   },
   "12788": {
     "inceptionDate": "Mar 29, 2019",
-    "expenseRatio": 1.12,
+    "expenseRatio": 1.13,
     "managementFee": 0.04
   },
   "12789": {
@@ -486,7 +486,7 @@
   },
   "12793": {
     "inceptionDate": "Feb 13, 2020",
-    "expenseRatio": 0.4,
+    "expenseRatio": 0.39,
     "managementFee": 0.15
   },
   "12794": {
@@ -516,22 +516,22 @@
   },
   "12801": {
     "inceptionDate": "Aug 20, 2014",
-    "expenseRatio": 1.14,
+    "expenseRatio": 1.59,
     "managementFee": 0.6
   },
   "12802": {
     "inceptionDate": "Aug 20, 2014",
-    "expenseRatio": 2.6,
+    "expenseRatio": 2.73,
     "managementFee": 1.5
   },
   "12803": {
     "inceptionDate": "Aug 20, 2014",
-    "expenseRatio": 0.73,
+    "expenseRatio": 1.04,
     "managementFee": 0.4
   },
   "12804": {
     "inceptionDate": "Dec 19, 2016",
-    "expenseRatio": 8.61,
+    "expenseRatio": 8.63,
     "managementFee": 3
   },
   "12805": {
@@ -551,7 +551,7 @@
   },
   "12808": {
     "inceptionDate": "May 09, 1983",
-    "expenseRatio": 4.06,
+    "expenseRatio": 4.07,
     "managementFee": 3
   },
   "12809": {
@@ -566,7 +566,7 @@
   },
   "12811": {
     "inceptionDate": "Feb 20, 2018",
-    "expenseRatio": 5.26,
+    "expenseRatio": 5.27,
     "managementFee": 3
   },
   "12813": {
@@ -581,7 +581,7 @@
   },
   "12817": {
     "inceptionDate": "Aug 08, 2003",
-    "expenseRatio": 4.08,
+    "expenseRatio": 4.11,
     "managementFee": 3
   },
   "12818": {
@@ -601,7 +601,7 @@
   },
   "12822": {
     "inceptionDate": "Dec 20, 2004",
-    "expenseRatio": 3.45,
+    "expenseRatio": 3.47,
     "managementFee": 2.6
   },
   "12824": {
@@ -631,7 +631,7 @@
   },
   "12834": {
     "inceptionDate": "Dec 22, 2016",
-    "expenseRatio": 1.06,
+    "expenseRatio": 1.05,
     "managementFee": 1
   },
   "12835": {
@@ -656,7 +656,7 @@
   },
   "12839": {
     "inceptionDate": "Aug 17, 2017",
-    "expenseRatio": 2.09,
+    "expenseRatio": 2.07,
     "managementFee": 1
   },
   "12840": {
@@ -671,7 +671,7 @@
   },
   "12845": {
     "inceptionDate": "Apr 24, 2017",
-    "expenseRatio": 0.72,
+    "expenseRatio": 0.71,
     "managementFee": 1
   },
   "12852": {
@@ -711,7 +711,7 @@
   },
   "12864": {
     "inceptionDate": "Oct 06, 2017",
-    "expenseRatio": 4.81,
+    "expenseRatio": 4.8,
     "managementFee": 3
   },
   "12865": {
@@ -736,7 +736,7 @@
   },
   "12880": {
     "inceptionDate": "Oct 10, 2005",
-    "expenseRatio": 0.34,
+    "expenseRatio": 0.36,
     "managementFee": 0.36
   },
   "12881": {
@@ -746,7 +746,7 @@
   },
   "12882": {
     "inceptionDate": "Jul 24, 2006",
-    "expenseRatio": 4.57,
+    "expenseRatio": 4.62,
     "managementFee": 2.5
   },
   "12883": {
@@ -776,12 +776,12 @@
   },
   "12888": {
     "inceptionDate": "Aug 11, 2020",
-    "expenseRatio": 1.27,
+    "expenseRatio": 0.66,
     "managementFee": 0.32
   },
   "12891": {
     "inceptionDate": "Oct 10, 2019",
-    "expenseRatio": 1.3,
+    "expenseRatio": 0.62,
     "managementFee": 0.32
   },
   "12894": {
@@ -791,7 +791,7 @@
   },
   "12896": {
     "inceptionDate": "Jul 24, 2020",
-    "expenseRatio": 7.26,
+    "expenseRatio": 7.03,
     "managementFee": 3
   },
   "12900": {
@@ -806,7 +806,7 @@
   },
   "12905": {
     "inceptionDate": "Jun 20, 2022",
-    "expenseRatio": 3.05,
+    "expenseRatio": 3.04,
     "managementFee": 1.5
   },
   "12907": {
@@ -831,7 +831,7 @@
   },
   "12912": {
     "inceptionDate": "Oct 05, 2021",
-    "expenseRatio": 3.83,
+    "expenseRatio": 3.56,
     "managementFee": 0.01
   },
   "12913": {
@@ -851,7 +851,7 @@
   },
   "12916": {
     "inceptionDate": "Jan 03, 2020",
-    "expenseRatio": 9.49,
+    "expenseRatio": 9.24,
     "managementFee": 3
   },
   "12917": {
@@ -861,22 +861,22 @@
   },
   "12920": {
     "inceptionDate": "Jan 20, 2006",
-    "expenseRatio": 4.02,
+    "expenseRatio": 4.01,
     "managementFee": 3
   },
   "12921": {
     "inceptionDate": "Feb 19, 2007",
-    "expenseRatio": 2.06,
+    "expenseRatio": 2.03,
     "managementFee": 1.25
   },
   "12922": {
     "inceptionDate": "Aug 23, 2007",
-    "expenseRatio": 5.95,
+    "expenseRatio": 6.12,
     "managementFee": 3
   },
   "12923": {
     "inceptionDate": "Nov 08, 2007",
-    "expenseRatio": 3.7,
+    "expenseRatio": 3.76,
     "managementFee": 2.25
   },
   "12924": {
@@ -891,7 +891,7 @@
   },
   "12927": {
     "inceptionDate": "Dec 13, 2010",
-    "expenseRatio": 1.06,
+    "expenseRatio": 1.14,
     "managementFee": 0.87
   },
   "12928": {
@@ -901,17 +901,17 @@
   },
   "12929": {
     "inceptionDate": "May 09, 2011",
-    "expenseRatio": 5.05,
+    "expenseRatio": 5.18,
     "managementFee": 3
   },
   "12930": {
     "inceptionDate": "Sep 26, 2011",
-    "expenseRatio": 7.28,
+    "expenseRatio": 7.5,
     "managementFee": 3
   },
   "12932": {
     "inceptionDate": "May 29, 2014",
-    "expenseRatio": 5.29,
+    "expenseRatio": 5.22,
     "managementFee": 3
   },
   "12933": {
@@ -921,7 +921,7 @@
   },
   "12934": {
     "inceptionDate": "Jan 11, 2016",
-    "expenseRatio": 3.71,
+    "expenseRatio": 3.69,
     "managementFee": 2.75
   },
   "12942": {
@@ -936,17 +936,17 @@
   },
   "12946": {
     "inceptionDate": "Jul 02, 2018",
-    "expenseRatio": 6.17,
+    "expenseRatio": 6.22,
     "managementFee": 3
   },
   "12951": {
     "inceptionDate": "Jul 02, 2018",
-    "expenseRatio": 5.39,
+    "expenseRatio": 5.61,
     "managementFee": 3
   },
   "12952": {
     "inceptionDate": "Jan 18, 2022",
-    "expenseRatio": 1.7,
+    "expenseRatio": 1.71,
     "managementFee": 1.5
   },
   "12954": {
@@ -966,7 +966,7 @@
   },
   "12957": {
     "inceptionDate": "Dec 15, 2011",
-    "expenseRatio": 1.86,
+    "expenseRatio": 1.81,
     "managementFee": 1
   },
   "12958": {
@@ -986,7 +986,7 @@
   },
   "12965": {
     "inceptionDate": "Oct 27, 1997",
-    "expenseRatio": 3.35,
+    "expenseRatio": 3.34,
     "managementFee": 2.4
   },
   "12966": {
@@ -996,22 +996,22 @@
   },
   "12968": {
     "inceptionDate": "Oct 31, 2005",
-    "expenseRatio": 0.33,
-    "managementFee": 1
+    "expenseRatio": 0.38,
+    "managementFee": 0.0019
   },
   "12976": {
     "inceptionDate": "Dec 27, 2002",
-    "expenseRatio": 5.25,
-    "managementFee": 2.9959
+    "expenseRatio": 5.24,
+    "managementFee": 3
   },
   "12978": {
     "inceptionDate": "Mar 29, 2010",
-    "expenseRatio": 1.66,
+    "expenseRatio": 1.65,
     "managementFee": 1.25
   },
   "12979": {
     "inceptionDate": "May 15, 2004",
-    "expenseRatio": 4.05,
+    "expenseRatio": 4.06,
     "managementFee": 3
   },
   "12983": {
@@ -1027,7 +1027,7 @@
   "13002": {
     "inceptionDate": "Sep 03, 2020",
     "expenseRatio": 0.34,
-    "managementFee": 0.0683
+    "managementFee": 0.0707
   },
   "13005": {
     "inceptionDate": "May 11, 2022",
@@ -1036,12 +1036,12 @@
   },
   "13006": {
     "inceptionDate": "Jul 15, 2022",
-    "expenseRatio": 1.79,
-    "managementFee": 0.9878
+    "expenseRatio": 1.87,
+    "managementFee": 1.4
   },
   "13007": {
     "inceptionDate": "Jun 25, 2007",
-    "expenseRatio": 3.11,
+    "expenseRatio": 3.09,
     "managementFee": 1.5
   },
   "13008": {
@@ -1052,26 +1052,26 @@
   "13009": {
     "inceptionDate": "Jun 25, 2007",
     "expenseRatio": 0.85,
-    "managementFee": 0.504
+    "managementFee": 0.5037
   },
   "13010": {
     "inceptionDate": "Mar 17, 2008",
     "expenseRatio": 4.14,
-    "managementFee": 1.5001
+    "managementFee": 1.5
   },
   "13011": {
     "inceptionDate": "Mar 17, 2008",
     "expenseRatio": 2.25,
-    "managementFee": 1.0002
+    "managementFee": 1.0004
   },
   "13012": {
     "inceptionDate": "Mar 17, 2008",
     "expenseRatio": 1,
-    "managementFee": 0.4999
+    "managementFee": 0.5001
   },
   "13015": {
     "inceptionDate": "Jan 07, 2022",
-    "expenseRatio": 2.85,
+    "expenseRatio": 2.83,
     "managementFee": 0.75
   },
   "13025": {
@@ -1086,7 +1086,7 @@
   },
   "13027": {
     "inceptionDate": "Nov 13, 2009",
-    "expenseRatio": 1.22,
+    "expenseRatio": 1.25,
     "managementFee": 3
   },
   "13028": {
@@ -1096,12 +1096,12 @@
   },
   "13029": {
     "inceptionDate": "Oct 10, 2011",
-    "expenseRatio": 1.08,
+    "expenseRatio": 1.11,
     "managementFee": 2.25
   },
   "13030": {
     "inceptionDate": "Oct 10, 2011",
-    "expenseRatio": 0.87,
+    "expenseRatio": 0.86,
     "managementFee": 2.25
   },
   "13031": {
@@ -1152,7 +1152,7 @@
   "13043": {
     "inceptionDate": "May 16, 2022",
     "expenseRatio": 1.63,
-    "managementFee": 1.25
+    "managementFee": 1.11
   },
   "13044": {
     "inceptionDate": "Jun 19, 2015",
@@ -1186,8 +1186,8 @@
   },
   "13050": {
     "inceptionDate": "Jun 19, 2015",
-    "expenseRatio": 0.86,
-    "managementFee": 0.46
+    "expenseRatio": 0.9,
+    "managementFee": 0.5
   },
   "13051": {
     "inceptionDate": "Mar 21, 2020",
@@ -1211,7 +1211,7 @@
   },
   "13055": {
     "inceptionDate": "Jan 22, 2007",
-    "expenseRatio": 3.4,
+    "expenseRatio": 3.39,
     "managementFee": 2.47
   },
   "13056": {
@@ -1242,11 +1242,11 @@
   "13061": {
     "inceptionDate": "Aug 20, 2010",
     "expenseRatio": 3.94,
-    "managementFee": 2.75
+    "managementFee": 2.76
   },
   "13062": {
     "inceptionDate": "Oct 28, 2011",
-    "expenseRatio": 1.22,
+    "expenseRatio": 1.23,
     "managementFee": 1.09
   },
   "13063": {
@@ -1266,17 +1266,17 @@
   },
   "13068": {
     "inceptionDate": "Jan 12, 2015",
-    "expenseRatio": 4.04,
+    "expenseRatio": 4.05,
     "managementFee": 3
   },
   "13074": {
     "inceptionDate": "Apr 21, 2016",
-    "expenseRatio": 4.71,
+    "expenseRatio": 4.7,
     "managementFee": 3
   },
   "13081": {
     "inceptionDate": "Feb 14, 2018",
-    "expenseRatio": 3.45,
+    "expenseRatio": 3.48,
     "managementFee": 3
   },
   "13082": {
@@ -1321,7 +1321,7 @@
   },
   "13098": {
     "inceptionDate": "Jul 02, 2013",
-    "expenseRatio": 1.2,
+    "expenseRatio": 1.19,
     "managementFee": 0.8
   },
   "13099": {
@@ -1346,22 +1346,22 @@
   },
   "13104": {
     "inceptionDate": "Oct 30, 2008",
-    "expenseRatio": 1.6,
+    "expenseRatio": 1.61,
     "managementFee": 2
   },
   "13105": {
     "inceptionDate": "Oct 28, 2008",
-    "expenseRatio": 1.57,
+    "expenseRatio": 1.58,
     "managementFee": 0.7
   },
   "13106": {
     "inceptionDate": "Oct 28, 2008",
-    "expenseRatio": 1.82,
+    "expenseRatio": 1.83,
     "managementFee": 2
   },
   "13107": {
     "inceptionDate": "Mar 16, 2006",
-    "expenseRatio": 0.97,
+    "expenseRatio": 0.98,
     "managementFee": 1.5
   },
   "13109": {
@@ -1371,22 +1371,22 @@
   },
   "13116": {
     "inceptionDate": "Jul 28, 2011",
-    "expenseRatio": 1.18,
+    "expenseRatio": 1.19,
     "managementFee": 1.1
   },
   "13118": {
     "inceptionDate": "May 07, 2012",
-    "expenseRatio": 0.91,
+    "expenseRatio": 0.92,
     "managementFee": 0.5
   },
   "13119": {
     "inceptionDate": "Dec 07, 2021",
-    "expenseRatio": 2.11,
+    "expenseRatio": 2.13,
     "managementFee": 0.1
   },
   "13121": {
     "inceptionDate": "Sep 22, 2022",
-    "expenseRatio": 3.57,
+    "expenseRatio": 3.6,
     "managementFee": 2.1
   },
   "13124": {
@@ -1426,7 +1426,7 @@
   },
   "13134": {
     "inceptionDate": "Mar 02, 2006",
-    "expenseRatio": 1.69,
+    "expenseRatio": 1.7,
     "managementFee": 1.5001
   },
   "13135": {
@@ -1441,7 +1441,7 @@
   },
   "13137": {
     "inceptionDate": "Oct 20, 2007",
-    "expenseRatio": 1.33,
+    "expenseRatio": 1.32,
     "managementFee": 0.0001
   },
   "13138": {
@@ -1451,7 +1451,7 @@
   },
   "13141": {
     "inceptionDate": "Oct 13, 2010",
-    "expenseRatio": 1.31,
+    "expenseRatio": 1.3,
     "managementFee": 1.0065
   },
   "13143": {
@@ -1461,7 +1461,7 @@
   },
   "13144": {
     "inceptionDate": "Jul 27, 2011",
-    "expenseRatio": 1.63,
+    "expenseRatio": 1.64,
     "managementFee": 1.5001
   },
   "13146": {
@@ -1472,12 +1472,12 @@
   "13150": {
     "inceptionDate": "Aug 20, 2013",
     "expenseRatio": 3.07,
-    "managementFee": 2.6459
+    "managementFee": 2.6368
   },
   "13152": {
     "inceptionDate": "Dec 11, 2013",
     "expenseRatio": 2.14,
-    "managementFee": 1.9365
+    "managementFee": 1.9299
   },
   "13172": {
     "inceptionDate": "Apr 06, 2018",
@@ -1487,16 +1487,16 @@
   "13185": {
     "inceptionDate": "Sep 23, 2019",
     "expenseRatio": 0.16,
-    "managementFee": 0.0225
+    "managementFee": 0.2225
   },
   "13186": {
     "inceptionDate": "Dec 13, 2019",
-    "expenseRatio": 3.37,
+    "expenseRatio": 3.36,
     "managementFee": 2.8503
   },
   "13189": {
     "inceptionDate": "Apr 16, 2020",
-    "expenseRatio": 4.78,
+    "expenseRatio": 4.75,
     "managementFee": 0.6
   },
   "13190": {
@@ -1546,8 +1546,8 @@
   },
   "14335": {
     "inceptionDate": "Jul 13, 2023",
-    "expenseRatio": 1.01,
-    "managementFee": 0.75
+    "expenseRatio": 1.02,
+    "managementFee": 0.76
   },
   "14338": {
     "inceptionDate": "Aug 02, 2023",
@@ -1596,7 +1596,7 @@
   },
   "14368": {
     "inceptionDate": "Feb 28, 2023",
-    "expenseRatio": -0.27,
+    "expenseRatio": 0.27,
     "managementFee": 0
   },
   "14374": {
@@ -1806,7 +1806,7 @@
   },
   "14683": {
     "inceptionDate": "Jun 24, 2024",
-    "expenseRatio": 2.22,
+    "expenseRatio": 2.21,
     "managementFee": 1.5
   },
   "14685": {
@@ -1816,7 +1816,7 @@
   },
   "14692": {
     "inceptionDate": "Jul 22, 2024",
-    "expenseRatio": 4.55,
+    "expenseRatio": 4.53,
     "managementFee": 0.55
   },
   "14699": {
@@ -1831,7 +1831,7 @@
   },
   "14702": {
     "inceptionDate": "Aug 12, 2024",
-    "expenseRatio": 2.85,
+    "expenseRatio": 2.83,
     "managementFee": 2
   },
   "14708": {
@@ -1851,7 +1851,7 @@
   },
   "14721": {
     "inceptionDate": "Sep 24, 2024",
-    "expenseRatio": 7.9,
+    "expenseRatio": 3.87,
     "managementFee": 2.5
   },
   "14744": {
@@ -1876,17 +1876,17 @@
   },
   "14789": {
     "inceptionDate": "Jan 10, 2025",
-    "expenseRatio": 1.48,
+    "expenseRatio": 1.49,
     "managementFee": 1
   },
   "14791": {
     "inceptionDate": "Jan 10, 2025",
-    "expenseRatio": 1.75,
+    "expenseRatio": 1.76,
     "managementFee": 1
   },
   "14805": {
     "inceptionDate": "Feb 26, 2025",
-    "expenseRatio": 0.83,
+    "expenseRatio": 0.84,
     "managementFee": 0
   },
   "14811": {
@@ -1896,7 +1896,7 @@
   },
   "14817": {
     "inceptionDate": "Mar 10, 2025",
-    "expenseRatio": 7.6,
+    "expenseRatio": 7.33,
     "managementFee": 3
   },
   "14836": {
@@ -1946,8 +1946,8 @@
   },
   "14866": {
     "inceptionDate": "Jun 03, 2025",
-    "expenseRatio": 0.59,
-    "managementFee": 0.38
+    "expenseRatio": 0.6,
+    "managementFee": 0.4
   },
   "14872": {
     "inceptionDate": "Jun 19, 2025",
@@ -1956,13 +1956,13 @@
   },
   "14873": {
     "inceptionDate": "Jun 19, 2025",
-    "expenseRatio": 0.68,
-    "managementFee": 0.43
+    "expenseRatio": 0.69,
+    "managementFee": 0.44
   },
   "14877": {
     "inceptionDate": "Jun 26, 2025",
-    "expenseRatio": 8.85,
-    "managementFee": 0.3194
+    "expenseRatio": 8.79,
+    "managementFee": 0.319
   },
   "14883": {
     "inceptionDate": "Jul 02, 2025",
@@ -1981,12 +1981,12 @@
   },
   "14899": {
     "inceptionDate": "Jul 21, 2025",
-    "expenseRatio": 1.07,
+    "expenseRatio": 1.06,
     "managementFee": 0.0972
   },
   "14901": {
     "inceptionDate": "Aug 11, 2025",
-    "expenseRatio": 0.44,
+    "expenseRatio": 0.45,
     "managementFee": 1
   },
   "14907": {
@@ -2006,7 +2006,7 @@
   },
   "14913": {
     "inceptionDate": "Sep 03, 2025",
-    "expenseRatio": 2.81,
+    "expenseRatio": 2.8,
     "managementFee": 1.15
   },
   "14919": {
@@ -2017,11 +2017,11 @@
   "14921": {
     "inceptionDate": "Sep 05, 2025",
     "expenseRatio": 0.42,
-    "managementFee": 0.0055
+    "managementFee": 0.37
   },
   "14922": {
     "inceptionDate": "Sep 22, 2025",
-    "expenseRatio": 3.99,
+    "expenseRatio": 4,
     "managementFee": 0
   },
   "14928": {
@@ -2031,7 +2031,7 @@
   },
   "14950": {
     "inceptionDate": "Nov 10, 2025",
-    "expenseRatio": 0.88,
+    "expenseRatio": 0.89,
     "managementFee": 0.1
   },
   "14951": {
@@ -2046,13 +2046,8 @@
   },
   "14953": {
     "inceptionDate": "Nov 10, 2025",
-    "expenseRatio": 3.34,
+    "expenseRatio": 3.33,
     "managementFee": 1.5
-  },
-  "14962": {
-    "inceptionDate": "Nov 10, 2025",
-    "expenseRatio": 1.13,
-    "managementFee": 0
   },
   "14965": {
     "inceptionDate": "Nov 21, 2025",
@@ -2071,7 +2066,7 @@
   },
   "14970": {
     "inceptionDate": "Nov 25, 2025",
-    "expenseRatio": 2.13,
+    "expenseRatio": 2.12,
     "managementFee": 1.5
   },
   "14974": {
@@ -2116,7 +2111,7 @@
   },
   "15006": {
     "inceptionDate": "Dec 12, 2025",
-    "expenseRatio": 0.76,
+    "expenseRatio": 0.77,
     "managementFee": 0.75
   },
   "15007": {
@@ -2131,12 +2126,12 @@
   },
   "15009": {
     "inceptionDate": "Dec 01, 2025",
-    "expenseRatio": 1.21,
+    "expenseRatio": 1.22,
     "managementFee": 0.85
   },
   "15010": {
     "inceptionDate": "Dec 01, 2025",
-    "expenseRatio": 0.82,
+    "expenseRatio": 0.84,
     "managementFee": 0.5
   },
   "15012": {
@@ -2146,12 +2141,12 @@
   },
   "15018": {
     "inceptionDate": "Dec 25, 2025",
-    "expenseRatio": 2.47,
+    "expenseRatio": 2.39,
     "managementFee": 0
   },
   "15020": {
     "inceptionDate": "Dec 25, 2025",
-    "expenseRatio": 2.38,
+    "expenseRatio": 2.24,
     "managementFee": 0
   },
   "15022": {
@@ -2166,12 +2161,12 @@
   },
   "15025": {
     "inceptionDate": "Dec 24, 2025",
-    "expenseRatio": 113.58,
+    "expenseRatio": 112.73,
     "managementFee": 0.2
   },
   "15026": {
     "inceptionDate": "Dec 24, 2025",
-    "expenseRatio": 1.28,
+    "expenseRatio": 1.27,
     "managementFee": 0.2
   },
   "15029": {
@@ -2221,7 +2216,7 @@
   },
   "15049": {
     "inceptionDate": "Feb 10, 2026",
-    "expenseRatio": 4.27,
+    "expenseRatio": 4.28,
     "managementFee": 3
   },
   "15057": {
@@ -2276,12 +2271,12 @@
   },
   "15086": {
     "inceptionDate": "Apr 01, 2026",
-    "expenseRatio": 5.24,
+    "expenseRatio": 5.28,
     "managementFee": 3
   },
   "15087": {
     "inceptionDate": "Apr 01, 2026",
-    "expenseRatio": 6.78,
+    "expenseRatio": 6.77,
     "managementFee": 3
   },
   "15094": {
@@ -2321,18 +2316,18 @@
   },
   "15118": {
     "inceptionDate": "May 08, 2026",
-    "expenseRatio": 3.83,
-    "managementFee": 1.9199
+    "expenseRatio": 3.85,
+    "managementFee": 1.92
   },
   "15119": {
     "inceptionDate": "May 08, 2026",
     "expenseRatio": 0.72,
-    "managementFee": 0
+    "managementFee": 0.42
   },
   "15121": {
     "inceptionDate": "May 08, 2026",
     "expenseRatio": 0.77,
-    "managementFee": 0.57
+    "managementFee": 0.87
   },
   "15124": {
     "inceptionDate": "May 11, 2026",
@@ -2377,7 +2372,7 @@
   "15153": {
     "inceptionDate": "Jun 12, 2026",
     "expenseRatio": 2.51,
-    "managementFee": 1.89
+    "managementFee": 1.88
   },
   "15155": {
     "inceptionDate": "Jun 12, 2026",
@@ -2386,7 +2381,7 @@
   },
   "15157": {
     "inceptionDate": "Jun 10, 2026",
-    "expenseRatio": 1.46,
+    "expenseRatio": 1.48,
     "managementFee": 1.49
   },
   "15161": {
@@ -2411,17 +2406,17 @@
   },
   "15172": {
     "inceptionDate": "Jul 02, 2026",
-    "expenseRatio": 5.89,
+    "expenseRatio": 5.87,
     "managementFee": 3
   },
   "15173": {
     "inceptionDate": "Jul 02, 2026",
-    "expenseRatio": 6.57,
+    "expenseRatio": 6.55,
     "managementFee": 3
   },
   "15174": {
     "inceptionDate": "Jul 01, 2026",
-    "expenseRatio": 3.89,
+    "expenseRatio": 3.88,
     "managementFee": 1.5
   },
   "15175": {
@@ -2437,7 +2432,7 @@
   "15178": {
     "inceptionDate": "Jul 07, 2026",
     "expenseRatio": 0.34,
-    "managementFee": 0.17
+    "managementFee": 0.18
   },
   "15179": {
     "inceptionDate": "Jul 08, 2026",
@@ -2467,7 +2462,7 @@
   "15189": {
     "inceptionDate": "Jul 17, 2026",
     "expenseRatio": 0.19,
-    "managementFee": 0.05
+    "managementFee": 0.04
   },
   "15193": {
     "inceptionDate": "Jul 22, 2026",
@@ -2546,8 +2541,8 @@
   },
   "15224": {
     "inceptionDate": "Aug 13, 2026",
-    "expenseRatio": 0.61,
-    "managementFee": 0.2
+    "expenseRatio": 0.52,
+    "managementFee": 0.12
   },
   "15225": {
     "inceptionDate": "Aug 12, 2026",
@@ -2561,7 +2556,7 @@
   },
   "15229": {
     "inceptionDate": "Aug 11, 2026",
-    "expenseRatio": 0.28,
+    "expenseRatio": 0.3,
     "managementFee": 0.12
   },
   "15231": {
@@ -2577,7 +2572,7 @@
   "15235": {
     "inceptionDate": "Sep 02, 2026",
     "expenseRatio": 0.29,
-    "managementFee": 0.028
+    "managementFee": 0.13
   },
   "15236": {
     "inceptionDate": "Sep 07, 2026",
@@ -2611,12 +2606,12 @@
   },
   "15243": {
     "inceptionDate": "Sep 16, 2026",
-    "expenseRatio": 0.38,
+    "expenseRatio": 0.37,
     "managementFee": 0
   },
   "15244": {
     "inceptionDate": "Sep 11, 2026",
-    "expenseRatio": 2.56,
+    "expenseRatio": 2.57,
     "managementFee": 1.5
   },
   "15245": {
@@ -2636,7 +2631,7 @@
   },
   "15249": {
     "inceptionDate": "Sep 18, 2026",
-    "expenseRatio": 0.33,
+    "expenseRatio": 0.35,
     "managementFee": 0
   },
   "15250": {
@@ -2661,7 +2656,7 @@
   },
   "15255": {
     "inceptionDate": "Sep 29, 2026",
-    "expenseRatio": 2.28,
+    "expenseRatio": 2.92,
     "managementFee": 1.75
   },
   "15256": {
@@ -2681,18 +2676,18 @@
   },
   "15261": {
     "inceptionDate": "Oct 07, 2026",
-    "expenseRatio": 9.03,
+    "expenseRatio": 8.72,
     "managementFee": 3
   },
   "15262": {
     "inceptionDate": "Oct 08, 2026",
-    "expenseRatio": 1.9,
+    "expenseRatio": 1.93,
     "managementFee": 1.5
   },
   "15263": {
     "inceptionDate": "Oct 08, 2026",
-    "expenseRatio": 0.58,
-    "managementFee": 0.38
+    "expenseRatio": 0.61,
+    "managementFee": 0.4
   },
   "15264": {
     "inceptionDate": "Oct 12, 2026",
@@ -2711,17 +2706,17 @@
   },
   "15267": {
     "inceptionDate": "Oct 15, 2026",
-    "expenseRatio": 7.75,
+    "expenseRatio": 2.16,
     "managementFee": 0
   },
   "15268": {
     "inceptionDate": "Oct 15, 2026",
-    "expenseRatio": 0.34,
+    "expenseRatio": 0.32,
     "managementFee": 0
   },
   "15269": {
     "inceptionDate": "Oct 15, 2026",
-    "expenseRatio": 1.37,
+    "expenseRatio": 1.45,
     "managementFee": 0
   },
   "15270": {
@@ -2731,7 +2726,7 @@
   },
   "15271": {
     "inceptionDate": "Oct 14, 2026",
-    "expenseRatio": 0.15,
+    "expenseRatio": 0.17,
     "managementFee": 0
   },
   "15272": {
@@ -2746,7 +2741,7 @@
   },
   "15274": {
     "inceptionDate": "Oct 20, 2026",
-    "expenseRatio": 0.18,
+    "expenseRatio": 0.17,
     "managementFee": 0.03
   },
   "15275": {
@@ -2781,7 +2776,7 @@
   },
   "15281": {
     "inceptionDate": "Oct 30, 2026",
-    "expenseRatio": 0.25,
+    "expenseRatio": 0.24,
     "managementFee": 0
   },
   "15282": {
@@ -2806,22 +2801,22 @@
   },
   "15286": {
     "inceptionDate": "Nov 04, 2026",
-    "expenseRatio": 0,
-    "managementFee": 0
+    "expenseRatio": 0.36,
+    "managementFee": 0.13
   },
   "15287": {
     "inceptionDate": "Nov 05, 2026",
-    "expenseRatio": 0,
-    "managementFee": 0
+    "expenseRatio": 0.18,
+    "managementFee": 0.03
   },
   "15288": {
     "inceptionDate": "Nov 03, 2026",
-    "expenseRatio": 0.23,
+    "expenseRatio": 0.22,
     "managementFee": 0
   },
   "15289": {
     "inceptionDate": "Nov 05, 2026",
-    "expenseRatio": 1.08,
+    "expenseRatio": 1.11,
     "managementFee": 1
   },
   "15290": {
@@ -2866,12 +2861,22 @@
   },
   "15298": {
     "inceptionDate": "Nov 06, 2026",
-    "expenseRatio": 1.84,
+    "expenseRatio": 1.6,
     "managementFee": 0
   },
   "15299": {
     "inceptionDate": "Nov 11, 2026",
+    "expenseRatio": 0.38,
+    "managementFee": 0
+  },
+  "15300": {
+    "inceptionDate": "Nov 11, 2026",
     "expenseRatio": 0,
+    "managementFee": 0
+  },
+  "15301": {
+    "inceptionDate": "Nov 09, 2026",
+    "expenseRatio": 0.01,
     "managementFee": 0
   }
 }
