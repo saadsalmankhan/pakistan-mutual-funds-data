@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-17T00:31:28.395Z",
+ "checkedAt": "2026-11-17T02:02:20.828Z",
  "sources": {
   "scstrade": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "psx": {
    "ok": true,
-   "detail": "closes for 2026-11-16"
+   "detail": "market still open on 2026-11-17: no close to compare yet"
   },
   "tradingview": {
    "ok": true,
@@ -18,42 +18,34 @@
   "KSE-100": {
    "latest": {
     "date": "2026-11-16",
-    "status": "confirmed",
+    "status": "single-source",
     "close": 178182.95,
     "sources": [
-     "psx",
-     "scstrade",
-     "tradingview"
+     "scstrade"
     ],
     "values": {
-     "scstrade": 178182.95,
-     "psx": 178182.95,
-     "tradingview": 178182.95
+     "scstrade": 178182.95
     },
     "spreadPct": 0
    },
-   "written": 1,
-   "singleSourceDays": 29
+   "written": 0,
+   "singleSourceDays": 30
   },
   "KMI-30": {
    "latest": {
     "date": "2026-11-16",
-    "status": "confirmed",
+    "status": "single-source",
     "close": 255677.34,
     "sources": [
-     "psx",
-     "scstrade",
-     "tradingview"
+     "scstrade"
     ],
     "values": {
-     "scstrade": 255677.34,
-     "psx": 255677.34,
-     "tradingview": 255677.35
+     "scstrade": 255677.34
     },
     "spreadPct": 0
    },
-   "written": 1,
-   "singleSourceDays": 29
+   "written": 0,
+   "singleSourceDays": 30
   }
  },
  "conflicts": []
