@@ -1,13 +1,13 @@
 {
- "checkedAt": "2026-11-17T02:02:20.828Z",
+ "checkedAt": "2026-11-17T23:43:52.699Z",
  "sources": {
   "scstrade": {
    "ok": true,
-   "detail": "60 closes 2026-10-03..2026-11-17"
+   "detail": "62 closes 2026-10-04..2026-11-18"
   },
   "psx": {
    "ok": true,
-   "detail": "market still open on 2026-11-17: no close to compare yet"
+   "detail": "closes for 2026-11-17"
   },
   "tradingview": {
    "ok": true,
@@ -17,34 +17,42 @@
  "indices": {
   "KSE-100": {
    "latest": {
-    "date": "2026-11-16",
-    "status": "single-source",
-    "close": 178182.95,
+    "date": "2026-11-17",
+    "status": "confirmed",
+    "close": 177517.73,
     "sources": [
-     "scstrade"
+     "psx",
+     "scstrade",
+     "tradingview"
     ],
     "values": {
-     "scstrade": 178182.95
+     "scstrade": 177517.73,
+     "psx": 177517.73,
+     "tradingview": 177517.74
     },
     "spreadPct": 0
    },
-   "written": 0,
+   "written": 1,
    "singleSourceDays": 30
   },
   "KMI-30": {
    "latest": {
-    "date": "2026-11-16",
-    "status": "single-source",
-    "close": 255677.34,
+    "date": "2026-11-17",
+    "status": "confirmed",
+    "close": 254385.85,
     "sources": [
-     "scstrade"
+     "psx",
+     "scstrade",
+     "tradingview"
     ],
     "values": {
-     "scstrade": 255677.34
+     "scstrade": 254385.85,
+     "psx": 254385.85,
+     "tradingview": 254385.85
     },
     "spreadPct": 0
    },
-   "written": 0,
+   "written": 1,
    "singleSourceDays": 30
   }
  },
